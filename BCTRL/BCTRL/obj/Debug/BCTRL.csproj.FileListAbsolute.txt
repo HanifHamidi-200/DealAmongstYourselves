@@ -1,0 +1,13 @@
+C:\Users\hanif\source\repos\BCTRL\BCTRL\bin\Debug\BCTRL.exe.config
+C:\Users\hanif\source\repos\BCTRL\BCTRL\bin\Debug\BCTRL.exe
+C:\Users\hanif\source\repos\BCTRL\BCTRL\bin\Debug\BCTRL.pdb
+C:\Users\hanif\source\repos\BCTRL\BCTRL\obj\Debug\BCTRL.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\BCTRL\BCTRL\obj\Debug\BCTRL.Form1.resources
+C:\Users\hanif\source\repos\BCTRL\BCTRL\obj\Debug\BCTRL.fSub1.resources
+C:\Users\hanif\source\repos\BCTRL\BCTRL\obj\Debug\BCTRL.fSub2.resources
+C:\Users\hanif\source\repos\BCTRL\BCTRL\obj\Debug\BCTRL.fSub3.resources
+C:\Users\hanif\source\repos\BCTRL\BCTRL\obj\Debug\BCTRL.Properties.Resources.resources
+C:\Users\hanif\source\repos\BCTRL\BCTRL\obj\Debug\BCTRL.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\BCTRL\BCTRL\obj\Debug\BCTRL.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\BCTRL\BCTRL\obj\Debug\BCTRL.exe
+C:\Users\hanif\source\repos\BCTRL\BCTRL\obj\Debug\BCTRL.pdb

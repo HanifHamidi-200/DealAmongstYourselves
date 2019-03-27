@@ -1,0 +1,13 @@
+C:\Users\hanif\Desktop\restconduct\ORGANW\bin\Debug\ORGANW.exe.config
+C:\Users\hanif\Desktop\restconduct\ORGANW\bin\Debug\ORGANW.exe
+C:\Users\hanif\Desktop\restconduct\ORGANW\bin\Debug\ORGANW.pdb
+C:\Users\hanif\Desktop\restconduct\ORGANW\obj\Debug\ORGANW.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\restconduct\ORGANW\obj\Debug\ORGANW.Form1.resources
+C:\Users\hanif\Desktop\restconduct\ORGANW\obj\Debug\ORGANW.fSub1.resources
+C:\Users\hanif\Desktop\restconduct\ORGANW\obj\Debug\ORGANW.fSub2.resources
+C:\Users\hanif\Desktop\restconduct\ORGANW\obj\Debug\ORGANW.fSub3.resources
+C:\Users\hanif\Desktop\restconduct\ORGANW\obj\Debug\ORGANW.Properties.Resources.resources
+C:\Users\hanif\Desktop\restconduct\ORGANW\obj\Debug\ORGANW.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\restconduct\ORGANW\obj\Debug\ORGANW.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\restconduct\ORGANW\obj\Debug\ORGANW.exe
+C:\Users\hanif\Desktop\restconduct\ORGANW\obj\Debug\ORGANW.pdb

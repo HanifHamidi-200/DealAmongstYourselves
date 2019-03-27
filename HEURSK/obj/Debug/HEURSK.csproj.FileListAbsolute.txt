@@ -1,0 +1,10 @@
+C:\Users\hanif\source\LibraryADF4\HEURSK\bin\Debug\HEURSK.exe.config
+C:\Users\hanif\source\LibraryADF4\HEURSK\bin\Debug\HEURSK.exe
+C:\Users\hanif\source\LibraryADF4\HEURSK\bin\Debug\HEURSK.pdb
+C:\Users\hanif\source\LibraryADF4\HEURSK\obj\Debug\HEURSK.csprojAssemblyReference.cache
+C:\Users\hanif\source\LibraryADF4\HEURSK\obj\Debug\HEURSK.Form1.resources
+C:\Users\hanif\source\LibraryADF4\HEURSK\obj\Debug\HEURSK.Properties.Resources.resources
+C:\Users\hanif\source\LibraryADF4\HEURSK\obj\Debug\HEURSK.csproj.GenerateResource.cache
+C:\Users\hanif\source\LibraryADF4\HEURSK\obj\Debug\HEURSK.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\LibraryADF4\HEURSK\obj\Debug\HEURSK.exe
+C:\Users\hanif\source\LibraryADF4\HEURSK\obj\Debug\HEURSK.pdb

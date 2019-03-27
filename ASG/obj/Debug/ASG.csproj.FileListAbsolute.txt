@@ -1,0 +1,10 @@
+C:\Users\hanif\Desktop\restconduct\ASG\bin\Debug\ASG.exe.config
+C:\Users\hanif\Desktop\restconduct\ASG\bin\Debug\ASG.exe
+C:\Users\hanif\Desktop\restconduct\ASG\bin\Debug\ASG.pdb
+C:\Users\hanif\Desktop\restconduct\ASG\obj\Debug\ASG.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\restconduct\ASG\obj\Debug\ASG.Form1.resources
+C:\Users\hanif\Desktop\restconduct\ASG\obj\Debug\ASG.Properties.Resources.resources
+C:\Users\hanif\Desktop\restconduct\ASG\obj\Debug\ASG.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\restconduct\ASG\obj\Debug\ASG.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\restconduct\ASG\obj\Debug\ASG.exe
+C:\Users\hanif\Desktop\restconduct\ASG\obj\Debug\ASG.pdb

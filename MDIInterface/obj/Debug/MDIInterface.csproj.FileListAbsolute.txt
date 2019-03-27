@@ -1,0 +1,11 @@
+C:\Users\hanif\source\repos\MDIInterface\bin\Debug\MDIInterface.exe.config
+C:\Users\hanif\source\repos\MDIInterface\bin\Debug\MDIInterface.exe
+C:\Users\hanif\source\repos\MDIInterface\bin\Debug\MDIInterface.pdb
+C:\Users\hanif\source\repos\MDIInterface\obj\Debug\MDIInterface.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\MDIInterface\obj\Debug\MDIInterface.fMenu.resources
+C:\Users\hanif\source\repos\MDIInterface\obj\Debug\MDIInterface.Form1.resources
+C:\Users\hanif\source\repos\MDIInterface\obj\Debug\MDIInterface.Properties.Resources.resources
+C:\Users\hanif\source\repos\MDIInterface\obj\Debug\MDIInterface.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\MDIInterface\obj\Debug\MDIInterface.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\MDIInterface\obj\Debug\MDIInterface.exe
+C:\Users\hanif\source\repos\MDIInterface\obj\Debug\MDIInterface.pdb

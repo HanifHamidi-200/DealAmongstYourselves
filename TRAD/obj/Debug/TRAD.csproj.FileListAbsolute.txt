@@ -1,0 +1,10 @@
+C:\Users\hanif\source\LibraryADF4\TRAD\bin\Debug\TRAD.exe.config
+C:\Users\hanif\source\LibraryADF4\TRAD\bin\Debug\TRAD.exe
+C:\Users\hanif\source\LibraryADF4\TRAD\bin\Debug\TRAD.pdb
+C:\Users\hanif\source\LibraryADF4\TRAD\obj\Debug\TRAD.csprojAssemblyReference.cache
+C:\Users\hanif\source\LibraryADF4\TRAD\obj\Debug\TRAD.Form1.resources
+C:\Users\hanif\source\LibraryADF4\TRAD\obj\Debug\TRAD.Properties.Resources.resources
+C:\Users\hanif\source\LibraryADF4\TRAD\obj\Debug\TRAD.csproj.GenerateResource.cache
+C:\Users\hanif\source\LibraryADF4\TRAD\obj\Debug\TRAD.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\LibraryADF4\TRAD\obj\Debug\TRAD.exe
+C:\Users\hanif\source\LibraryADF4\TRAD\obj\Debug\TRAD.pdb

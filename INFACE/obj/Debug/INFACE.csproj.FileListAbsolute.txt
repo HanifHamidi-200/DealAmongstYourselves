@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\INFACE\bin\Debug\INFACE.exe.config
+C:\Users\hanif\source\repos\INFACE\bin\Debug\INFACE.exe
+C:\Users\hanif\source\repos\INFACE\bin\Debug\INFACE.pdb
+C:\Users\hanif\source\repos\INFACE\obj\Debug\INFACE.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\INFACE\obj\Debug\INFACE.Form1.resources
+C:\Users\hanif\source\repos\INFACE\obj\Debug\INFACE.Properties.Resources.resources
+C:\Users\hanif\source\repos\INFACE\obj\Debug\INFACE.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\INFACE\obj\Debug\INFACE.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\INFACE\obj\Debug\INFACE.exe
+C:\Users\hanif\source\repos\INFACE\obj\Debug\INFACE.pdb

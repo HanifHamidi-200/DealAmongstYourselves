@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\PLUMG\bin\Debug\PLUMG.exe.config
+C:\Users\hanif\source\repos\PLUMG\bin\Debug\PLUMG.exe
+C:\Users\hanif\source\repos\PLUMG\bin\Debug\PLUMG.pdb
+C:\Users\hanif\source\repos\PLUMG\obj\Debug\PLUMG.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\PLUMG\obj\Debug\PLUMG.Form1.resources
+C:\Users\hanif\source\repos\PLUMG\obj\Debug\PLUMG.Properties.Resources.resources
+C:\Users\hanif\source\repos\PLUMG\obj\Debug\PLUMG.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\PLUMG\obj\Debug\PLUMG.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\PLUMG\obj\Debug\PLUMG.exe
+C:\Users\hanif\source\repos\PLUMG\obj\Debug\PLUMG.pdb

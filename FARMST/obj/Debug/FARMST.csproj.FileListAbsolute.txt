@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\FARMST\bin\Debug\FARMST.exe.config
+C:\Users\hanif\source\repos\FARMST\bin\Debug\FARMST.exe
+C:\Users\hanif\source\repos\FARMST\bin\Debug\FARMST.pdb
+C:\Users\hanif\source\repos\FARMST\obj\Debug\FARMST.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\FARMST\obj\Debug\FARMST.Form1.resources
+C:\Users\hanif\source\repos\FARMST\obj\Debug\FARMST.Properties.Resources.resources
+C:\Users\hanif\source\repos\FARMST\obj\Debug\FARMST.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\FARMST\obj\Debug\FARMST.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\FARMST\obj\Debug\FARMST.exe
+C:\Users\hanif\source\repos\FARMST\obj\Debug\FARMST.pdb

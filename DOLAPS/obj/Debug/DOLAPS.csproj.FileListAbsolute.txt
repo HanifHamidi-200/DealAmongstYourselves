@@ -1,0 +1,17 @@
+C:\Users\hanif\source\repos\DOLAPS\bin\Debug\DOLAPS.exe.config
+C:\Users\hanif\source\repos\DOLAPS\bin\Debug\DOLAPS.exe
+C:\Users\hanif\source\repos\DOLAPS\bin\Debug\DOLAPS.pdb
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.Form1.resources
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.Properties.Resources.resources
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.exe
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.pdb
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.fSub1.resources
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.fSub2.resources
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.fSub3.resources
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.fSub4.resources
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.fDSub1.resources
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.fDSub2.resources
+C:\Users\hanif\source\repos\DOLAPS\obj\Debug\DOLAPS.fDSub3.resources

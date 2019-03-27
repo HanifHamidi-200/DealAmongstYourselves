@@ -1,0 +1,12 @@
+C:\Users\hanif\Desktop\Instinct\PROGC\bin\Debug\PROGC.exe.config
+C:\Users\hanif\Desktop\Instinct\PROGC\bin\Debug\PROGC.exe
+C:\Users\hanif\Desktop\Instinct\PROGC\bin\Debug\PROGC.pdb
+C:\Users\hanif\Desktop\Instinct\PROGC\obj\Debug\PROGC.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\Instinct\PROGC\obj\Debug\PROGC.Form1.resources
+C:\Users\hanif\Desktop\Instinct\PROGC\obj\Debug\PROGC.fSub1.resources
+C:\Users\hanif\Desktop\Instinct\PROGC\obj\Debug\PROGC.fSub2.resources
+C:\Users\hanif\Desktop\Instinct\PROGC\obj\Debug\PROGC.Properties.Resources.resources
+C:\Users\hanif\Desktop\Instinct\PROGC\obj\Debug\PROGC.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\Instinct\PROGC\obj\Debug\PROGC.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\Instinct\PROGC\obj\Debug\PROGC.exe
+C:\Users\hanif\Desktop\Instinct\PROGC\obj\Debug\PROGC.pdb

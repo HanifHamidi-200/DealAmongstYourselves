@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\CHESNK\bin\Debug\CHESNK.exe.config
+C:\Users\hanif\source\repos\CHESNK\bin\Debug\CHESNK.exe
+C:\Users\hanif\source\repos\CHESNK\bin\Debug\CHESNK.pdb
+C:\Users\hanif\source\repos\CHESNK\obj\Debug\CHESNK.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\CHESNK\obj\Debug\CHESNK.Form1.resources
+C:\Users\hanif\source\repos\CHESNK\obj\Debug\CHESNK.Properties.Resources.resources
+C:\Users\hanif\source\repos\CHESNK\obj\Debug\CHESNK.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CHESNK\obj\Debug\CHESNK.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CHESNK\obj\Debug\CHESNK.exe
+C:\Users\hanif\source\repos\CHESNK\obj\Debug\CHESNK.pdb

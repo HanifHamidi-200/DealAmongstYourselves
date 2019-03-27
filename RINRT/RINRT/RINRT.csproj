@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CF6A2778-1D6F-4B25-8DB4-523AF1F113A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RINRT</RootNamespace>
+    <AssemblyName>RINRT</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fFormname.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fFormname.Designer.cs">
+      <DependentUpon>fFormname.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fSub1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSub1.Designer.cs">
+      <DependentUpon>fSub1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fSub2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSub2.Designer.cs">
+      <DependentUpon>fSub2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fSub3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSub3.Designer.cs">
+      <DependentUpon>fSub3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fSub4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSub4.Designer.cs">
+      <DependentUpon>fSub4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fFormname.resx">
+      <DependentUpon>fFormname.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSub1.resx">
+      <DependentUpon>fSub1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSub2.resx">
+      <DependentUpon>fSub2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSub3.resx">
+      <DependentUpon>fSub3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSub4.resx">
+      <DependentUpon>fSub4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="icons1\F A1.png" />
+    <Content Include="icons1\F A2.png" />
+    <Content Include="icons1\F A3.png" />
+    <Content Include="icons1\F A4.png" />
+    <Content Include="icons1\F A5.png" />
+    <Content Include="icons1\F A6.png" />
+    <Content Include="icons1\F A7.png" />
+    <Content Include="icons1\F A8.png" />
+    <Content Include="icons1\F B1.png" />
+    <Content Include="icons1\F B10.png" />
+    <Content Include="icons1\F B11.png" />
+    <Content Include="icons1\F B12.png" />
+    <Content Include="icons1\F B13.png" />
+    <Content Include="icons1\F B2.png" />
+    <Content Include="icons1\F B3.png" />
+    <Content Include="icons1\F B4.png" />
+    <Content Include="icons1\F B5.png" />
+    <Content Include="icons1\F B6.png" />
+    <Content Include="icons1\F B7.png" />
+    <Content Include="icons1\F B8.png" />
+    <Content Include="icons1\F B9.png" />
+    <Content Include="icons1\F C1.png" />
+    <Content Include="icons1\F C2.png" />
+    <Content Include="icons1\F C3.png" />
+    <Content Include="icons1\F C4.png" />
+    <Content Include="icons1\F C5.png" />
+    <Content Include="icons1\F C6.png" />
+    <Content Include="icons1\F category1.png" />
+    <Content Include="icons1\F category2.png" />
+    <Content Include="icons1\F category3.png" />
+    <Content Include="icons1\F category4.png" />
+    <Content Include="icons1\F D1.png" />
+    <Content Include="icons1\F D2.png" />
+    <Content Include="icons1\F D3.png" />
+    <Content Include="icons1\F D4.png" />
+    <Content Include="icons1\F D5.png" />
+    <Content Include="icons1\F D6.png" />
+    <Content Include="icons1\F NullGate.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

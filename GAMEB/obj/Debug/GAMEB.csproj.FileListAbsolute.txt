@@ -1,0 +1,16 @@
+C:\Users\hanif\source\repos\GAMEB\bin\Debug\GAMEB.exe.config
+C:\Users\hanif\source\repos\GAMEB\bin\Debug\GAMEB.exe
+C:\Users\hanif\source\repos\GAMEB\bin\Debug\GAMEB.pdb
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.fGSub1.resources
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.fGSub2.resources
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.fGSub3.resources
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.Form1.resources
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.fSub1.resources
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.fSub2.resources
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.fSub3.resources
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.Properties.Resources.resources
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.exe
+C:\Users\hanif\source\repos\GAMEB\obj\Debug\GAMEB.pdb

@@ -1,0 +1,2535 @@
+ARBC800
+844
+now
+فد چم يوم
+a few days
+now
+مضيف
+A host
+now
+هوايه
+a lot(many,much)
+now
+عن
+about
+now
+جزيل
+Abundantly/A lot
+now
+انقبل
+accepted
+now
+حادثة
+accident
+now
+حسبت
+Accounted
+now
+ممثل/ممثلة
+Actor/Actress
+now
+عنوان
+address
+now
+نصيحة
+advice
+now
+خايفة
+afraid
+now
+وراما
+After
+now
+بعد/عگب باچر
+After tomorrow
+now
+عمر
+Age
+now
+وافقت
+Agreed/Accepted
+now
+قابل
+agreeing (context word)
+now
+زراعي
+agriculture
+now
+تبريد
+Air conditioner
+now
+مدينة الالعاب
+Amusement Park
+now
+مزعج
+Annoying
+now
+شخص ثاني
+Another person/Second person
+now
+جواب
+answer
+now
+على كل حال
+anyway
+now
+شقة
+apartment
+now
+مشمش
+Apricot
+now
+منطقة/مناطق
+Area(s)
+now
+داير مداير
+Around
+now
+علئ الأقل
+At least
+now
+متوفر
+Available
+now
+متوفرة
+available
+now
+خلف
+back (backseat)
+now
+سوء
+bad
+now
+شر
+Bad
+now
+قالب
+Bar (soap,etc.)
+now
+قاعدة
+base
+now
+حمام
+bathroom
+now
+شط
+beach
+now
+چرابي
+Bed
+now
+غرف نوم
+Bedrooms
+now
+قبل/گبل ما
+Before I
+now
+أولة البارحة
+Before yesterday
+now
+صدگي
+believe me
+now
+بطن
+Belly
+now
+احسن
+better
+now
+بين
+between
+now
+اكبر
+bigger
+now
+حساب
+Bill
+now
+اشكر
+Blonde
+now
+اغوش
+Blurry/Fuzzy (appearance of something/vision)
+now
+القنبلة
+bomb
+now
+محجوزة
+Booked
+now
+حدور
+Border
+now
+والد
+born
+now
+مدير
+boss
+now
+صندوگ/صنادگ(p)
+Box
+now
+صندوق
+Box/Trunk
+now
+ملاكمة
+boxing
+now
+فرع
+branch (street)
+now
+فطور=ريوگ
+Breakfast
+now
+جسر/جسور
+Bridge(s)
+now
+أجيب
+Bring
+now
+كسر
+broke
+now
+خربت
+broken
+now
+دلال
+Broker
+now
+اخ
+Brother
+now
+اخوة
+Brothers
+now
+بناية
+Building
+now
+جملة
+Bulk (quantity)/Sentence
+now
+لكن
+But
+now
+على فكرة
+By the way
+now
+حاسبة
+Calculator
+now
+خابرت/اتصلت
+Called
+now
+اجوني
+came to me
+now
+ما لحگت
+Can't catch up/Can't finish
+now
+ما نتحمل
+can't handle
+now
+بطيخ
+Cantaloupe
+now
+عاصمه
+Capital
+now
+شايل
+Carrying
+now
+نكد
+Cash
+now
+مگبرة
+cemetary
+now
+بالتآ كيد
+certainly
+now
+امرچ
+certainly (whatever you say)
+now
+الباقي
+change (the remaining)
+now
+غشاش
+Cheater
+now
+غش
+Cheating
+now
+طفل
+Child (MSA)
+now
+أولاد = جهال
+Children
+now
+اطفال
+Children (Younger/Smaller)
+now
+كنيسة
+Church
+now
+ضروف
+circumstances (situation)
+now
+فصحى
+Classical
+now
+زملاءك
+classmates
+now
+نظيف
+Clean
+now
+شاطر
+clever
+now
+شتوي
+closed (enclosed)
+now
+كلية
+College
+now
+عامية
+colloquial
+now
+امر
+command
+now
+امر
+Commander
+now
+اتصال
+communication
+now
+شركة
+Company
+now
+مناسفة
+Competition
+now
+استمر
+continue
+now
+ظل
+continue
+now
+ابقى گبل
+continue straight
+now
+عقد
+Contract
+now
+صح/صحيح
+Correct
+now
+يكلف
+cost you
+now
+بلد
+Country
+now
+دول
+country
+now
+مزدحم/ازدحام
+Crowded
+now
+خيار
+Cucumber
+now
+موعيب
+damn it
+now
+خطر
+dangerous
+now
+خطير
+Dangerous
+now
+ظلام
+Darkness
+now
+تاريخ
+date
+now
+تمر
+Date
+now
+نخلة/نحل (P)
+Date palm
+now
+الايام
+days
+now
+تفقنا
+Deal/agreement
+now
+يتأخر
+Delayed
+now
+لذيذ
+Delicious
+now
+قسم
+department
+now
+وصف
+Description
+now
+صحراء
+desert
+now
+مرعوبة
+desired (preferred)
+now
+فرك
+Difference
+now
+غير
+Different/Another
+now
+صعب
+Difficult
+now
+دينار
+dinar
+now
+عشا
+Dinner
+now
+وسك
+Dirty
+in 4 hours
+خصم
+discount
+in 4 hours
+تدري
+Do you know
+in 4 hours
+مزدوجة
+double
+in 4 hours
+مركز مدينة
+downtown
+in 4 hours
+سايق
+driver
+in 5 hours
+مخدرات
+drugs
+in 4 hours
+دمبگ
+drum
+in 4 hours
+يمعود
+dude
+in 5 hours
+باب الشرجي
+Eastern gate (famous area in Baghdad)
+in 4 hours
+سهل
+easy
+
+كهرباء
+Electricity
+
+اجهزة الكترونيه
+electronic device
+
+مصعد
+elevator
+
+فارغ
+empty
+
+ايد من ورا و ايد من گدام
+Empty handed
+
+اتونس
+Enjoy
+
+إقامة سعيدة
+Enjoy your stay
+
+مدخل/مداخل
+Entrance(s)
+
+"خاصة
+especially
+
+"خصوصا
+especially
+
+جنسية
+ethnicity
+
+"جميعا
+every (MSA)
+
+بالضبط
+Exactly
+
+مخرچ
+exit (highway)
+
+تفجير
+explosions
+
+قماش
+Fabric
+
+رسب
+failure
+
+مزور
+fake
+
+مشهورة
+famous
+
+بعيد
+far
+
+كروة
+Fare (only for taxi/bus)
+
+فلاح
+Farmer
+
+اسرع
+fast
+
+والد
+Father (MSA)
+
+خدمة
+favor
+
+اجرة
+fee(fare,rate)
+
+سياج
+Fence
+
+خطيب
+fiance
+
+خطيبته
+fiance
+
+ميخالف
+fine(it doesn't matter)
+
+ينتهي
+Finish
+
+خلصت
+Finished
+
+اولى
+first
+
+درجة أولئ
+First class
+
+درجة اولى
+first class (airplane)
+
+طابق
+Floor
+
+طابق/طوابق
+Floor(s)
+
+ضابا
+foggy
+
+تسمم
+food poisoning
+
+تسمُّم
+Food poisoning
+
+مال
+for
+
+فد چم يوم
+For a few days
+
+ال خاطر
+for the sake of
+
+الك
+for you
+
+لخلطرچ
+For your sake
+
+لخاطرچ
+for your sake(f)
+
+اجنبي
+foreign
+
+تعداد
+Formation
+
+بصراحة
+frankly (speaking)
+
+بصراحة
+Frankly speaking
+
+تازة
+Fresh
+
+من
+from
+
+امام
+front
+
+مقبط
+Full
+
+قبط
+full (no vacancy)
+
+مقبط
+full (no vacancy)
+
+ونسة
+fun
+
+بانزين
+Gas
+
+بانزين خانه
+gas station
+
+كريم
+Generous
+
+اصعد
+get in (go up)
+
+انزل
+Get out/Go down
+
+اوصلك
+give you a ride
+
+جام
+glass
+
+الله يرحمّه/يرحمها
+God have mercy on him/her
+
+الله ساعدك
+god help you
+
+الله يساعدك
+God help you
+
+الله ينطيك
+God will give you
+
+الله ينطيك العافية
+god will give you
+
+رايح
+Going
+
+حسن
+good
+
+خير
+Good
+
+خير
+good ( to wish good things on someone)
+
+حصلت
+Got
+
+معدلي
+GPA
+
+درجة
+grade
+
+تخرج
+graduation
+
+يونان
+Greece
+
+ضيف
+Guest
+
+ضيوف
+Guests
+
+شعر
+Hair
+
+ايد
+Hand
+
+تعامل
+handling (dealing)
+
+مفرح
+happy (joyful)
+
+فرصة سعيدة
+happy occasion
+
+صعب
+hard
+
+صارلي
+have been
+
+فحصني
+He checked me
+
+يسوق
+He drives
+
+ساق
+He drove
+
+دخل
+he entered
+
+راس
+head
+
+صحته
+health
+
+گلبي
+heart
+
+تدفءة
+heater
+
+تدفئة
+Heater
+
+ثگيلة
+heavy
+
+عبري
+Hebrew
+
+عالي
+high
+
+عالية
+high
+
+ثانوية
+high school
+
+مدرسة ثانوية
+High school
+
+طريق السريع
+highway
+
+عطلة/عُطل
+Holiday
+
+عطل
+holidays
+
+شرف
+honor
+
+ضيف (shadda over ya)
+host
+
+مضيف
+host (hostess)
+
+مضيوف
+Host/ess
+
+شعجب
+how come?
+
+شدعوة
+how expensive
+
+شلون حالتك/چ
+How is your situation
+
+رطب
+humid
+
+استعجل
+hurry up
+
+اتفق
+i agree
+
+گلبي مثل النار عليچ
+I am worried about you
+
+سويت زحمة عليك
+i burdened you (good thing)
+
+اخابرچ
+I call you
+
+استطيع
+I can (MSA)
+
+اّمر
+I command
+
+اعبر
+I cross
+
+آني ماشايفة
+I didn't see
+
+ما لحگت
+i don't have time ( i can't catch up)
+
+ما افهم
+i don't understand
+
+ماافهم
+I don't understand
+
+سقت
+i drove
+
+نسيت
+I forgot
+
+انطيك
+i give you
+
+اتخرج
+I graduate
+
+ياريت
+I hope (i wish)
+
+توني
+i just
+
+اتفقت
+I made a deal
+
+يعني
+i mean
+
+أحتاج
+I need
+
+دفعت
+i paid
+
+شفت
+i saw
+
+گضت
+I spent
+
+أظن
+I think
+
+اطن
+i think
+
+اعتقد
+I think
+
+عبالي
+I think
+
+عبالي
+I though
+
+ابالي
+i thought
+
+حاول
+i try
+
+اريد
+I want
+
+ولدت
+i was born
+
+فكرة
+idea
+
+غبي
+Idiot
+
+مفلس
+im broke
+
+"راسا
+immediately
+
+//فورا
+immediately
+
+مهمة
+important
+
+بسرعة
+in a hurry
+
+بيها/بيه
+In it
+
+بيه
+In me/To me
+
+علعمود
+in order to (in order to)
+
+بيكم
+in you
+
+مشمول
+included
+
+مفرد
+Individual
+
+معلومات
+Information
+
+جوه
+Inside
+
+جوه/داخل
+Inside
+
+داخل
+inside(msa)
+
+تفتيش
+inspection
+
+نقطة التفتيش
+inspection point
+
+نقطة تفتيش
+inspection point
+
+تعليمات
+instructions
+
+تقاطر
+intersection
+
+تقاطع
+intersection
+
+تعارف
+introduction
+
+عزيمة
+Invitation
+
+تنور
+Iraqi oven (traditional)
+
+الك
+is yours
+
+يكلّف
+It costs
+
+هو هناك
+it is there
+
+تعجبني
+it pleases me
+
+تعجبچ/ك
+It pleases you
+
+صار زمان ما شفناك
+It's been a long time since we've seen you
+
+بهذلة
+its a mess
+
+يخلص
+its finished
+
+ينتهي
+its finished
+
+بسيطة
+its no problem (its easy)
+
+مو بيدي
+its not in my hands
+
+التحقت
+joined
+
+تحقت
+joined
+
+مفتاح
+key
+
+ادگ
+knock
+
+بحيرة
+lake
+
+اخر
+Last
+
+تتأخر
+Late/Delayed
+
+مغاسر
+Latrine (washroom)
+
+اقل
+Least/few/minimum
+
+أجازة
+Leave
+
+اجازة
+leave (on leave)
+
+طالة
+leaving
+
+اقل
+less
+
+مستوى
+level
+
+درجة
+level(degree)
+
+چذاب
+Liar
+
+حياة
+life
+
+ضوة
+light
+
+ضوة
+light (iraqi)
+
+خط
+Line
+
+خطوط
+Lines
+
+قايمءة
+list
+
+ساكن
+living
+
+هول
+Living room
+
+صاير
+located
+
+صايرة
+Located
+
+زمان
+long time
+
+عاش مين شاف
+long time no see
+
+اخسر
+Lose
+
+ضايع
+Lost
+
+ناصي
+low
+
+حظ
+luck
+
+محظوظة
+lucky
+
+غدا
+Lunch
+
+چذب
+Lying/Lies
+
+رايع
+magnificent
+
+رئيسي
+Main (adj.=main & noun=my boss)
+
+مُضمد
+Male nurse
+
+رجال
+man
+
+مدير
+Manager
+
+لالنگي
+Mandarin
+
+خارطة
+Map
+
+سواگة
+Markets
+
+مدلگچي
+massage therapist
+
+ايار
+May
+
+الله يرحمه
+May god have mercy on them (when someone dies)
+
+دوا
+medicine
+
+اجتماع
+Meeting
+
+رحمة
+Mercy
+
+عداد
+meter(gauge)
+
+فكر
+mind
+
+وزير
+minister
+
+وزارة
+ministry
+
+دقايق
+minutes
+
+سيد
+Mister
+
+شهر
+Month
+
+اشهر
+Months
+
+جامع
+Mosque
+
+اكثر
+Most/many/maximum
+
+والدت
+Mother (MSA)
+
+جبل
+mountain
+
+متحف
+museum
+
+عيني
+my dear (my eye)
+
+هاتفي
+my phone (msa)
+
+رتبتي
+my rank
+
+غراضي
+My stuff
+
+أسناني
+My teeth
+
+طبيعة
+Nature
+
+گريب
+near
+
+اقرب
+nearest
+
+جار
+neighbor
+
+حي
+Neighborhood
+
+جيران
+neighbors
+
+"ابدا
+never
+
+ابداً
+Never
+
+اخبار
+news
+
+خبر
+news
+
+مو مشكلة
+No problem
+
+شمال
+north
+
+ماتصرف
+Not affordable
+
+ماشي الحال
+not bad (ok)
+
+ما يكفي
+Not enough
+
+ما يكفيني
+not enough
+
+مايكفيني
+Not enough for me
+
+موبيدي
+Not in my hand (Not in my control)
+
+ما صار شي
+nothing happened
+
+ماصار شي
+Nothing happened
+
+الان
+now (MSA)
+
+عدد
+number
+
+عدد
+number (MSA)
+
+ممرضة
+Nurse
+
+حصلت
+obtained
+
+مبين
+obvious
+
+فرصة
+occasion (opportunity)
+
+محيط
+ocean
+
+"طبعا
+of course
+
+قدم
+Offer/Serve/Present
+
+رسمية
+official
+
+رايسي
+official (main)
+
+تمام
+ok
+
+قديم
+old
+
+على
+on
+
+عالميز
+On the desk
+
+عالوكت
+on time
+
+لحظة
+one moment please
+
+فد مرة
+one time
+
+فقط
+only ( MSA)
+
+صيفي
+open (exposed)
+
+لو
+or
+
+بساتان
+orchard
+
+بستان
+orchard
+
+بسيان/بساتين (P)
+Orchard
+
+النا
+our
+
+عاطلة
+out of order (doesn't work)
+
+برة/خارج
+Outside
+
+صفحة
+page
+
+اوراق
+page (document)
+
+وجع
+pain
+
+نخلة
+palm
+
+پارك
+Park
+
+جزء
+Part
+
+حزب
+Party
+
+حفلة
+party
+
+راكب
+Passenger
+
+راكب/ركاب
+Passenger(s)
+
+فات
+Past
+
+ديربالك عليه
+pay me well
+
+ادفع
+Pay/Push
+
+ناس
+People
+
+نفس
+people
+
+مدة
+Period of
+
+احد
+person
+
+انسان
+Person
+
+مكالمة
+phone call
+
+مستعد
+Physically ready
+
+طرشي
+pickle
+
+لفه
+picnic
+
+المسدس
+pistol
+
+حطة
+plan
+
+خطة
+Plan
+
+آزرعك
+Plant for you
+
+زرعت
+Planted
+
+ما عون
+plate
+
+ماعون
+Plate
+
+مسرحية
+Play (theater)
+
+ملاعيب للجهال
+playground
+
+\\رجاء
+please
+
+رجاءً
+Please
+
+بدون زحمة
+please (idiom)
+
+نقطة
+point
+
+نكطة
+point
+
+مسبع
+Pool
+
+فقير
+poor
+
+شامية
+Popcorn
+
+تعداد
+population
+
+حمال
+porter
+
+حمال/حماميل
+Porter(s) [bellboy]
+
+حامل
+pregnant
+
+حاضر
+Present
+
+جاهز
+Present (here)
+
+رئيسئ
+President
+
+أحلن
+Prettier
+
+الأحلن
+Prettiest
+
+كروة
+price (fare, fee)
+
+مشكلة
+problem
+
+مشكلة/مشاكل
+Problem(s)
+
+مشاكل
+problems
+
+الاجراءات
+Procedures
+
+اسحب
+pull
+
+مطر
+rain
+
+تربت
+raised
+
+رابي
+Raised up
+
+رتبة
+Rank
+
+جاهز
+ready
+
+حاضر
+ready
+
+حاضرة
+ready
+
+معقولة
+Reasonable
+
+استقبل
+Receive
+
+موظف الاستقبال
+Receptionist
+
+عادية
+Regular
+
+باقي
+remaining
+
+ذكّر
+Remind
+
+حجز
+reservation
+
+محجوز
+Reserved
+
+مصيف
+resort
+
+متقاعد
+retired
+
+غني
+rich
+
+صحيح
+right
+
+بصف
+right beside
+
+بصف
+Right next to
+
+نهر
+river
+
+مسطرة
+ruler
+
+روسية
+Russia
+
+حزين
+sad
+
+مقهورة
+sad
+
+امين
+safe
+
+راتب
+Salary
+
+نفس
+same
+
+بحر
+sea
+
+مقعد
+seat (plane, car)
+
+ثانية
+Second
+
+درجة ثانية
+Second class
+
+ثواني
+seconds
+
+شعبه
+section
+
+نفس
+self (soul)
+
+جملة
+sentence
+
+خدمة
+service
+
+جابت
+she brought
+
+سفينة
+ship (boat)
+
+قندرة
+shoe
+
+حذاء/قندرة
+Shoes
+
+محل
+shop
+
+محلات
+shops
+
+مريض
+Sick
+
+اعزب
+single
+
+اخت
+Sister
+
+خوات
+Sisters
+
+گاعد
+sitting
+
+حال
+Situation
+
+بطي
+slow
+
+قليل
+small
+
+شاطر/شطار(p)
+Smart
+
+دخان
+smoke
+
+تهريب
+smuggled
+
+جنود
+soldiers
+
+بعض
+some
+
+بعض الأشياء
+Some things
+
+"قريبا
+soon
+
+حامض
+sour
+
+نومي حامض
+Sour lemon
+
+اختصاصي
+specialist
+
+رياضة
+sport
+
+گاعد
+Stand
+
+نجمة
+Star
+
+نجوم
+stars
+
+محطة
+station
+
+محطة
+station (train)
+
+باقي
+staying (remaining)
+
+معدة
+Stomach
+
+مخزن
+storage
+
+دكان
+store
+
+دكان/دكاكين
+Store(s) [small/mom & pop]
+
+الغربة
+strangers
+
+اشارة مرور
+street lights
+
+غراض
+Stuff
+
+محشي
+Stuffed
+
+زحمة
+Stuffy
+
+زحمة
+stuffy (air)
+
+غبي
+stupid (idiot)
+
+موضوع
+subject
+
+موضوع/مواضيع
+Subject(s)
+
+نجح
+succeed
+
+انجع
+success
+
+شكر
+sugar
+
+مناسب
+suitable (reasonable)
+
+مناسب
+Suitable/Reasonable
+
+جناح
+Suite
+
+الصيف
+summer
+
+مجهزة
+Supplied
+
+متآكد
+sure
+
+متأكّد
+Sure
+
+حلويات
+Sweet
+
+حليات
+sweet
+
+نومي حلو
+Sweet lemon
+
+مسبح
+swimming pool
+
+أودي/أخذ
+Take
+
+هاك
+take
+
+دير بالك
+take care
+
+ترتاح
+Take rest
+
+فريق
+Team
+
+گللي
+tell me
+
+الارهاب
+terrorism
+
+ارهابي
+terrorist
+
+امتحان
+test
+
+متحان
+test
+
+نسيج
+Textile
+
+تسام
+Thank you
+
+تسلم
+thank you
+
+شكراً جزيلاً
+Thanks a lot
+
+هذيچ\هذاك
+that
+
+هذيچ
+That (F)
+
+هذاك
+That (M)
+
+شدعوة
+That's too much
+
+الحساب
+the bill
+
+عگب باچر
+the day after tomorrow
+
+الاتفاق
+the deal
+
+نهاية
+the end
+
+مضيف (shadda over ya)
+the host
+
+الاخيرة
+The last
+
+بقية
+the rest
+
+الارهابيين
+the terrorists
+
+مواليد
+the year i was born
+
+مسرح
+Theater
+
+مسرح
+theatre
+
+رتبهم
+Their rank
+
+لعد
+Then
+
+اكو
+there is (there are)
+
+ماكو
+there isn't (there aren't)
+
+هذولة
+These
+
+هلايام
+these days
+
+تاخروا
+they are late
+
+يقدمون
+They present
+
+يقدمون
+they submit (present)
+
+يتربون
+They were raised
+
+ضيق
+thin
+
+هذي/هاي
+This (F)
+
+هذا
+This (M)
+
+هاذا
+this(that)
+
+هذولاك
+Those
+
+بطاقة
+ticket
+
+صار وكت
+times up
+
+تنك
+tin
+
+اقبل
+to accept
+
+قبل
+to accept
+
+احسب
+To account
+
+اقبل
+to agree
+
+اوافق
+To agree/accept
+
+اسمح
+to allow
+
+سمح
+to allow (permit)
+
+طلب
+To ask
+
+طلب من
+to ask for
+
+طلب
+to ask(demand, request)
+
+صلح
+to be good (food)
+
+اتاخر
+to be late (verb)
+
+تاخرتو
+to be late (verb)
+
+صبر
+to be patient
+
+رابي
+to be raised (grew up)
+
+صارل
+to become
+
+فيد
+to benefit
+
+أفرّش
+To brush
+
+خابر
+to call
+
+اشيل
+To carry
+
+حمل
+to carry (MSA)
+
+أغش
+To cheat
+
+ختار
+to choose
+
+نكمل
+to complete
+
+أكمل
+To complete/finish
+
+تاكد
+to confirm (affirm)
+
+احسب
+to count
+
+اعبر
+To cross
+
+عبر
+To cross
+
+اگص
+to cut
+
+اتفقت
+to deal (make a deal)
+
+أرسم
+To draw
+
+ارسم
+to draw
+
+احلم
+to dream
+
+افرغ
+to empty
+
+تونس
+to enjoy
+
+اصرف (shadda over ra)
+to exchange
+
+انفجر
+to explode
+
+صام
+to fast (ramadan)
+
+الگئ
+To find
+
+الگى
+to find
+
+لگى
+to find
+
+اخلص
+to finish
+
+خلص
+to finish
+
+اصعد
+To get in
+
+گام
+to get up (to sit)
+
+انطي
+to give
+
+زهب
+to go (MSA)
+
+نزل
+to go down
+
+اصعد
+to go up
+
+اكره
+to hate
+
+تونس
+to have fun
+
+اساعد
+to help
+
+الزم
+to hold (to catch)
+
+ضيّف
+To host
+
+اعزم
+To invite
+
+عزم
+to invite
+
+كتل
+to kill
+
+اندل
+to know (a location)
+
+اندل
+To know (location)
+
+اعوف
+to leave something (leaving my studies)
+
+اسمع
+to listen
+
+قفل
+to lock
+
+اخسر
+to lose (be defeated)
+
+ماشايفة
+to miss
+
+مشتاقة
+to miss
+
+حؤل
+to move
+
+ينرادلي
+to need
+
+حزب
+to party
+
+امرعلئ
+To pass by
+
+دفع
+to pay
+
+ادفع
+to pay (push)
+
+زرع
+To plant
+
+اسحب
+To pull
+
+حط
+to put
+
+أستلم
+To receive
+
+استقبل
+to receive
+
+اتذكر
+to remember
+
+تذكر
+to remember
+
+ذكر
+to remind
+
+صلح (shadda on lam)
+to repair
+
+اطلب
+to request
+
+حجز
+to reserve
+
+اركب
+To ride
+
+اركض
+To run
+
+دققها
+to scrutinize
+
+ادور
+to search
+
+ادوّرعلئ
+To search for
+
+ادور
+To search/seek
+
+قدم
+to serve
+
+يقدم
+to serve ( offer)
+
+تسوگ
+to shop
+
+دل
+to show (instructions)
+
+اگعد
+to sit
+
+اشتم
+to smell
+
+اصرف
+to spend
+
+اضل
+to stay
+
+اودي
+to take
+
+اظى
+to think
+
+يفكر
+to think (thinking)
+
+اتحول
+To transfer
+
+اتحول
+to transfer (change)
+
+ترجم
+to translate
+
+افتهم
+To understand
+
+فهم
+to understand
+
+أستعمل/أستخدم
+To use
+
+استخدم
+to use
+
+استعمل
+to use
+
+انتظر
+to wait
+
+امشي
+to walk
+
+أغسًّل
+To wash
+
+اتفرج
+to watch
+
+لبس
+to wear
+
+باچر
+Tomorrow
+
+هالليلة
+tonight
+
+مجموعي
+total
+
+افتريت
+tour
+
+سواح
+tourist
+
+محطة قطار
+Train station
+
+تدريب
+Training
+
+ترجمه
+translation
+
+مترجم
+translator
+
+سافر برة
+Travel abroad
+
+شجرة
+tree
+
+شجرة/أشجار (P)
+Tree
+
+توم
+Twins
+
+حزبين
+Two parties
+
+نوع
+Type/kind/brand
+
+قبيح
+ugly
+
+لحد
+until
+
+لحد الان
+until now
+
+لحدالان
+Until now
+
+فوك
+up
+
+مستخدمة
+used
+
+مستخدم/مستعمل
+Used (product)
+
+"عادة
+usually
+
+"وعادة
+usually
+
+فارغه
+Vacancy
+
+خظراوات
+vegetables
+
+"جزيلا
+very much
+
+ناءب
+vice
+
+منظر
+view
+
+العذراء
+virgin
+
+عذراء
+Virgin
+
+مريم العذراء
+Virgin Mary
+
+بوي
+waiter (bellboy)
+
+حرب
+war
+
+مغاسل
+washroom
+
+رگي
+watermelon
+
+رگّي
+Watermelon
+
+طريق
+Way
+
+جبنا هاالك
+We brought to you
+
+نجي
+We come back
+
+نتونس
+we enjoy
+
+دخلنا
+We entered
+
+دورنا
+we looked for
+
+نحتاج
+We need
+
+نزانا
+we went
+
+زواج
+Wedding
+
+عرس
+Wedding
+
+يعني
+well (um, uh)(in other words...)
+
+معروف
+well known
+
+معروف
+Well known (famous)
+
+غرب
+west
+
+شعبالك
+What do you think?
+
+شيصير
+What happens
+
+شديصير
+what is happening
+
+نتونس
+What we enjoy
+
+شبيك
+what you have (whats wrong with you)
+
+شبيك
+What's wrong with you?
+
+شگد ما تريد
+Whatever you want (expression)
+
+شبيچ
+whats wrong with you?
+
+شخبارچ
+Whats your news?
+
+لمن
+when
+
+لمن
+when (not question)
+
+اي مكان
+wherever
+
+وين ما نريد
+wherever you want
+
+شگد ما تريد
+whichever you want
+
+ءثناء
+while (during)
+
+شدعوة
+Why so expensive?
+
+عريض
+wide
+
+هوا
+windy
+
+على عيني
+with pleasure
+
+علي راسي
+with pleasure
+
+تدلل
+With pleasure (common)
+
+تأمر/تأمرين (F)
+With pleasure = Yes sir/ma'am
+
+بدون
+Without
+
+بلا
+without
+
+مرة
+woman
+
+كلمة
+Word
+
+عمل
+Work
+
+عالم
+World
+
+بدون زحمة
+Would you please (Idiom)
+
+غلط
+Wrong
+
+سنة/سنين
+Year(s)
+
+تامر
+yes sir
+
+البارحة
+Yesterday
+
+توصلني
+You deliver me
+
+صارلك
+you have been
+
+تعجبك
+you like ( it pleases you)
+
+عبالك
+You think
+
+زرتي
+you visited
+
+مكانك المفضّل
+Your favorite place
+
+هوايتك
+your hobby
+
+تسوى
+your worth
+

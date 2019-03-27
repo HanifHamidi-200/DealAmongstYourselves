@@ -1,0 +1,10 @@
+C:\Users\hanif\Desktop\restconduct\ARTD\bin\Debug\ARTD.exe.config
+C:\Users\hanif\Desktop\restconduct\ARTD\bin\Debug\ARTD.exe
+C:\Users\hanif\Desktop\restconduct\ARTD\bin\Debug\ARTD.pdb
+C:\Users\hanif\Desktop\restconduct\ARTD\obj\Debug\ARTD.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\restconduct\ARTD\obj\Debug\ARTD.Form1.resources
+C:\Users\hanif\Desktop\restconduct\ARTD\obj\Debug\ARTD.Properties.Resources.resources
+C:\Users\hanif\Desktop\restconduct\ARTD\obj\Debug\ARTD.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\restconduct\ARTD\obj\Debug\ARTD.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\restconduct\ARTD\obj\Debug\ARTD.exe
+C:\Users\hanif\Desktop\restconduct\ARTD\obj\Debug\ARTD.pdb

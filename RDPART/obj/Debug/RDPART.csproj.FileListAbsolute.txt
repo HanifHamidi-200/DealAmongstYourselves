@@ -1,0 +1,15 @@
+C:\Users\hanif\Desktop\restconduct\RDPART\bin\Debug\RDPART.exe.config
+C:\Users\hanif\Desktop\restconduct\RDPART\bin\Debug\RDPART.exe
+C:\Users\hanif\Desktop\restconduct\RDPART\bin\Debug\RDPART.pdb
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.Form1.resources
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.fSub1.resources
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.fSub2.resources
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.fSub3.resources
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.fSub4.resources
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.fSub5.resources
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.Properties.Resources.resources
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.exe
+C:\Users\hanif\Desktop\restconduct\RDPART\obj\Debug\RDPART.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanif\Desktop\restconduct\PTEAM\bin\Debug\PTEAM.exe.config
+C:\Users\hanif\Desktop\restconduct\PTEAM\bin\Debug\PTEAM.exe
+C:\Users\hanif\Desktop\restconduct\PTEAM\bin\Debug\PTEAM.pdb
+C:\Users\hanif\Desktop\restconduct\PTEAM\obj\Debug\PTEAM.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\restconduct\PTEAM\obj\Debug\PTEAM.Form1.resources
+C:\Users\hanif\Desktop\restconduct\PTEAM\obj\Debug\PTEAM.Properties.Resources.resources
+C:\Users\hanif\Desktop\restconduct\PTEAM\obj\Debug\PTEAM.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\restconduct\PTEAM\obj\Debug\PTEAM.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\restconduct\PTEAM\obj\Debug\PTEAM.exe
+C:\Users\hanif\Desktop\restconduct\PTEAM\obj\Debug\PTEAM.pdb

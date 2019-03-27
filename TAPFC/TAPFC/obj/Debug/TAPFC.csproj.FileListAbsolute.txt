@@ -1,0 +1,12 @@
+C:\Users\hanif\source\repos\TAPFC\TAPFC\bin\Debug\TAPFC.exe.config
+C:\Users\hanif\source\repos\TAPFC\TAPFC\bin\Debug\TAPFC.exe
+C:\Users\hanif\source\repos\TAPFC\TAPFC\bin\Debug\TAPFC.pdb
+C:\Users\hanif\source\repos\TAPFC\TAPFC\obj\Debug\TAPFC.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\TAPFC\TAPFC\obj\Debug\TAPFC.Form1.resources
+C:\Users\hanif\source\repos\TAPFC\TAPFC\obj\Debug\TAPFC.fSub1.resources
+C:\Users\hanif\source\repos\TAPFC\TAPFC\obj\Debug\TAPFC.fSub2.resources
+C:\Users\hanif\source\repos\TAPFC\TAPFC\obj\Debug\TAPFC.Properties.Resources.resources
+C:\Users\hanif\source\repos\TAPFC\TAPFC\obj\Debug\TAPFC.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\TAPFC\TAPFC\obj\Debug\TAPFC.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\TAPFC\TAPFC\obj\Debug\TAPFC.exe
+C:\Users\hanif\source\repos\TAPFC\TAPFC\obj\Debug\TAPFC.pdb

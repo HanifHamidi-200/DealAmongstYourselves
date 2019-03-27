@@ -1,0 +1,16 @@
+C:\Users\hanif\source\repos\FTRIB\FTRIB\bin\Debug\FTRIB.exe.config
+C:\Users\hanif\source\repos\FTRIB\FTRIB\bin\Debug\FTRIB.exe
+C:\Users\hanif\source\repos\FTRIB\FTRIB\bin\Debug\FTRIB.pdb
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.Form1.resources
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.fSub1.resources
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.fSub2.resources
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.fSub3.resources
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.fSub4.resources
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.fSub5.resources
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.fSub6.resources
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.Properties.Resources.resources
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.exe
+C:\Users\hanif\source\repos\FTRIB\FTRIB\obj\Debug\FTRIB.pdb

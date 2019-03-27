@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\FOGGIS\bin\Debug\FOGGIS.exe.config
+C:\Users\hanif\source\repos\FOGGIS\bin\Debug\FOGGIS.exe
+C:\Users\hanif\source\repos\FOGGIS\bin\Debug\FOGGIS.pdb
+C:\Users\hanif\source\repos\FOGGIS\obj\Debug\FOGGIS.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\FOGGIS\obj\Debug\FOGGIS.Form1.resources
+C:\Users\hanif\source\repos\FOGGIS\obj\Debug\FOGGIS.Properties.Resources.resources
+C:\Users\hanif\source\repos\FOGGIS\obj\Debug\FOGGIS.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\FOGGIS\obj\Debug\FOGGIS.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\FOGGIS\obj\Debug\FOGGIS.exe
+C:\Users\hanif\source\repos\FOGGIS\obj\Debug\FOGGIS.pdb

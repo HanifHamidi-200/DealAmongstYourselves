@@ -1,0 +1,752 @@
+Japanese250
+250
+now
+いる
+to be (person)
+now
+ある
+to be (object)
+now
+もつ
+to have
+now
+する
+to do
+now
+つくる
+to make
+now
+できる
+to be able to (can)
+now
+いう
+to say/tell
+now
+いく
+to go
+now
+みる
+to see
+now
+あげる
+to give (speaker is giving, informal)
+now
+たべる
+to eat
+now
+しる
+to know (info)
+now
+ほしい
+to want
+now
+くる
+to arrive
+now
+あいする
+to love
+now
+つける
+to put on
+now
+おく
+to place
+now
+しんじる
+to believe
+now
+はなす
+to speak/talk
+now
+よむ
+to read
+now
+ねる
+to sleep
+now
+りかいする
+to understand
+now
+みつける
+to find
+now
+よぶ
+to call (not phone)
+now
+くる 
+to come
+now
+はこぶ
+to carry (as in transport)
+now
+きる
+to wear (clothes)
+now
+たつ
+to leave (as in departure)
+now
+あける
+to open
+now
+いきる
+to live
+now
+もってくる
+to bring
+now
+かく
+to write
+now
+おもう
+to think
+now
+さがす
+to look for
+now
+とる
+to take
+now
+あるく
+to walk
+now
+はしる
+to run
+now
+いる
+to need
+now
+まける
+to lose (v. to win)
+now
+おどる
+to dance
+now
+かう
+to buy
+now
+こたえる
+to answer
+now
+たずねる
+to ask
+now
+とじる
+to close
+now
+はたらく
+to work
+now
+はじめる
+to begin
+now
+べんきょうする
+to study
+now
+たずねる
+to ask for
+now
+ちゅうもんする
+to order (a product)
+now
+うたう
+to sing
+now
+あそぶ
+to play (as in have fun)
+now
+したがう
+to obey
+now
+つづける
+to continue
+now
+しょうもうする
+to wear (as in wear out)
+now
+はらう
+to pay
+now
+しっている
+to know (personally)
+now
+まなぶ
+to learn
+now
+きく
+to listen to
+now
+きこえる
+to hear / to be heard
+now
+のぼる
+to go up (as in climbing)
+
+うる
+to sell
+
+りょこうする
+to travel
+
+かえる
+to change
+
+せつめいする
+to explain
+
+おえる
+to finish
+
+このむ
+to prefer
+
+しぬ
+to die
+
+このむ
+to like (please)
+
+かんじる
+to feel
+
+のむ
+to drink
+
+りょうりする
+to cook
+
+ちょうしょくをたべる
+to eat breakfast
+
+ゆうしょくをたべる
+to eat dinner
+
+ちゅうしょくをたべる
+to eat lunch
+
+みる
+to look at
+
+みる
+to watch
+
+うけとる
+to receive
+
+とりだす
+to take out (not food)
+
+かぞえる
+to count
+
+えんそうする
+to play (instrument)
+
+える
+to get
+
+かつ
+to win
+
+かせぐ
+to earn (money)
+
+ほうもんする
+to visit
+
+をまつ
+to wait for
+
+たすける
+to help / rescue
+
+おもいだす
+to remember
+
+ほっする
+to desire
+
+れんしゅうする
+to practice (as in to get better)
+
+きれいにする
+to clean
+
+おくる
+to send
+
+とどける
+to deliver
+
+くりかえす
+to repeat
+
+もどす
+to return (an item, etc.)
+
+びょうきになる
+to get sick
+
+からだをあらう
+to wash oneself
+
+ふくをきる
+to get dressed
+
+きゅうけいする
+to break (as in take a break)
+
+おふろにはいる
+to bathe (oneself)
+
+やく 
+to burn
+
+おしえる
+to teach
+
+おきる
+to get up (as in the morning)
+
+あう
+to meet
+
+きめる
+to decide
+
+わすれる
+to forget
+
+およぐ
+to swim
+
+しょうたいする
+to invite
+
+はじめる
+to start
+
+にある
+to be located at/in
+
+のこす
+to leave something or someone
+
+おちる
+to fall down
+
+おきる
+to happen
+
+はいる
+to enter
+
+ひく
+to draw
+
+うんてんする
+to drive (a car)
+
+なおす
+to fix
+
+おりる
+to go down
+
+さげる
+to lower
+
+うつ
+to hit
+
+はねる
+to jump
+
+たもつ
+to keep
+
+いじする
+to maintain
+
+つかう
+to use
+
+かす
+to loan
+
+ためす
+to try
+
+います
+There is (person)
+
+あります
+There is (object)
+
+もってます
+have
+
+します
+do
+
+つくります
+make
+
+できます
+can
+
+いいます
+say
+
+いきます
+go
+
+みます
+see
+
+あげます
+give
+
+たべます
+eat
+
+しっています
+know
+
+ほしいです
+want
+
+きます
+arrive
+
+あいします
+love
+
+つけます
+put on
+
+おきます
+place
+
+しんじます
+believe
+
+はなします
+speak
+
+よみます
+read
+
+ねます
+sleep
+
+りかいします
+understand
+
+みつけます
+find
+
+よびます
+call
+
+きます
+come
+
+はこびます
+carry (as in transport)
+
+きます
+wear (clothes)
+
+たちます
+leave (as in departure)
+
+あけます
+Open
+
+いきます
+live
+
+もってきます
+bring
+
+かきます
+write
+
+おもいます
+think
+
+さがします
+look for
+
+とります
+take
+
+あるきます
+walk
+
+はしります
+run
+
+いります
+need
+
+まけます
+lose (v. win)
+
+おどります
+dance
+
+かいます
+buy
+
+こたえます
+answer
+
+たずねます
+ask
+
+とじます
+close
+
+はたらきます
+work
+
+はじめます
+begin
+
+べんきょうします
+study
+
+たずねます
+ask for
+
+ちゅうもんします
+order (a product)
+
+うたいます
+Sing
+
+あそびます
+play (as in have fun)
+
+したがいます
+obey
+
+つづけます
+continue
+
+しょうもうします
+wear (as in wear out)
+
+はらいます
+pay
+
+しっています
+know (personally)
+
+まなびます
+learn
+
+ききます
+listen to
+
+きこえます
+hear
+
+のぼります
+go up (as in climbing)
+
+うります
+Sell
+
+りょこうします
+travel
+
+かえます
+change
+
+せつめいします
+explain
+
+おえます
+finish
+
+このみます
+prefer
+
+しにます
+die
+
+このみます
+like (please)
+
+かんじます
+feel
+
+のみます
+drink
+
+りょうりします
+cook
+
+ちょうしょくをたべます
+eat breakfast
+
+ゆうしょくをたべます
+eat dinner
+
+ちゅうしょくをたべます
+eat lunch
+
+みます
+look at
+
+みます
+watch
+
+うけとります
+receive
+
+とりだします
+take out (not food)
+
+かぞえます
+count
+
+えんそうします
+play (instrument)
+
+えます
+get
+
+かちます
+win
+
+かせぎます
+earn (money)
+
+ほうもんします
+visit
+
+をまちます
+wait for
+
+たすけます
+help
+
+おもいだします
+remember
+
+ほっします
+desire
+
+れんしゅうします
+practice (as in get better)
+
+きれいにします
+clean
+
+おくります
+send
+
+とどけます
+deliver
+
+くりかえします
+repeat
+
+もどします
+return (an item, etc.)
+
+びょうきになります
+get sick
+
+からだをあらいます
+wash oneself
+
+ふくをきます
+get dressed
+
+きゅうけいします
+break (as in take a break)
+
+おふろにはいります
+bathe (oneself)
+
+やきます
+burn
+
+おしえます
+teach
+
+おきます
+get up (as in the morning)
+
+あいます
+meet
+
+きめます
+decide
+
+わすれます
+Forget
+
+およぎます
+Swim
+
+しょうたいします
+invite
+
+はじめます
+start
+
+にあります
+be located at/in
+
+のこします
+leave something or someone
+
+おちます
+fall down
+
+おきます
+happen
+
+はいります
+Enter
+
+ひきます
+draw
+
+うんてんします
+drive (a car)
+
+なおします
+fix
+
+おります
+go down
+
+さげます
+lower
+
+うちます
+hit
+
+はねます
+jump
+
+たもちます
+keep
+
+いじします
+maintain
+
+つかいます
+Use
+
+かします
+loan
+
+ためします
+try

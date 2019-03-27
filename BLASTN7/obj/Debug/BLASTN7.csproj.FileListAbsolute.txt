@@ -1,0 +1,14 @@
+C:\Users\hanif\Desktop\restconduct\BLASTN7\bin\Debug\BLASTN7.exe.config
+C:\Users\hanif\Desktop\restconduct\BLASTN7\bin\Debug\BLASTN7.exe
+C:\Users\hanif\Desktop\restconduct\BLASTN7\bin\Debug\BLASTN7.pdb
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.Form1.resources
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.Properties.Resources.resources
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.exe
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.pdb
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.fSub1.resources
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.fSub2.resources
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.fSub3.resources
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.fSub4.resources

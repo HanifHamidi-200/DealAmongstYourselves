@@ -1,0 +1,15 @@
+C:\Users\hanif\source\repos\MH3\bin\Debug\MH3.exe.config
+C:\Users\hanif\source\repos\MH3\bin\Debug\MH3.exe
+C:\Users\hanif\source\repos\MH3\bin\Debug\MH3.pdb
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.Form1.resources
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.fSub1.resources
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.fSub2.resources
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.fSub3.resources
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.fSub4.resources
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.fSub5.resources
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.Properties.Resources.resources
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.exe
+C:\Users\hanif\source\repos\MH3\obj\Debug\MH3.pdb

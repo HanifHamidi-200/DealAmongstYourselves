@@ -1,0 +1,10 @@
+C:\Users\hanif\source\CantelliPerelli\LIQUID\bin\Debug\LIQUID.exe.config
+C:\Users\hanif\source\CantelliPerelli\LIQUID\bin\Debug\LIQUID.exe
+C:\Users\hanif\source\CantelliPerelli\LIQUID\bin\Debug\LIQUID.pdb
+C:\Users\hanif\source\CantelliPerelli\LIQUID\obj\Debug\LIQUID.csprojAssemblyReference.cache
+C:\Users\hanif\source\CantelliPerelli\LIQUID\obj\Debug\LIQUID.Form1.resources
+C:\Users\hanif\source\CantelliPerelli\LIQUID\obj\Debug\LIQUID.Properties.Resources.resources
+C:\Users\hanif\source\CantelliPerelli\LIQUID\obj\Debug\LIQUID.csproj.GenerateResource.cache
+C:\Users\hanif\source\CantelliPerelli\LIQUID\obj\Debug\LIQUID.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\CantelliPerelli\LIQUID\obj\Debug\LIQUID.exe
+C:\Users\hanif\source\CantelliPerelli\LIQUID\obj\Debug\LIQUID.pdb

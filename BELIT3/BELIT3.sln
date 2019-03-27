@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28606.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BELIT3", "BELIT3.csproj", "{009797E7-7C11-4030-8929-D8C7588C75FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009797E7-7C11-4030-8929-D8C7588C75FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009797E7-7C11-4030-8929-D8C7588C75FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009797E7-7C11-4030-8929-D8C7588C75FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009797E7-7C11-4030-8929-D8C7588C75FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7759819C-B055-4EC8-BF9E-582D9B6AE7C5}
+	EndGlobalSection
+EndGlobal

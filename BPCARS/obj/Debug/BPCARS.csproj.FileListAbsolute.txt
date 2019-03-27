@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\BPCARS\bin\Debug\BPCARS.exe.config
+C:\Users\hanif\source\repos\BPCARS\bin\Debug\BPCARS.exe
+C:\Users\hanif\source\repos\BPCARS\bin\Debug\BPCARS.pdb
+C:\Users\hanif\source\repos\BPCARS\obj\Debug\BPCARS.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\BPCARS\obj\Debug\BPCARS.Form1.resources
+C:\Users\hanif\source\repos\BPCARS\obj\Debug\BPCARS.Properties.Resources.resources
+C:\Users\hanif\source\repos\BPCARS\obj\Debug\BPCARS.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\BPCARS\obj\Debug\BPCARS.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\BPCARS\obj\Debug\BPCARS.exe
+C:\Users\hanif\source\repos\BPCARS\obj\Debug\BPCARS.pdb

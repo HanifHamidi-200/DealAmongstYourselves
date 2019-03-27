@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\bin\Debug\SEXTNT.exe.config
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\bin\Debug\SEXTNT.exe
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\bin\Debug\SEXTNT.pdb
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\obj\Debug\SEXTNT.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\obj\Debug\SEXTNT.Form1.resources
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\obj\Debug\SEXTNT.fSub1.resources
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\obj\Debug\SEXTNT.fSub2.resources
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\obj\Debug\SEXTNT.fSub3.resources
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\obj\Debug\SEXTNT.Properties.Resources.resources
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\obj\Debug\SEXTNT.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\obj\Debug\SEXTNT.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\obj\Debug\SEXTNT.exe
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\obj\Debug\SEXTNT.pdb
+C:\Users\hanif\source\repos\SEXTNT\SEXTNT\obj\Debug\SEXTNT.fSub4.resources

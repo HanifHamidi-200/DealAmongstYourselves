@@ -1,0 +1,13 @@
+C:\Users\hanif\Desktop\hugenot\CLOCKW\bin\Debug\CLOCKW.exe.config
+C:\Users\hanif\Desktop\hugenot\CLOCKW\bin\Debug\CLOCKW.exe
+C:\Users\hanif\Desktop\hugenot\CLOCKW\bin\Debug\CLOCKW.pdb
+C:\Users\hanif\Desktop\hugenot\CLOCKW\obj\Debug\CLOCKW.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\hugenot\CLOCKW\obj\Debug\CLOCKW.Form1.resources
+C:\Users\hanif\Desktop\hugenot\CLOCKW\obj\Debug\CLOCKW.fSub1.resources
+C:\Users\hanif\Desktop\hugenot\CLOCKW\obj\Debug\CLOCKW.fSub2.resources
+C:\Users\hanif\Desktop\hugenot\CLOCKW\obj\Debug\CLOCKW.fSub3.resources
+C:\Users\hanif\Desktop\hugenot\CLOCKW\obj\Debug\CLOCKW.Properties.Resources.resources
+C:\Users\hanif\Desktop\hugenot\CLOCKW\obj\Debug\CLOCKW.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\hugenot\CLOCKW\obj\Debug\CLOCKW.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\hugenot\CLOCKW\obj\Debug\CLOCKW.exe
+C:\Users\hanif\Desktop\hugenot\CLOCKW\obj\Debug\CLOCKW.pdb

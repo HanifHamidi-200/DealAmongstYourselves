@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\WELSHW\bin\Debug\WELSHW.exe.config
+C:\Users\hanif\source\repos\WELSHW\bin\Debug\WELSHW.exe
+C:\Users\hanif\source\repos\WELSHW\bin\Debug\WELSHW.pdb
+C:\Users\hanif\source\repos\WELSHW\obj\Debug\WELSHW.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\WELSHW\obj\Debug\WELSHW.Form1.resources
+C:\Users\hanif\source\repos\WELSHW\obj\Debug\WELSHW.Properties.Resources.resources
+C:\Users\hanif\source\repos\WELSHW\obj\Debug\WELSHW.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\WELSHW\obj\Debug\WELSHW.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\WELSHW\obj\Debug\WELSHW.exe
+C:\Users\hanif\source\repos\WELSHW\obj\Debug\WELSHW.pdb

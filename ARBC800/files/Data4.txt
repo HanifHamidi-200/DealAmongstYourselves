@@ -1,0 +1,3002 @@
+Russian1000
+900
+conjunction
+и 
+and, though
+preposition
+в 
+in, at
+particle
+не 
+not
+pronoun
+он 
+he
+preposition
+на 
+on, it, at, to
+pronoun
+я 
+I
+сonjunction, pronoun
+что 
+what, that, why
+adjective, pronoun
+тот 
+that
+verb
+быть 
+to be
+preposition
+с 
+with, and, from, of
+conjunction
+а 
+while, and, but
+pron, noun
+весь 
+all, everything
+pronoun
+это 
+that, this, it
+adverb, conj
+как 
+how, what, as, like
+pronoun
+она 
+she
+preposition
+по 
+on, along, by
+conjunction, noun
+но 
+but
+pronoun
+они 
+they
+preposition
+к 
+to, for, by
+preposition
+у 
+by, with, of
+pronoun
+ты 
+you, thou
+preposition
+из 
+from, of, in
+pronoun
+мы 
+we
+preposition
+за 
+behind, over, at, after
+pronoun
+вы 
+you
+adverb
+так 
+so, thus, then
+conj, particle
+же 
+and, as for, but, same
+preposition
+от 
+from, of, for
+verb
+сказать 
+to say, to speak
+pronoun
+этот 
+this
+pronoun
+который 
+which, who, that
+verb
+мочь 
+be able
+noun
+человек 
+man, person
+preposition
+о 
+of, about, against
+cardinal number, pronoun
+один 
+one, some, alone
+adverb
+ещё 
+still, yet
+particle
+бы 
+would
+pronoun
+такой 
+such, so, some
+adverb, conj
+только 
+only, merely, but
+pron, particle
+себя 
+myself, himself, herself
+pronoun, noun
+своё 
+one's own, my, our
+pronoun
+какой 
+what, which, how
+adverb, conj
+когда 
+when, while, as
+adverb
+уже 
+already, by now
+preposition
+для 
+for, to
+particle
+вот 
+here, there, this is, that's
+pronoun
+кто 
+who, that, some
+conj, particle
+да 
+yes, but
+verb
+говорить 
+to say, to tell, to speak
+noun
+год 
+year
+verb
+знать 
+to know, be aware
+pronoun
+мой 
+my, mine
+preposition
+до 
+to, up to, about, before
+conjunction
+или 
+or
+conjunction
+если 
+if
+noun
+время 
+time, season
+noun
+рука 
+hand, arm
+negation
+нет 
+no, not, but
+pronoun
+самый 
+most, the very, the same
+conj, particle
+ни 
+not a, not, neither… nor
+verb
+стать 
+to become, begin, come
+adjective
+большой 
+big, large, important
+particle
+даже 
+even
+pronoun
+другой 
+other, another, different
+pronoun
+наш 
+our, ours
+pronoun
+свой 
+my, our, your
+interj, particle
+ну 
+now, right, well, come on
+preposition
+под 
+under, for, towards, to
+adverb
+где 
+where
+noun
+дело 
+business, affair, matter
+verb
+есть 
+to eat, to be
+pronoun
+сам 
+myself, yourself
+noun, adverb
+раз 
+time, once, since
+conjunction, particle
+чтобы 
+that, in order that
+cardinal number
+два 
+two
+adverb
+там 
+there, then
+conjunction, particle
+чем 
+than; instead of
+noun
+глаз 
+eye; sight
+noun
+жизнь 
+life
+adjective, number
+первый 
+first, front, former
+noun
+день 
+day
+adverb
+тут 
+here, now, then
+preposition, particle
+во 
+in, at; super, exactly
+pronoun
+ничто 
+nothing
+adverb
+потом 
+afterwards, then
+adverb
+очень 
+very
+preposition
+со 
+with
+verb
+хотеть 
+to want, like
+conj, particle
+ли 
+whether, if
+preposition
+при 
+attached to, in the presence of, by, about; masterrussian, dot com
+noun
+голова 
+head, mind, brains
+prep, verb
+надо 
+over, above, ought to
+preposition
+без 
+without
+verb
+видеть 
+to see
+verb
+идти 
+to go, come
+adverb
+теперь 
+now, nowadays
+adverb
+тоже 
+also, as well, too
+verb
+стоять 
+to stand, be, stand up
+noun
+друг 
+friend
+noun
+дом 
+house, home
+adverb
+сейчас 
+now, presently, soon
+predicate
+можно 
+one can
+preposition
+после 
+after, afterwards
+noun
+слово 
+word
+adverb
+здесь 
+here
+verb
+думать 
+to think; believe
+noun
+место 
+place; seat
+verb
+спросить 
+to ask
+preposition
+через 
+through, across
+noun
+лицо 
+face; person
+pronoun
+что 
+what, which, that
+adverb
+тогда 
+then
+conj
+ведь 
+you see, you know
+adjective
+хороший 
+good, nice (see #152)
+pronoun
+каждый 
+each, every
+adjective
+новый 
+new; modern
+verb
+жить 
+to live
+adjective
+должный 
+due, proper
+verb
+смотреть 
+to look, watch
+adverb
+почему 
+why
+adverb
+потому 
+that's why
+noun
+сторона 
+side, party
+adverb
+просто 
+simply
+noun
+нога 
+foot, leg
+verb
+сидеть 
+to sit
+verb
+понять 
+to understand; realize
+verb
+иметь 
+to have, own
+adjective
+конечный 
+final, last
+verb
+делать 
+to do, make
+adverb
+вдруг 
+suddenly
+preposition
+над 
+above, over
+verb
+взять 
+to take
+pronoun
+никто 
+nobody
+verb
+сделать 
+to do, make, finish
+noun
+дверь 
+door
+preposition
+перед 
+before, in front of
+adjective
+нужный 
+necessary
+verb
+понимать 
+to understand
+verb
+казаться 
+to seem, appear; masterrussian, dot com
+noun
+работа 
+work, job
+cardinal number
+три 
+three
+pronoun
+ваш 
+yours
+adverb, particle
+уж 
+really, already
+noun
+земля 
+earth, land, soil
+noun
+конец 
+end, distance
+adverb
+несколько 
+several, some
+noun
+час 
+hour, time
+noun
+голос 
+voice
+noun
+город 
+town, city
+adjective
+последний 
+last, the latest, new
+adverb
+пока 
+for the present
+adverb
+хорошо 
+well (see #114)
+verb
+давать 
+to give; let, allow
+noun
+вода 
+water
+adverb
+более 
+more
+conjunction
+хотя 
+although
+adverb
+всегда 
+always
+ordinal number
+второй 
+second
+adverb
+куда 
+where, what for, much
+verb
+пойти 
+to go
+noun
+стол 
+table, desk; board
+noun
+ребёнок 
+child, kid, infant
+verb
+увидеть 
+to see
+noun
+сила 
+strength, force
+noun
+отец 
+father (see #918)
+noun
+женщина 
+woman
+noun
+машина 
+car, machine, engine
+noun
+случай 
+case, occasion, incident
+noun
+ночь 
+night
+adverb
+сразу 
+at once, right away, just
+noun
+мир 
+world, peace
+adverb
+совсем 
+quite, entirely, totally
+verb
+остаться 
+to remain, stay (see #297)
+preposition
+об 
+about, of (see #34)
+noun
+вид 
+appearance, look, view
+verb
+выйти 
+to go out, come out, appear
+verb
+дать 
+to give; masterrussian, dot com
+verb
+работать 
+to work
+verb
+любить 
+to love
+adjective
+старый 
+old
+adverb
+почти 
+almost
+noun
+ряд 
+row, line
+verb
+оказаться 
+find oneself, turn out
+noun
+начало 
+beginning, origin, source
+pronoun
+твой 
+your, yours (informal)
+noun
+вопрос 
+question, matter, problem
+adverb
+много 
+many, much (see #799)
+noun
+война 
+war
+adverb
+снова 
+again
+verb
+ответить 
+to answer, reply (see #404)
+preposition
+между 
+between, among
+verb
+подумать 
+to think
+adverb
+опять 
+again
+adjective
+белый 
+white
+noun
+деньги 
+money
+verb
+значить 
+to mean, signify
+preposition
+про 
+about, for
+adverb, conj
+лишь 
+only, as soon as
+noun
+минута 
+minute, moment
+noun
+жена 
+wife
+verb
+посмотреть 
+to take a look, watch, inspect
+noun
+правда 
+truth
+adjective
+главный 
+main, chief
+noun
+страна 
+country
+noun
+свет 
+light;world
+verb
+ждать 
+to wait
+noun
+мать 
+mother
+conjunction
+будто 
+as if, as though
+adverb
+никогда 
+never
+noun
+товарищ 
+comrade, friend
+noun
+дорога 
+road, way, journey
+conj, misc
+однако 
+however, though
+verb
+лежать 
+to lie, be situated
+misc
+именно 
+namely, just
+noun
+окно 
+window, windowsill
+pronoun
+никакой 
+no, none
+verb
+найти 
+to find, discover, consider
+verb
+писать 
+to write
+noun
+комната 
+a room
+noun
+Москва 
+Moscow
+noun
+часть 
+part, share, department
+adverb
+вообще 
+in general, altogether, on the whole
+noun
+книга 
+a book
+adjective
+маленький 
+small, little
+noun
+улица 
+street; masterrussian, dot com
+verb
+решить 
+to decide, solve
+adjective
+далекий 
+distant, remote
+noun
+душа 
+soul, spirit
+adverb
+чуть 
+hardly, slightly
+verb
+вернуться 
+to return
+noun
+утро 
+morning
+pronoun
+некоторый 
+some
+verb
+считать 
+to count, consider
+cardinal
+сколько 
+how much, how many
+verb
+помнить 
+to remember
+noun
+вечер 
+evening
+noun
+пол 
+floor; sex
+particle
+таки 
+after all
+verb
+получить 
+to receive, get, obtain
+noun
+народ 
+people, nation
+noun
+плечо 
+shoulder, upper arm
+conjunction
+хоть 
+even, if you want, though
+adverb
+сегодня 
+today
+noun
+бог 
+god
+adverb
+вместе 
+together
+noun
+взгляд 
+look, glance; view
+verb
+ходить 
+to go, walk
+adverb
+зачем 
+what for, why
+adjective
+советский 
+Soviet
+adjective
+русский 
+Russian
+verb
+бывать 
+be, visit, happen
+adj
+полный 
+full, complete
+verb
+прийти 
+to come, arrive (see #464)
+noun
+палец 
+finger, toe
+noun
+Россия 
+Russia
+pronoun
+любой 
+any, every
+noun
+история 
+history, story, event
+adverb
+наконец 
+at last, finally
+noun
+мысль 
+thought, idea
+verb
+узнать 
+to know, learn, recognize
+adverb
+назад 
+back, backwards
+adjective
+общий 
+general, common
+verb
+заметить 
+to notice, observe
+conjunction
+словно 
+as if, like
+adjective
+прошлый 
+past
+verb
+уйти 
+to leave, go away
+adjective
+известный 
+well-known, famous
+adverb
+давно 
+long ago
+verb
+слышать 
+to hear
+verb
+слушать 
+to listen, hear
+verb
+бояться 
+to be afraid, fear
+noun
+сын 
+son
+predicate
+нельзя 
+it is impossible, can't
+adverb
+прямо 
+straight, frankly
+adverb
+долго 
+for a long time
+adverb
+быстро 
+fast, quickly
+noun
+лес 
+forest
+adjective
+похожий 
+similar, alike
+noun
+пора 
+time; pore (see #1000)
+cardinal number
+пять 
+five
+verb
+глядеть 
+to look, gaze
+pronoun
+оно 
+it
+verb
+сесть 
+to sit
+noun
+имя 
+name
+misc
+ж 
+and, as for, but (see #27)
+noun
+разговор 
+talk, conversation
+noun
+тело 
+body
+adjective
+молодой 
+young (see #679); bridegroom (as a noun)
+noun
+стена 
+wall
+adjective
+красный 
+red
+verb
+читать 
+to read
+noun
+право 
+right
+noun
+старик 
+old man
+adjective
+ранний 
+early
+misc (impersonal)
+хотеться 
+want, like
+noun
+мама 
+mummy, mum
+verb
+оставаться 
+to remain, stay (see #173)
+adjective
+высокий 
+tall, high
+noun
+путь 
+way, track, path
+adverb
+поэтому 
+therefore
+adverb
+совершенно 
+absolutely, quite
+preposition
+кроме 
+except, besides
+cardinal number
+тысяча 
+a thousand
+noun
+месяц 
+month
+verb
+брать 
+to take; hire
+verb
+написать 
+to write
+adjective
+целый 
+intact, whole, entire
+adjective
+огромный 
+huge, enormous
+verb
+начинать 
+to begin (see #413)
+noun
+спина 
+back
+adjective
+настоящий 
+present;real, true
+conj, particle
+пусть 
+let's, though
+noun
+язык 
+tongue, language
+adverb
+точно 
+exactly
+preposition
+среди 
+among
+verb
+чувствовать 
+to feel
+noun
+сердце 
+heart
+verb
+вести 
+to lead
+adverb
+иногда 
+sometimes
+noun
+мальчик 
+boy
+verb
+успеть 
+to be in time, be successful
+noun
+небо 
+sky
+adjective
+живой 
+living, live, lively
+noun
+смерть 
+death
+verb
+продолжать 
+to continue
+noun
+девушка 
+girl, miss (see #524)
+noun
+образ 
+shape, form, image
+preposition
+ко 
+to, towards, by (see #19)
+verb
+забыть 
+to forget
+preposition
+вокруг 
+around
+noun
+письмо 
+letter
+noun
+власть 
+power
+adjective
+чёрный 
+black (see #456)
+verb
+пройти 
+to pass, go by, be over (see #543)
+verb
+появиться 
+to appear, show up (see #699)
+noun
+воздух 
+air
+adjective
+разный 
+different
+verb
+выходить 
+to go out; nurse (see #176)
+verb
+просить 
+to ask
+noun
+брат 
+brother
+adjective
+собственный 
+one's own; masterrussian, dot com
+noun
+отношение 
+relationship, attitude
+adverb
+затем 
+then, after that
+verb
+пытаться 
+to try
+verb
+показать 
+to show, display
+verb
+вспомнить 
+to remember, recall
+noun
+система 
+system
+cardinal number
+четыре 
+four
+noun
+квартира 
+flat, apartment
+verb
+держать 
+to hold, keep
+misc
+также 
+also, as well, too
+noun
+любовь 
+love
+noun
+солдат 
+soldier
+adverb
+откуда 
+where… from
+misc
+чтоб 
+that, in order that, (See #74)
+verb
+называть 
+to call, name, (See #597)
+ordinal number
+третий 
+third
+noun
+хозяин 
+master, boss, host
+preposition, particle
+вроде 
+like, not unlike
+verb
+уходить 
+to leave, go away
+verb
+подойти 
+to approach, come up(See #798)
+verb
+поднять 
+to lift, raise
+adverb
+особенно 
+especially, particularly
+verb
+спрашивать 
+to ask, inquire
+noun
+начальник 
+chief, head, superior
+numeral
+оба 
+both
+verb
+бросить 
+to throw
+noun
+кола 
+school
+noun
+парень 
+boy, fellow, guy
+noun
+кровь 
+blood
+cardinal numberinal number
+двадцать 
+twenty
+noun
+солнце 
+sun
+noun
+неделя 
+week
+verb
+послать 
+to send, dispatch
+verb
+находиться 
+to be found, turn up
+noun
+ребята 
+guys, children
+verb
+поставить 
+to put, place, set
+verb
+встать 
+to get up, rise, stand up
+misc
+например 
+for example, for instance
+noun
+шаг 
+step
+noun
+мужчина 
+man, male
+adverb
+равно 
+alike, in like manner
+noun
+нос 
+nose
+adverb
+мало 
+little, few, (See #630)
+noun
+внимание 
+attention
+noun
+капитан 
+captain, master
+noun
+ухо 
+ear
+adverb
+туда 
+there
+adverb
+сюда 
+here
+verb
+играть 
+to play
+verb
+следовать 
+to follow, come next
+verb
+рассказать 
+to tell, narrate(See #403)
+adjective
+великий 
+great
+adverb
+действительно 
+indeed, really
+adverb
+слишком 
+too, too much
+adjective
+тяжёлый 
+heavy
+verb
+спать 
+to sleep
+verb
+оставить 
+to leave, abandon
+verb
+войти 
+to enter, come in
+adjective
+длинный 
+long
+noun
+чувство 
+feeling
+verb
+молчать 
+to keep silence
+verb
+рассказывать 
+to tell, narrate, (See #392)
+verb
+отвечать 
+to answer, reply, (See #190)
+verb
+становиться 
+to stand; to become
+verb
+остановиться 
+to stop
+noun
+берег 
+bank, shore, coast
+noun
+семья 
+family
+verb
+искать 
+to search
+noun
+генерал 
+general
+noun
+момент 
+moment, instant
+cardinal number
+десять 
+ten
+verb
+начать 
+to begin(See #309)
+adjective
+следующий 
+next, following
+adjective
+личный 
+personal
+noun
+труд 
+labour, work
+verb
+верить 
+to believe; masterrussian, dot com
+noun
+группа 
+group
+adverb
+немного 
+a little
+conjunction
+впрочем 
+however, though
+misc
+видно 
+evidently, obviously
+verb
+являться 
+to appear
+noun
+муж 
+husband
+particle
+разве 
+really?, perhaps
+noun
+движение 
+movement
+noun
+порядок 
+order
+noun
+ответ 
+answer, reply
+adverb
+тихо 
+quietly, softly, slowly
+adjective
+знакомый 
+familiar, acquainted 
+noun
+газета 
+newspaper
+noun
+помощь 
+help
+adjective
+сильный 
+strong, powerful
+adjective
+скорый 
+quick, fast
+noun
+собака 
+dog
+noun
+дерево 
+tree
+noun
+снег 
+snow
+noun
+сон 
+dream
+noun
+смысл 
+sense, meaning, purpose
+verb
+смочь 
+to be able
+preposition
+против 
+against, opposite, contrary to
+verb
+бежать 
+to run, hurry
+noun
+двор 
+yard, court
+noun
+форма 
+form, shape, uniform
+adjective
+простой 
+simple, easy, plain
+verb
+приехать 
+to arrive, come
+pronoun
+иной 
+different, other
+verb
+кричать 
+to cry, shout(See #656)
+noun
+возможность 
+possibility, opportunity, chance
+noun
+общество 
+society
+adjective
+зеленый 
+green
+noun
+грудь 
+breast, chest
+noun
+угол 
+corner, angle
+verb
+открыть 
+to open
+verb
+происходить 
+to happen, occur, take place
+adverb
+ладно 
+in harmony, well, all right
+noun
+черный 
+black (as in "she wears black")(See #333)
+noun
+век 
+century, age
+noun
+карман 
+pocket
+verb of motion
+ехать 
+to go, ride, drive, travel
+noun
+немец 
+German
+adverb
+наверное 
+probably, most likely(See #972)
+noun
+губа 
+lip
+noun
+дядя 
+uncle
+verb
+приходить 
+to come, arrive(See #253)
+adverb
+часто 
+often
+adverb
+домой 
+home(as in "she came home")
+noun
+огонь 
+fire
+noun
+писатель 
+writer
+noun
+армия 
+army
+noun
+состояние 
+state, condition; fortune
+noun
+зуб 
+tooth
+noun
+очередь 
+line, queue, turn
+pronoun
+кой 
+which (old-fashioned, literary); mostly found in set expressions: ни в ко́ем слу́чае, ни ко́им о́бразом, в кои ве́ки, на кой чёрт?
+verb
+подняться 
+to rise, climb
+noun
+камень 
+stone
+noun
+гость 
+guest
+verb
+показаться 
+to appear, come in sight
+noun
+ветер 
+wind
+verb
+собираться 
+to gather together, assemble; intend(See #981)
+verb
+попасть 
+to hit; to find oneself
+verb
+принять 
+to take, admit, accept(See #643)
+adverb
+сначала 
+at first, from the beginning
+conjunction
+либо 
+or
+verb
+поехать 
+to depart, set off
+verb
+услышать 
+to hear
+verb
+уметь 
+to be able, know, can
+verb
+случиться 
+to happen
+adjective
+странный 
+strange
+adjective
+единственный 
+only, sole
+noun
+рота 
+company (military)
+noun
+закон 
+law, act, statue
+adjective
+короткий 
+short
+noun
+море 
+sea
+adjective
+добрый 
+kind
+adjective
+темный 
+dark
+noun
+гора 
+mountain, hill
+noun
+врач 
+physician, doctor
+noun
+край 
+border, edge; land, country
+verb
+стараться 
+to try, endeavour
+adjective
+лучший 
+better, best
+noun
+река 
+river
+adjective
+военный 
+military
+noun
+мера 
+measure, step
+adjective
+страшный 
+terrible, frightful
+adverb
+вполне 
+quite, fully
+verb
+звать 
+to call
+verb
+произойти 
+to happen, occur, take place
+preposition
+вперед 
+forward
+adverb
+медленно 
+slowly
+preposition
+возле 
+by, near, close by
+adverb
+никак 
+in now way, by no means
+verb
+заниматься 
+to be occupied, engage
+noun
+действие 
+action, effect
+adverb
+довольно 
+enough; rather
+noun
+вещь 
+thing
+adjective
+необходимый 
+necessary
+noun
+ход 
+move
+noun
+боль 
+pain
+noun
+судьба 
+fate, fortune, destiny
+noun
+причина 
+cause, reason, motive
+verb
+положить 
+to lay down, put down, place
+adverb
+едва 
+hardly, just, barely
+noun
+черта 
+line, boundary; trait
+noun
+девочка 
+girl, little girl(See #326)
+adjective
+лёгкий 
+light, easy
+noun
+волос 
+hair
+verb
+купить 
+to buy, purchase
+noun
+номер 
+number, size, room, issue
+adjective
+основной 
+main
+adjective
+широкий 
+wide
+verb
+умереть 
+to die
+adverb
+далеко 
+far, far off
+adverb
+плохо 
+badly
+noun
+глава 
+head, chief
+adjective
+красивый 
+beautiful; masterrussian, dot com
+adjective
+серый 
+grey; dull
+verb
+пить 
+to drink
+noun
+командир 
+commander, commanding officer
+adverb
+обычно 
+usually
+noun
+партия 
+party
+noun
+проблема 
+problem, issue
+noun
+страх 
+fear
+verb
+проходить 
+to pass, go;study(See #334)
+adverb
+ясно 
+clear, clearly
+verb
+снять 
+to take away, take off;photograph
+noun
+бумага 
+paper
+noun
+герой 
+hero
+noun
+пара 
+pair, couple
+noun
+государство 
+State
+noun
+деревня 
+village, country
+noun
+речь 
+speech
+verb
+начаться 
+to begin
+noun
+средство 
+means, remedy
+noun
+положение 
+position, posture, condition, state
+noun
+связь 
+tie, bond; connection, relation
+adverb
+скоро 
+quickly, fast, soon
+adjective
+небольшой 
+small, not great
+verb
+представлять 
+to present, introduce, imagine(See #586)
+adverb
+завтра 
+tomorrow
+verb
+объяснить 
+to explain
+adjective
+пустой 
+empty, hollow; idle
+verb
+произнести 
+to pronounce, say, utter
+adjective
+человеческий 
+human
+verb
+нравиться 
+to please, like
+adverb
+однажды 
+once, one day
+preposition
+мимо 
+past, by
+adverb
+иначе 
+otherwise, differentlyl
+verb
+существовать 
+to exist, to be
+noun
+класс 
+class
+verb
+удаться 
+turn out well, succeed, manage
+adjective
+толстый 
+thick, heavy, fat
+noun
+цель 
+goal, object, target
+preposition
+сквозь 
+through
+verb
+прийтись 
+to fit, fall; have to
+adjective
+чистый 
+clean, pure
+noun
+знать 
+to know(See #51)
+adjective
+прежний 
+former
+noun
+профессор 
+professor
+noun
+господин 
+gentleman, Mr.
+noun
+счастье 
+happiness, luck
+adjective
+худой 
+thin, skinny; masterrussian.com
+noun
+дух 
+spirit
+noun
+план 
+plan
+adjective
+чужой 
+somebody else's;strange, foreign
+noun
+зал 
+hall
+verb
+представить 
+to presetn, produce, introduce(See #558)
+adjective
+особый 
+special
+noun
+директор 
+director, manager
+adjective
+бывший 
+former, ex-
+noun
+память 
+memory
+adjective
+близкий 
+near, similar; intimate
+pronoun
+сей 
+this
+noun
+результат 
+result, outcome
+adjective
+больной 
+sick
+adjective
+данный 
+given, present
+adverb
+кстати 
+to the point, at the same time
+verb
+назвать 
+to call, name(See #356)
+noun
+след 
+track, footprint
+verb
+улыбаться 
+to smile(See #605)
+noun
+бутылка 
+bottle
+adverb
+трудно 
+with difficulty
+noun
+условие 
+condition, term
+preposition
+прежде 
+before
+noun
+ум 
+mind, brains, intellect
+verb
+улыбнуться 
+to smile(See #599)
+noun
+процесс 
+process
+noun
+картина 
+picture, painting
+preposition
+вместо 
+instead
+adjective
+старший 
+elder, senior
+adverb
+легко 
+easily, lightly
+noun
+центр 
+center
+adjective
+подобный 
+similar, like
+adverb
+возможно 
+as… as possible(as in "as soon as possible")
+preposition
+около 
+by, near
+verb
+смеяться 
+to laugh
+cardinal numberinal number
+сто 
+hundred
+noun
+будущее 
+future
+verb
+хватать  
+to snatch, seize; be sufficient(See #636)
+noun
+число 
+number
+pronoun
+всякое 
+any, every
+noun
+рубль 
+ruble
+verb
+почувствовать 
+to feel
+verb
+принести 
+to bring; masterrussian
+noun
+вера 
+faith, belief
+adverb
+вовсе 
+quiet; not … at all
+noun
+удар 
+blow, stroke
+noun
+телефон 
+telephone
+noun
+колено 
+knee
+verb
+согласиться 
+to agree, consent
+cardinal numberinal number
+мало 
+little, few, not enough(See #384)
+noun
+коридор 
+corridor, passage
+noun
+мужик 
+muzhik, man
+adjective
+правый 
+right
+noun
+автор 
+author
+adjective
+холодный 
+cold, cool
+verb
+хватить 
+to snatch, seize, suffice(See #618)
+pronoun
+многие 
+many
+noun
+встреча 
+meeting, reception
+noun
+кабинет 
+study, room, office suite
+noun
+документ 
+document
+noun
+самолет 
+aircraft, aeroplane
+adverb
+вниз 
+down, downwards
+verb
+принимать 
+to take, admit, accept (See #481)
+noun
+игра 
+game, play
+noun
+рассказ 
+story
+noun
+хлеб 
+bread
+noun
+развитие 
+development
+verb
+убить 
+to kill
+adjective
+родной 
+own, native, dear
+adjective
+открытый 
+open
+adverb
+менее 
+less
+verb
+предложить 
+to offer, propose, suggest
+adjective
+желтый 
+yellow
+verb
+приходиться 
+to fit, fall; have to
+verb
+выпить 
+to drink
+verb
+крикнуть 
+to cry, shout(See #447)
+noun
+трубка 
+tube, roll, pipe
+noun
+враг 
+enemy
+verb
+показывать 
+to show, display
+cardinal number
+двое 
+two
+noun
+доктор 
+doctor
+noun
+ладонь 
+palm
+verb
+вызвать 
+to call, send(See #821)
+adverb
+спокойно 
+quietly
+verb
+попросить 
+to ask
+noun
+наука 
+science
+noun
+лейтенант 
+lieutenant
+noun
+служба 
+service, work
+verb
+оказываться 
+to turn out, find oneself(See #183)
+verb
+привести 
+to bring
+cardinal number
+сорок 
+forty
+noun
+счет 
+bill, account
+verb
+возвращаться 
+to return
+adjective
+золотой 
+golden
+adjective
+местный 
+local
+noun
+кухня 
+kitchen
+adjective
+крупный 
+large, big, prominent
+noun
+решение 
+decision, conclusion
+noun
+молодая 
+bride (See #288); young (as an adjective)
+cardinal number
+тридцать 
+thirty
+noun
+роман 
+novel, romance
+verb
+требовать 
+to demand
+noun
+компания 
+company
+adjective
+частый 
+frequent
+adjective
+российский 
+Russian
+adjective
+рабочий 
+working
+verb
+потерять 
+to lose
+noun
+течение 
+current
+adjective
+синий 
+dark blue
+adverb
+столько 
+so much, so many
+adjective
+теплый 
+warm
+noun
+метр 
+meter, metre
+verb
+достать 
+to reach; get, obtain
+adjective
+железный 
+ferreous, iron
+noun
+институт 
+institute
+verb
+сообщить 
+to report, let know
+noun
+интерес 
+interes
+adjective
+обычный 
+usual, ordinary
+verb
+появляться 
+to appear, show up(See #335)
+verb
+упасть 
+to fall
+adjective
+остальной 
+remaining, the rest of
+noun
+половина 
+half
+adjective
+московский 
+Moscow
+cardinal number
+шесть 
+six
+verb
+получиться 
+to come, arrive, turn out
+noun
+качество 
+quality
+noun
+бой 
+battle, fight, combat
+noun
+шея 
+neck
+adverb
+вон 
+out
+noun
+идея 
+idea
+adverb
+видимо 
+apparently, seemingly
+adverb
+достаточно 
+enough, sufficiently
+verb
+провести 
+to accompany, set off; conduct; spend (See #973)
+adjective
+важный 
+important
+noun
+трава 
+grass
+noun
+дед 
+grandfather, old man
+noun
+сознание 
+consciousness
+noun
+родитель 
+parent; masterrussian, dot, com
+verb
+простить 
+to forgive
+verb
+бить 
+to beat, hit
+noun
+чай 
+tea
+adjective
+поздний 
+late
+verb
+кивнуть 
+to nod
+noun
+род 
+family, clan, generation
+verb
+исчезнуть 
+to disappear
+adjective
+тонкий 
+thin
+adjective
+немецкий 
+German
+noun
+звук 
+sound
+verb
+отдать 
+to return, give back
+noun
+магазин 
+shop, store
+noun
+президент 
+president; director
+noun
+поэт 
+poet
+noun
+спасибо 
+gratitude, thanks
+noun
+болезнь 
+illness, sickness, disease
+noun
+событие 
+event
+verb
+помочь 
+to help (See #857)
+noun
+кожа 
+skin
+noun
+лист 
+leaf, sheet
+verb
+слать 
+to send
+verb
+вспоминать 
+to remember, recall
+adjective
+прекрасный 
+beautiful, fine
+noun
+слеза 
+tear
+noun
+надежда 
+hope
+adverb
+молча 
+silently, without a word
+adverb
+сильно 
+strongly
+adjective
+верный 
+correct; faithful; reliable
+noun
+литература 
+literature
+noun
+оружие 
+weapon
+adjective
+готовый 
+ready
+noun
+запах 
+smell, odour, scent
+adverb
+неожиданно 
+unexpectedly, suddenly
+adverb
+вчера 
+yesterday
+verb
+вздохнуть 
+to take breath, to sigh
+noun
+роль 
+role
+noun
+рост 
+growth, increase; height
+noun
+природа 
+nature
+adjective
+политический 
+political
+noun
+точка 
+dot, point
+noun
+звезда 
+star
+verb
+петь 
+to sing
+verb
+садиться 
+to sit down
+noun
+фамилия 
+surname
+noun
+характер 
+character, disposition, temper
+misc
+пожалуйста 
+please
+adverb
+выше 
+higher
+noun
+офицер 
+officer
+noun
+толпа 
+crowd
+verb
+перестать 
+to stop, cease
+verb
+придтись 
+to fit, fall; have to
+noun
+уровень 
+level
+adjective
+неизвестный 
+unknown
+noun
+кресло 
+armchair
+noun
+баба 
+woman, wife, old woman, (See #911)
+noun
+секунда 
+a second
+verb
+пожаловать 
+to grant, bestow
+noun
+банк 
+bank
+noun
+опыт 
+experience
+adjective
+тихий 
+quiet, low, scelent
+misc
+поскольку 
+so far as, since
+noun
+сапог 
+(high) boot
+noun
+правило 
+rule
+noun
+стекло 
+glass
+verb
+получать 
+to receive, get (See #239)
+adjective
+внутренний 
+inside, internal
+noun
+дочь 
+daughter
+verb
+называться 
+to call oneself
+verb
+надеяться 
+to hope
+noun
+член 
+member, limb
+verb
+протянуть 
+to stretch, extend
+adjective
+государственный 
+State
+noun
+десяток 
+ten, dozens
+adjective
+глубокий 
+deep
+noun
+цветок 
+flower
+misc
+ах 
+ah!, oh!
+noun
+желание 
+wish
+noun
+дождь 
+rain
+preposition
+впереди 
+before, in front of
+verb
+подходить 
+to come up, approach;to fit(See #361)
+adverb
+много 
+many, much, a lot of(See #187)
+noun
+лоб 
+forehead
+noun
+улыбка 
+smile
+noun
+борьба 
+fight, struggle
+noun
+ворот 
+collar
+noun
+ящик 
+box, case
+noun
+этаж 
+floor, storey
+verb
+служить 
+to serve
+adverb
+вновь 
+again, once more
+adjective
+голубой 
+blue, sky-blue
+misc
+нечего 
+there is nothing, there is no need
+noun
+революция 
+revolution
+adverb
+впервые 
+for the first time
+noun
+сосед 
+neighbour
+noun
+сестра 
+sister
+adjective
+долгий 
+long
+pronoun
+чей 
+whose
+verb
+поверить 
+to believe
+noun
+ситуация 
+situation
+verb
+взглянуть 
+to look, give a glance
+adjective
+слабый 
+weak
+noun
+количество 
+quantity
+verb
+вызывать (See #663) 
+to call, send
+adjective
+уверенный 
+confident, sure
+noun
+выход 
+exit
+noun
+совет 
+advice; masterrussian, dot com
+noun
+дурак 
+fool, idiot
+adjective
+любимый 
+dear, loved
+noun
+союз 
+union, alliance; conjunction
+noun
+лето 
+summer
+verb
+ожидать 
+to expect
+adjective
+пришлый 
+alien, strange
+verb
+висеть 
+to hang
+noun
+граница 
+border
+noun
+цвет 
+colour, color
+adjective
+серьезный 
+serious
+verb
+создать 
+to create, establish
+adverb
+интересно 
+interestingly
+noun
+свобода 
+freedom
+conjunction
+зато 
+but, but then
+noun
+стул 
+chair
+verb
+уехать 
+to leave, depart
+noun
+поезд 
+train
+noun
+музыка 
+music
+adjective
+быстрый 
+quick, fast
+noun
+тень 
+shadow
+noun
+лошадь 
+horse
+noun
+поле 
+field
+verb
+выглядеть 
+to look
+verb
+учиться 
+to study, learn
+adjective
+левый 
+left
+verb
+разговаривать 
+to talk, speak
+adjective
+детский 
+child's, children's
+noun
+тип 
+type, model
+noun
+суд 
+court, law-court
+adjective
+связанный 
+related, connected, tied-up
+adjective
+горячий 
+hot
+noun
+площадь 
+square, area
+verb
+помогать 
+to help, assist(See #736)
+adjective
+счастливый 
+happy
+verb
+повернуться 
+to turn
+verb
+позволить 
+to allow, permit
+verb
+встретить 
+to meet
+noun
+радость 
+gladness, joy
+adjective
+острый 
+sharp; spicy
+noun
+возраст 
+age
+noun
+орган 
+organ, body
+noun
+карта 
+map
+verb
+входить 
+to enter, come in
+verb
+обнаружить 
+to discover, find out
+noun
+король 
+king
+noun
+слава 
+glory, fame
+noun
+полковник 
+colonel
+adjective
+мелкий 
+shallow, small
+noun
+бок 
+side, flank
+noun
+цена 
+price
+noun
+информация 
+information
+noun
+мозг 
+brain
+noun
+удовольствие 
+pleasure
+noun
+воля 
+will
+noun
+область 
+oblast, province; field
+noun
+крыша 
+roof
+verb
+нести 
+to carry
+adverb
+обратно 
+back, backwards
+adjective
+современный 
+contemporary, modern, up-to-date
+noun
+дама 
+lady, partner, queen
+cardinal number
+семь 
+seven
+adjective
+веселый 
+cheerful, merry
+verb
+прислать 
+to send
+noun
+сад 
+garden, yard
+noun
+правительство 
+government
+adjective
+милый 
+nice, sweet, dear
+verb
+относиться 
+to treat, regard, relate
+verb
+возникать 
+to arise, appear(See #951)
+misc
+мол 
+he says, they say, etc.
+verb
+повторить 
+to repeat
+noun
+название 
+name, title
+adjective
+средний 
+average, middle
+noun
+пример 
+example
+adverb
+невозможно 
+impossible
+noun
+зеркало 
+mirror
+verb
+погибнуть 
+to perish, be killed
+adjective
+американский 
+American
+noun
+дым 
+smoke
+verb
+гореть 
+to burn
+verb
+плакать 
+to cry
+adverb
+весьма 
+very, highly, greatly
+noun
+факт 
+fact
+verb
+двигаться 
+to move
+noun
+рыба 
+fish
+verb
+добавить 
+to add
+verb
+удивиться 
+to wonder, be surprised
+noun
+бабушка 
+grandmother(See #773)
+noun
+вино 
+wine
+conjunction
+ибо 
+for
+noun
+учитель 
+teacher, instructor
+verb
+действовать 
+to act
+adverb
+осторожно 
+carefully, cautiously
+noun
+круг 
+circle; masterrussian, dot com
+noun
+папа 
+dad, daddy(See #165)
+adverb
+правильно 
+correctly, properly
+adverb
+недавно 
+recently, lately
+verb
+держаться 
+to hold on, behave
+adverb
+причем 
+moreover, and what's more
+verb
+лететь 
+to fly
+verb
+носить 
+to wear
+noun
+повод 
+occasion, reason; bridle
+noun
+лагерь 
+camp
+noun
+птица 
+bird
+noun
+корабль 
+ship
+noun
+мнение 
+opinion
+adjective
+ночной 
+night
+adjective
+здоровый 
+healthy
+noun
+зима 
+winter
+adjective
+сухой 
+dry
+noun
+километр 
+kilometre, kilometer
+noun
+кровать 
+bed
+verb
+привыкнуть 
+to get used to, to grow accustomed to
+pronoun
+прочее 
+et cetera, other
+adjective
+свободный 
+free
+noun
+лестница 
+staircase
+particle
+неужели 
+really, surely
+adverb
+обязательно 
+without fail, be sure
+adverb
+вверх 
+up, upwards
+noun
+детство 
+childhood
+noun
+остров 
+island
+noun
+статья 
+article
+verb
+позвонить 
+to call, to telephone
+adverb
+столь 
+so
+verb
+мешать 
+to interfere, prevent; mix
+noun
+водка 
+vodka
+noun
+темнота 
+darkness
+verb
+возникнуть 
+to arise, spring up(See #892)
+adjective
+способный 
+capable (of)
+noun
+станция 
+station
+verb
+желать 
+to wish
+verb
+попробовать 
+to try, test
+verb
+получаться 
+to come out
+noun
+гражданин 
+citizen
+adverb
+странно 
+strangely
+adverb
+вскоре 
+soon, shortly
+adjective
+интересный 
+interesting
+noun
+команда 
+team; command
+noun
+заболевание 
+disease, illness
+noun
+живот 
+stomach, belly
+verb
+ставить 
+to put, place, set
+preposition
+ради 
+for the sake of
+noun
+тишина 
+silence, stillness
+adverb
+понятно 
+clearly, plainly
+noun
+фронт 
+front
+noun
+щека 
+cheek
+adverb
+страшно 
+terribly, awfully
+noun
+район 
+area, region
+adverb
+наверно 
+probably(See #461)
+verb
+проводить 
+to lead, escort; accompany(See #713)
+noun
+выражение 
+expression
+adverb
+слегка 
+slightly
+noun
+мешок 
+bag, sack
+verb
+обещать 
+to promise
+adjective
+дорогой 
+on the way
+verb
+судить 
+to judge, try
+noun
+большинство 
+majority
+verb
+собраться 
+to gather, collect(See #479)
+noun
+управление 
+operation, control
+verb
+колоть 
+to prick
+adjective
+мокрый 
+wet
+noun
+приказ 
+order
+adjective
+прямой 
+straight
+verb
+закричать 
+to shout, cry out
+verb
+кончиться 
+to end
+noun
+куст 
+bush
+verb
+стрелять 
+to shoot
+noun
+художник 
+painter, artist
+noun
+знак 
+sign
+noun
+завод 
+factory
+noun
+кулак 
+fist
+verb
+использовать 
+to use, utilize, make use of
+noun
+стакан 
+glass
+verb
+пахнуть 
+to smell
+adverb
+отсюда 
+from here
+noun
+рот 
+mouth
+misc
+пора 
+it's time;at times, now and then(See #279)

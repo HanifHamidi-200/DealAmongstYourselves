@@ -1,0 +1,13 @@
+C:\Users\hanif\source\repos\CSUN\bin\Debug\CSUN.exe.config
+C:\Users\hanif\source\repos\CSUN\bin\Debug\CSUN.exe
+C:\Users\hanif\source\repos\CSUN\bin\Debug\CSUN.pdb
+C:\Users\hanif\source\repos\CSUN\obj\Debug\CSUN.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\CSUN\obj\Debug\CSUN.Form1.resources
+C:\Users\hanif\source\repos\CSUN\obj\Debug\CSUN.fSub1.resources
+C:\Users\hanif\source\repos\CSUN\obj\Debug\CSUN.fSub2.resources
+C:\Users\hanif\source\repos\CSUN\obj\Debug\CSUN.fSub3.resources
+C:\Users\hanif\source\repos\CSUN\obj\Debug\CSUN.Properties.Resources.resources
+C:\Users\hanif\source\repos\CSUN\obj\Debug\CSUN.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CSUN\obj\Debug\CSUN.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CSUN\obj\Debug\CSUN.exe
+C:\Users\hanif\source\repos\CSUN\obj\Debug\CSUN.pdb
