@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.btnOpen1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.btnOpen1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnOpen2 = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnOpen3 = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -47,9 +47,9 @@
             this.tableLayoutPanel1.Controls.Add(this.label1, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.btnOpen1, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.label2, 1, 1);
-            this.tableLayoutPanel1.Controls.Add(this.button1, 0, 1);
+            this.tableLayoutPanel1.Controls.Add(this.btnOpen2, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.label3, 1, 2);
-            this.tableLayoutPanel1.Controls.Add(this.button2, 0, 2);
+            this.tableLayoutPanel1.Controls.Add(this.btnOpen3, 0, 2);
             this.tableLayoutPanel1.Location = new System.Drawing.Point(12, 31);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 3;
@@ -58,16 +58,6 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 61F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(237, 173);
             this.tableLayoutPanel1.TabIndex = 0;
-            // 
-            // btnOpen1
-            // 
-            this.btnOpen1.BackColor = System.Drawing.Color.Yellow;
-            this.btnOpen1.Location = new System.Drawing.Point(3, 3);
-            this.btnOpen1.Name = "btnOpen1";
-            this.btnOpen1.Size = new System.Drawing.Size(112, 38);
-            this.btnOpen1.TabIndex = 16;
-            this.btnOpen1.Text = "RTAB";
-            this.btnOpen1.UseVisualStyleBackColor = false;
             // 
             // label1
             // 
@@ -80,6 +70,17 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "foolproof tothe touch";
             // 
+            // btnOpen1
+            // 
+            this.btnOpen1.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen1.Location = new System.Drawing.Point(3, 3);
+            this.btnOpen1.Name = "btnOpen1";
+            this.btnOpen1.Size = new System.Drawing.Size(112, 38);
+            this.btnOpen1.TabIndex = 16;
+            this.btnOpen1.Text = "RTAB";
+            this.btnOpen1.UseVisualStyleBackColor = false;
+            this.btnOpen1.Click += new System.EventHandler(this.BtnOpen1_Click);
+            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -91,15 +92,16 @@
             this.label2.TabIndex = 17;
             this.label2.Text = "foolproof intermsof UpgradingCapacity";
             // 
-            // button1
+            // btnOpen2
             // 
-            this.button1.BackColor = System.Drawing.Color.Yellow;
-            this.button1.Location = new System.Drawing.Point(3, 56);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(112, 38);
-            this.button1.TabIndex = 18;
-            this.button1.Text = "ASIMOByboard";
-            this.button1.UseVisualStyleBackColor = false;
+            this.btnOpen2.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen2.Location = new System.Drawing.Point(3, 56);
+            this.btnOpen2.Name = "btnOpen2";
+            this.btnOpen2.Size = new System.Drawing.Size(112, 38);
+            this.btnOpen2.TabIndex = 18;
+            this.btnOpen2.Text = "RobotSpanner";
+            this.btnOpen2.UseVisualStyleBackColor = false;
+            this.btnOpen2.Click += new System.EventHandler(this.BtnOpen2_Click);
             // 
             // label3
             // 
@@ -112,15 +114,16 @@
             this.label3.TabIndex = 19;
             this.label3.Text = "foolproof intermsof ServoCapabilities";
             // 
-            // button2
+            // btnOpen3
             // 
-            this.button2.BackColor = System.Drawing.Color.Yellow;
-            this.button2.Location = new System.Drawing.Point(3, 114);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(112, 38);
-            this.button2.TabIndex = 20;
-            this.button2.Text = "PQRAvailability";
-            this.button2.UseVisualStyleBackColor = false;
+            this.btnOpen3.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen3.Location = new System.Drawing.Point(3, 114);
+            this.btnOpen3.Name = "btnOpen3";
+            this.btnOpen3.Size = new System.Drawing.Size(112, 38);
+            this.btnOpen3.TabIndex = 20;
+            this.btnOpen3.Text = "PQRAvailability";
+            this.btnOpen3.UseVisualStyleBackColor = false;
+            this.btnOpen3.Click += new System.EventHandler(this.BtnOpen3_Click);
             // 
             // fSub2
             // 
@@ -142,8 +145,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnOpen1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnOpen2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnOpen3;
     }
 }

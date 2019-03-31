@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\EMERG\bin\Debug\EMERG.exe.config
+C:\Users\hanif\source\repos\EMERG\bin\Debug\EMERG.exe
+C:\Users\hanif\source\repos\EMERG\bin\Debug\EMERG.pdb
+C:\Users\hanif\source\repos\EMERG\obj\Debug\EMERG.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\EMERG\obj\Debug\EMERG.Form1.resources
+C:\Users\hanif\source\repos\EMERG\obj\Debug\EMERG.Properties.Resources.resources
+C:\Users\hanif\source\repos\EMERG\obj\Debug\EMERG.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\EMERG\obj\Debug\EMERG.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\EMERG\obj\Debug\EMERG.exe
+C:\Users\hanif\source\repos\EMERG\obj\Debug\EMERG.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28721.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMIEM2", "PMIEM2.csproj", "{26AE2A8C-C9DB-4DEC-B5F4-B5AE213A547C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26AE2A8C-C9DB-4DEC-B5F4-B5AE213A547C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AE2A8C-C9DB-4DEC-B5F4-B5AE213A547C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AE2A8C-C9DB-4DEC-B5F4-B5AE213A547C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AE2A8C-C9DB-4DEC-B5F4-B5AE213A547C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0841B3B5-5854-4E73-8686-8A0D8A0FACF0}
+	EndGlobalSection
+EndGlobal

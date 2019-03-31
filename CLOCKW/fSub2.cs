@@ -16,5 +16,25 @@ namespace CLOCKW
         {
             InitializeComponent();
         }
+
+        private void BtnOpen1_Click(object sender, EventArgs e)
+        {
+            fRSub1 _dlg = new fRSub1();
+            _dlg.ShowDialog();
+        }
+
+        private void BtnOpen2_Click(object sender, EventArgs e)
+        {
+            fRSub2 _dlg = new fRSub2();
+            _dlg.ShowDialog();
+
+        }
+
+        private void BtnOpen3_Click(object sender, EventArgs e)
+        {
+            fRSub3 _dlg = new fRSub3();
+            _dlg.ShowDialog();
+
+        }
     }
 }
