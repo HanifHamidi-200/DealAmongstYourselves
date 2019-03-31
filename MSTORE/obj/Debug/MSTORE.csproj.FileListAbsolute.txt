@@ -1,0 +1,12 @@
+C:\Users\hanif\source\repos\MSTORE\bin\Debug\MSTORE.exe.config
+C:\Users\hanif\source\repos\MSTORE\bin\Debug\MSTORE.exe
+C:\Users\hanif\source\repos\MSTORE\bin\Debug\MSTORE.pdb
+C:\Users\hanif\source\repos\MSTORE\obj\Debug\MSTORE.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\MSTORE\obj\Debug\MSTORE.Form1.resources
+C:\Users\hanif\source\repos\MSTORE\obj\Debug\MSTORE.fSub1.resources
+C:\Users\hanif\source\repos\MSTORE\obj\Debug\MSTORE.fSub2.resources
+C:\Users\hanif\source\repos\MSTORE\obj\Debug\MSTORE.Properties.Resources.resources
+C:\Users\hanif\source\repos\MSTORE\obj\Debug\MSTORE.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\MSTORE\obj\Debug\MSTORE.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\MSTORE\obj\Debug\MSTORE.exe
+C:\Users\hanif\source\repos\MSTORE\obj\Debug\MSTORE.pdb
