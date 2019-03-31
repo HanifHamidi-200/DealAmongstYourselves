@@ -23,6 +23,41 @@ namespace HCF
         private int mnMetal, mnGas;
         private int mnAmount1;
 
+        private cMDatabase _db = new cMDatabase();
+        private int mnCount;
+        private int nNumber;
+        private int mnItem = 0;
+
+        private void fItemNumber()
+        {
+            String sMetal = _metals[mnMetal - 1];
+            String sText;
+
+            mnItem = 0;
+            for(int i = 1; i <= mnCount; i++)
+            {
+                sText = _db.fGetElement(i);
+                if (sMetal == sText)
+                {
+                    mnItem = i;
+                    goto endline;
+                }
+            }
+
+        endline:;
+
+        }
+
+        private void fSave()
+        {
+            String sCombination = txt3.Text;
+            String sAmount1 = Convert.ToString(mnAmount1);
+            String sAmount2 = txt6.Text;
+
+            _db.fSaveElement(mnItem, sCombination, sAmount1, sAmount2);
+            _db.fFSave();
+        }
+
         private void fReset()
         {
             Random rnd1 = new Random();
@@ -32,6 +67,32 @@ namespace HCF
 
             mnAmount1 = rnd1.Next(100, 1001);
 
+            fItemNumber();
+            fUpdateDisplay();
+        }
+
+        private void fSelect()
+        {
+            Random rnd1 = new Random();
+            String sElement = txtSelect.Text;
+
+            mnMetal = 0;
+            for(int i = 1; i <= _metals.Count(); i++)
+            {
+                if (sElement == _metals[i - 1])
+                {
+                    mnMetal = i;
+                }
+            }
+            if (mnMetal == 0)
+            {
+                mnMetal = rnd1.Next(1, mnMetals + 1);
+            }
+            mnGas = rnd1.Next(1, mnGases + 1);
+
+            mnAmount1 = rnd1.Next(100, 1001);
+
+            fItemNumber();
             fUpdateDisplay();
         }
 
@@ -65,12 +126,33 @@ namespace HCF
         }
         public fMSub2()
         {
+            bool bError;
+
             InitializeComponent();
+            bError = _db.fFLoad();
+            if (bError)
+            {
+                MessageBox.Show("There was an error reading the File", "Error!");
+            }
+            else
+            {
+                mnCount = _db.fGetCount();
+            }
         }
 
         private void BtnQNext_Click(object sender, EventArgs e)
         {
             fReset();
+        }
+
+        private void BtnSave_Click(object sender, EventArgs e)
+        {
+            fSave();
+        }
+
+        private void BtnSelect_Click(object sender, EventArgs e)
+        {
+            fSelect();
         }
 
         private void fMSub2_Load(object sender, EventArgs e)

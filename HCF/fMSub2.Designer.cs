@@ -40,7 +40,7 @@
             this.label13 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.button4 = new System.Windows.Forms.Button();
-            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.txt6 = new System.Windows.Forms.TextBox();
             this.textBox11 = new System.Windows.Forms.TextBox();
             this.richTextBox7 = new System.Windows.Forms.RichTextBox();
             this.label15 = new System.Windows.Forms.Label();
@@ -81,6 +81,7 @@
             this.lbl1 = new System.Windows.Forms.Label();
             this.btnSelect = new System.Windows.Forms.Button();
             this.btnSave = new System.Windows.Forms.Button();
+            this.txtSelect = new System.Windows.Forms.TextBox();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -90,7 +91,7 @@
             this.lblReaction.AutoSize = true;
             this.lblReaction.BackColor = System.Drawing.Color.Yellow;
             this.lblReaction.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblReaction.Location = new System.Drawing.Point(15, 26);
+            this.lblReaction.Location = new System.Drawing.Point(15, -1);
             this.lblReaction.Name = "lblReaction";
             this.lblReaction.Size = new System.Drawing.Size(37, 15);
             this.lblReaction.TabIndex = 49;
@@ -109,14 +110,14 @@
             this.groupBox2.Controls.Add(this.label13);
             this.groupBox2.Controls.Add(this.label14);
             this.groupBox2.Controls.Add(this.button4);
-            this.groupBox2.Controls.Add(this.textBox10);
+            this.groupBox2.Controls.Add(this.txt6);
             this.groupBox2.Controls.Add(this.textBox11);
             this.groupBox2.Controls.Add(this.richTextBox7);
             this.groupBox2.Controls.Add(this.label15);
             this.groupBox2.Controls.Add(this.label16);
             this.groupBox2.Controls.Add(this.richTextBox8);
             this.groupBox2.Controls.Add(this.textBox12);
-            this.groupBox2.Location = new System.Drawing.Point(607, 165);
+            this.groupBox2.Location = new System.Drawing.Point(603, 116);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(586, 572);
             this.groupBox2.TabIndex = 48;
@@ -218,12 +219,12 @@
             this.button4.Text = "GO";
             this.button4.UseVisualStyleBackColor = false;
             // 
-            // textBox10
+            // txt6
             // 
-            this.textBox10.Location = new System.Drawing.Point(307, 496);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(172, 20);
-            this.textBox10.TabIndex = 24;
+            this.txt6.Location = new System.Drawing.Point(307, 496);
+            this.txt6.Name = "txt6";
+            this.txt6.Size = new System.Drawing.Size(172, 20);
+            this.txt6.TabIndex = 24;
             // 
             // textBox11
             // 
@@ -300,7 +301,7 @@
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.richTextBox4);
             this.groupBox1.Controls.Add(this.textBox5);
-            this.groupBox1.Location = new System.Drawing.Point(15, 165);
+            this.groupBox1.Location = new System.Drawing.Point(15, 116);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(586, 572);
             this.groupBox1.TabIndex = 47;
@@ -491,7 +492,7 @@
             // 
             // txt5
             // 
-            this.txt5.Location = new System.Drawing.Point(416, 91);
+            this.txt5.Location = new System.Drawing.Point(416, 64);
             this.txt5.Name = "txt5";
             this.txt5.Size = new System.Drawing.Size(172, 20);
             this.txt5.TabIndex = 46;
@@ -501,7 +502,7 @@
             this.lbl5.AutoSize = true;
             this.lbl5.BackColor = System.Drawing.Color.Yellow;
             this.lbl5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl5.Location = new System.Drawing.Point(314, 91);
+            this.lbl5.Location = new System.Drawing.Point(314, 64);
             this.lbl5.Name = "lbl5";
             this.lbl5.Size = new System.Drawing.Size(37, 15);
             this.lbl5.TabIndex = 45;
@@ -509,7 +510,7 @@
             // 
             // txt4
             // 
-            this.txt4.Location = new System.Drawing.Point(416, 65);
+            this.txt4.Location = new System.Drawing.Point(416, 38);
             this.txt4.Name = "txt4";
             this.txt4.Size = new System.Drawing.Size(172, 20);
             this.txt4.TabIndex = 44;
@@ -519,7 +520,7 @@
             this.lbl4.AutoSize = true;
             this.lbl4.BackColor = System.Drawing.Color.Yellow;
             this.lbl4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl4.Location = new System.Drawing.Point(314, 65);
+            this.lbl4.Location = new System.Drawing.Point(314, 38);
             this.lbl4.Name = "lbl4";
             this.lbl4.Size = new System.Drawing.Size(37, 15);
             this.lbl4.TabIndex = 43;
@@ -528,7 +529,7 @@
             // btnQNext
             // 
             this.btnQNext.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnQNext.Location = new System.Drawing.Point(638, 65);
+            this.btnQNext.Location = new System.Drawing.Point(638, -1);
             this.btnQNext.Name = "btnQNext";
             this.btnQNext.Size = new System.Drawing.Size(100, 85);
             this.btnQNext.TabIndex = 42;
@@ -537,7 +538,7 @@
             // 
             // txt3
             // 
-            this.txt3.Location = new System.Drawing.Point(117, 117);
+            this.txt3.Location = new System.Drawing.Point(117, 90);
             this.txt3.Name = "txt3";
             this.txt3.Size = new System.Drawing.Size(172, 20);
             this.txt3.TabIndex = 41;
@@ -547,7 +548,7 @@
             this.lbl3.AutoSize = true;
             this.lbl3.BackColor = System.Drawing.Color.Yellow;
             this.lbl3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl3.Location = new System.Drawing.Point(15, 117);
+            this.lbl3.Location = new System.Drawing.Point(15, 90);
             this.lbl3.Name = "lbl3";
             this.lbl3.Size = new System.Drawing.Size(37, 15);
             this.lbl3.TabIndex = 40;
@@ -555,7 +556,7 @@
             // 
             // txt2
             // 
-            this.txt2.Location = new System.Drawing.Point(117, 91);
+            this.txt2.Location = new System.Drawing.Point(117, 64);
             this.txt2.Name = "txt2";
             this.txt2.Size = new System.Drawing.Size(172, 20);
             this.txt2.TabIndex = 39;
@@ -565,7 +566,7 @@
             this.lbl2.AutoSize = true;
             this.lbl2.BackColor = System.Drawing.Color.Yellow;
             this.lbl2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl2.Location = new System.Drawing.Point(15, 91);
+            this.lbl2.Location = new System.Drawing.Point(15, 64);
             this.lbl2.Name = "lbl2";
             this.lbl2.Size = new System.Drawing.Size(37, 15);
             this.lbl2.TabIndex = 38;
@@ -573,7 +574,7 @@
             // 
             // txt1
             // 
-            this.txt1.Location = new System.Drawing.Point(117, 65);
+            this.txt1.Location = new System.Drawing.Point(117, 38);
             this.txt1.Name = "txt1";
             this.txt1.Size = new System.Drawing.Size(172, 20);
             this.txt1.TabIndex = 37;
@@ -583,7 +584,7 @@
             this.lbl1.AutoSize = true;
             this.lbl1.BackColor = System.Drawing.Color.Yellow;
             this.lbl1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl1.Location = new System.Drawing.Point(15, 65);
+            this.lbl1.Location = new System.Drawing.Point(15, 38);
             this.lbl1.Name = "lbl1";
             this.lbl1.Size = new System.Drawing.Size(37, 15);
             this.lbl1.TabIndex = 36;
@@ -592,28 +593,38 @@
             // btnSelect
             // 
             this.btnSelect.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnSelect.Location = new System.Drawing.Point(744, 65);
+            this.btnSelect.Location = new System.Drawing.Point(852, -1);
             this.btnSelect.Name = "btnSelect";
             this.btnSelect.Size = new System.Drawing.Size(100, 85);
             this.btnSelect.TabIndex = 50;
             this.btnSelect.Text = "SELECT";
             this.btnSelect.UseVisualStyleBackColor = false;
+            this.btnSelect.Click += new System.EventHandler(this.BtnSelect_Click);
             // 
             // btnSave
             // 
             this.btnSave.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnSave.Location = new System.Drawing.Point(852, 65);
+            this.btnSave.Location = new System.Drawing.Point(744, -1);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(100, 85);
             this.btnSave.TabIndex = 51;
             this.btnSave.Text = "SAVE";
             this.btnSave.UseVisualStyleBackColor = false;
+            this.btnSave.Click += new System.EventHandler(this.BtnSave_Click);
+            // 
+            // txtSelect
+            // 
+            this.txtSelect.Location = new System.Drawing.Point(962, -1);
+            this.txtSelect.Name = "txtSelect";
+            this.txtSelect.Size = new System.Drawing.Size(87, 20);
+            this.txtSelect.TabIndex = 52;
             // 
             // fMSub2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1201, 749);
+            this.ClientSize = new System.Drawing.Size(1201, 691);
+            this.Controls.Add(this.txtSelect);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.btnSelect);
             this.Controls.Add(this.lblReaction);
@@ -656,7 +667,7 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.TextBox textBox10;
+        private System.Windows.Forms.TextBox txt6;
         private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.RichTextBox richTextBox7;
         private System.Windows.Forms.Label label15;
@@ -697,5 +708,6 @@
         private System.Windows.Forms.Label lbl1;
         private System.Windows.Forms.Button btnSelect;
         private System.Windows.Forms.Button btnSave;
+        private System.Windows.Forms.TextBox txtSelect;
     }
 }

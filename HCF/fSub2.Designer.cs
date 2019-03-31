@@ -32,6 +32,8 @@
             this.btnOpen4 = new System.Windows.Forms.Button();
             this.btnOpen3 = new System.Windows.Forms.Button();
             this.btnOpen2 = new System.Windows.Forms.Button();
+            this.btnOpen5 = new System.Windows.Forms.Button();
+            this.btnOpen6 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOpen1
@@ -52,7 +54,7 @@
             this.btnOpen4.Name = "btnOpen4";
             this.btnOpen4.Size = new System.Drawing.Size(226, 42);
             this.btnOpen4.TabIndex = 3;
-            this.btnOpen4.Text = "Probability";
+            this.btnOpen4.Text = "Cutlerys";
             this.btnOpen4.UseVisualStyleBackColor = false;
             this.btnOpen4.Click += new System.EventHandler(this.BtnOpen4_Click);
             // 
@@ -63,7 +65,7 @@
             this.btnOpen3.Name = "btnOpen3";
             this.btnOpen3.Size = new System.Drawing.Size(226, 42);
             this.btnOpen3.TabIndex = 4;
-            this.btnOpen3.Text = "Possibility";
+            this.btnOpen3.Text = "WhosInCharge_OftheMetal";
             this.btnOpen3.UseVisualStyleBackColor = false;
             this.btnOpen3.Click += new System.EventHandler(this.BtnOpen3_Click);
             // 
@@ -78,11 +80,35 @@
             this.btnOpen2.UseVisualStyleBackColor = false;
             this.btnOpen2.Click += new System.EventHandler(this.BtnOpen2_Click);
             // 
+            // btnOpen5
+            // 
+            this.btnOpen5.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen5.Location = new System.Drawing.Point(12, 228);
+            this.btnOpen5.Name = "btnOpen5";
+            this.btnOpen5.Size = new System.Drawing.Size(226, 42);
+            this.btnOpen5.TabIndex = 7;
+            this.btnOpen5.Text = "Edwardian";
+            this.btnOpen5.UseVisualStyleBackColor = false;
+            this.btnOpen5.Click += new System.EventHandler(this.BtnOpen5_Click);
+            // 
+            // btnOpen6
+            // 
+            this.btnOpen6.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen6.Location = new System.Drawing.Point(12, 276);
+            this.btnOpen6.Name = "btnOpen6";
+            this.btnOpen6.Size = new System.Drawing.Size(226, 42);
+            this.btnOpen6.TabIndex = 6;
+            this.btnOpen6.Text = "ProsperityHouse";
+            this.btnOpen6.UseVisualStyleBackColor = false;
+            this.btnOpen6.Click += new System.EventHandler(this.BtnOpen6_Click);
+            // 
             // fSub2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(262, 285);
+            this.ClientSize = new System.Drawing.Size(262, 352);
+            this.Controls.Add(this.btnOpen5);
+            this.Controls.Add(this.btnOpen6);
             this.Controls.Add(this.btnOpen2);
             this.Controls.Add(this.btnOpen3);
             this.Controls.Add(this.btnOpen4);
@@ -100,5 +126,7 @@
         private System.Windows.Forms.Button btnOpen4;
         private System.Windows.Forms.Button btnOpen3;
         private System.Windows.Forms.Button btnOpen2;
+        private System.Windows.Forms.Button btnOpen5;
+        private System.Windows.Forms.Button btnOpen6;
     }
 }

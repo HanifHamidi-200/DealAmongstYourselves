@@ -49,6 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="cENumber.cs" />
+    <Compile Include="cMDatabase.cs" />
     <Compile Include="fLSub1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -115,11 +117,29 @@
     <Compile Include="fMSub4.Designer.cs">
       <DependentUpon>fMSub4.cs</DependentUpon>
     </Compile>
+    <Compile Include="fMSub5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMSub5.Designer.cs">
+      <DependentUpon>fMSub5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMSub6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMSub6.Designer.cs">
+      <DependentUpon>fMSub6.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fPSub1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPSub1.Designer.cs">
+      <DependentUpon>fPSub1.cs</DependentUpon>
     </Compile>
     <Compile Include="fSub1.cs">
       <SubType>Form</SubType>
@@ -159,8 +179,17 @@
     <EmbeddedResource Include="fMSub4.resx">
       <DependentUpon>fMSub4.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="fMSub5.resx">
+      <DependentUpon>fMSub5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMSub6.resx">
+      <DependentUpon>fMSub6.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPSub1.resx">
+      <DependentUpon>fPSub1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fSub1.resx">
       <DependentUpon>fSub1.cs</DependentUpon>

@@ -47,6 +47,22 @@ namespace HCF
             _dlg.ShowDialog();
 
         }
+
+        private void BtnOpen5_Click(object sender, EventArgs e)
+        {
+            fMSub5 _dlg = new fMSub5();
+            _dlg.ShowDialog();
+
+
+        }
+
+        private void BtnOpen6_Click(object sender, EventArgs e)
+        {
+            fMSub6 _dlg = new fMSub6();
+            _dlg.ShowDialog();
+
+
+        }
     }
 }
        
