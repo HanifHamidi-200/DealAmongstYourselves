@@ -1,0 +1,52 @@
+﻿
+@model WEILSI.Models.Cat
+
+@{
+    ViewData["Title"] = "RsvpForm";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    //
+    <link rel="stylesheet" type="text/css" href="∼/Content/Styles.css" />
+    <title>RsvpForm</title>
+</head>
+<body>
+    <h2>RsvpForm</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <p>Model.Cat</p>
+        <p>
+            Timid?
+            @Html.DropDownListFor(x => x.Timid, new[] {
+            new SelectListItem() {Text = "Yes",
+                Value = bool.TrueString},
+            new SelectListItem() {Text = "No",
+                Value = bool.FalseString}
+            }, "Choose an option")
+        </p>
+        <p>
+            Rash?
+            @Html.DropDownListFor(x => x.Rash, new[] {
+            new SelectListItem() {Text = "Yes",
+                Value = bool.TrueString},
+            new SelectListItem() {Text = "No",
+                Value = bool.FalseString}
+            }, "Choose an option")
+        </p>
+        <p>
+            Fast?
+            @Html.DropDownListFor(x => x.Fast, new[] {
+            new SelectListItem() {Text = "Yes",
+                Value = bool.TrueString},
+            new SelectListItem() {Text = "No",
+                Value = bool.FalseString}
+            }, "Choose an option")
+        </p>
+        <input type="submit" value="Submit RSVP" />
+    }
+</body>
+</html>

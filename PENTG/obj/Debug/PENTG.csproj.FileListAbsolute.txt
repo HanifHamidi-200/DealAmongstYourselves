@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\PENTG\bin\Debug\PENTG.exe.config
+C:\Users\hanif\source\repos\PENTG\bin\Debug\PENTG.exe
+C:\Users\hanif\source\repos\PENTG\bin\Debug\PENTG.pdb
+C:\Users\hanif\source\repos\PENTG\obj\Debug\PENTG.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\PENTG\obj\Debug\PENTG.Form1.resources
+C:\Users\hanif\source\repos\PENTG\obj\Debug\PENTG.Properties.Resources.resources
+C:\Users\hanif\source\repos\PENTG\obj\Debug\PENTG.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\PENTG\obj\Debug\PENTG.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\PENTG\obj\Debug\PENTG.exe
+C:\Users\hanif\source\repos\PENTG\obj\Debug\PENTG.pdb
