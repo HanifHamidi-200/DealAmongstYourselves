@@ -33,6 +33,8 @@
             this.btnOpen3 = new System.Windows.Forms.Button();
             this.btnOpen4 = new System.Windows.Forms.Button();
             this.btnOpen5 = new System.Windows.Forms.Button();
+            this.btnOpen6 = new System.Windows.Forms.Button();
+            this.btnOpen7 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOpen1
@@ -90,18 +92,44 @@
             this.btnOpen5.UseVisualStyleBackColor = false;
             this.btnOpen5.Click += new System.EventHandler(this.BtnOpen5_Click);
             // 
+            // btnOpen6
+            // 
+            this.btnOpen6.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen6.Location = new System.Drawing.Point(12, 265);
+            this.btnOpen6.Name = "btnOpen6";
+            this.btnOpen6.Size = new System.Drawing.Size(195, 42);
+            this.btnOpen6.TabIndex = 5;
+            this.btnOpen6.Text = "PMEIM2";
+            this.btnOpen6.UseVisualStyleBackColor = false;
+            this.btnOpen6.Click += new System.EventHandler(this.BtnOpen6_Click);
+            // 
+            // btnOpen7
+            // 
+            this.btnOpen7.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen7.Location = new System.Drawing.Point(12, 313);
+            this.btnOpen7.Name = "btnOpen7";
+            this.btnOpen7.Size = new System.Drawing.Size(195, 42);
+            this.btnOpen7.TabIndex = 6;
+            this.btnOpen7.Text = "CTFL";
+            this.btnOpen7.UseVisualStyleBackColor = false;
+            this.btnOpen7.Click += new System.EventHandler(this.BtnOpen7_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(226, 293);
+            this.BackColor = System.Drawing.Color.Green;
+            this.ClientSize = new System.Drawing.Size(297, 402);
+            this.Controls.Add(this.btnOpen7);
+            this.Controls.Add(this.btnOpen6);
             this.Controls.Add(this.btnOpen5);
             this.Controls.Add(this.btnOpen4);
             this.Controls.Add(this.btnOpen3);
             this.Controls.Add(this.btnOpen2);
             this.Controls.Add(this.btnOpen1);
             this.Name = "Form1";
-            this.Text = "XMIN";
+            this.Text = "XMINPortfolio";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
@@ -113,6 +141,8 @@
         private System.Windows.Forms.Button btnOpen3;
         private System.Windows.Forms.Button btnOpen4;
         private System.Windows.Forms.Button btnOpen5;
+        private System.Windows.Forms.Button btnOpen6;
+        private System.Windows.Forms.Button btnOpen7;
     }
 }
 

@@ -50,5 +50,24 @@ namespace XMIN
             _dlg.ShowDialog();
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnOpen6_Click(object sender, EventArgs e)
+        {
+            fSub6 _dlg = new fSub6();
+            _dlg.ShowDialog();
+
+        }
+
+        private void BtnOpen7_Click(object sender, EventArgs e)
+        {
+            fSub7 _dlg = new fSub7();
+            _dlg.ShowDialog();
+
+        }
     }
 }

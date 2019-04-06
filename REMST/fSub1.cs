@@ -144,7 +144,7 @@ namespace REMST
                     mbFirst = false;
                     mnStatusCol = nCol;
                     mnStatusRow = nRow;
-                }
+                 }
             }
             else
             {
@@ -164,6 +164,7 @@ namespace REMST
                             fPlace(fShoot(), nPos);
                             mnStatusCol = nCol;
                             mnStatusRow = nRow;
+                            fUpdateReveal(mnStatusCol, mnStatusRow);
                             break;
                         case 11:
                             mnStatusCol = nCol;
@@ -179,8 +180,7 @@ namespace REMST
                 }
             }
 
-            fUpdateDisplay();
-        }
+         }
 
 
         private void fReset()
@@ -253,6 +253,251 @@ namespace REMST
                 sTwo = "0" + sTwo;
             }
             msShuffle2 = msShuffle2.Substring(0, nSquare * 2 - 2) + sTwo + msShuffle2.Substring(nSquare * 2, (64 - nSquare) * 2);
+        }
+
+        private void fUpdateReveal(int nBar, int nRow)
+        {
+            PictureBox _pic = new PictureBox();
+            int nPos = (nBar - 1) * 8 + nRow;
+            int nType = fHoletype(msShuffle2, nPos), nRotate = 1;
+
+            fPeek(nType, nRotate, ref _pic);
+
+            switch (nBar)
+            {
+                case 1:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic11.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic12.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic13.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic14.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic15.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic16.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic17.Image = _pic.Image;
+                            break;
+                        default:
+                            pic18.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 2:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic21.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic22.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic23.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic24.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic25.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic26.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic27.Image = _pic.Image;
+                            break;
+                        default:
+                            pic28.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 3:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic31.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic32.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic33.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic34.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic35.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic36.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic37.Image = _pic.Image;
+                            break;
+                        default:
+                            pic38.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 4:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic41.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic42.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic43.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic44.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic45.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic46.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic47.Image = _pic.Image;
+                            break;
+                        default:
+                            pic48.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 5:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic51.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic52.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic53.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic54.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic55.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic56.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic57.Image = _pic.Image;
+                            break;
+                        default:
+                            pic58.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 6:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic61.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic62.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic63.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic64.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic65.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic66.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic67.Image = _pic.Image;
+                            break;
+                        default:
+                            pic68.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 7:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic71.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic72.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic73.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic74.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic75.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic76.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic77.Image = _pic.Image;
+                            break;
+                        default:
+                            pic78.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                default:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic81.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic82.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic83.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic84.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic85.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic86.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic87.Image = _pic.Image;
+                            break;
+                        default:
+                            pic88.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+            }
         }
 
         private void fUpdateDisplay()

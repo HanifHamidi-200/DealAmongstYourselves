@@ -8,15 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace EMERG
+namespace XMIN
 {
-    public partial class fSub6 : Form
+    public partial class fSub7 : Form
     {
-        public fSub6()
+        public fSub7()
         {
             InitializeComponent();
         }
-
-   
     }
 }

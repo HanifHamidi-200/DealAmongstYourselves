@@ -37,6 +37,7 @@
             this.btnOpen4 = new System.Windows.Forms.Button();
             this.btnOpen5 = new System.Windows.Forms.Button();
             this.btnOpen6 = new System.Windows.Forms.Button();
+            this.btnOpen7 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -127,11 +128,23 @@
             this.btnOpen6.UseVisualStyleBackColor = false;
             this.btnOpen6.Click += new System.EventHandler(this.BtnOpen6_Click);
             // 
+            // btnOpen7
+            // 
+            this.btnOpen7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnOpen7.Location = new System.Drawing.Point(992, 34);
+            this.btnOpen7.Name = "btnOpen7";
+            this.btnOpen7.Size = new System.Drawing.Size(104, 92);
+            this.btnOpen7.TabIndex = 8;
+            this.btnOpen7.Text = "OwnershipManual";
+            this.btnOpen7.UseVisualStyleBackColor = false;
+            this.btnOpen7.Click += new System.EventHandler(this.BtnOpen7_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(992, 450);
+            this.ClientSize = new System.Drawing.Size(1125, 450);
+            this.Controls.Add(this.btnOpen7);
             this.Controls.Add(this.btnOpen6);
             this.Controls.Add(this.btnOpen5);
             this.Controls.Add(this.btnOpen4);
@@ -158,6 +171,7 @@
         private System.Windows.Forms.Button btnOpen4;
         private System.Windows.Forms.Button btnOpen5;
         private System.Windows.Forms.Button btnOpen6;
+        private System.Windows.Forms.Button btnOpen7;
     }
 }
 

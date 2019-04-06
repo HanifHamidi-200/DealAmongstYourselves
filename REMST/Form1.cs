@@ -27,7 +27,7 @@ namespace REMST
         {
             fSub2 _dlg = new fSub2();
             _dlg.ShowDialog();
-
+              
         }
 
         private void BtnOpen3_Click(object sender, EventArgs e)
@@ -67,28 +67,5 @@ namespace REMST
 
         }
 
-        private void BtnOpen8_Click(object sender, EventArgs e)
-        {
-            fSub8 _dlg = new fSub8();
-            _dlg.ShowDialog();
-
-
-        }
-
-        private void BtnOpen9_Click(object sender, EventArgs e)
-        {
-            fSub9 _dlg = new fSub9();
-            _dlg.ShowDialog();
-
-
-        }
-
-        private void BtnOpen10_Click(object sender, EventArgs e)
-        {
-            fSub10 _dlg = new fSub10();
-            _dlg.ShowDialog();
-
-
-        }
-    }
+      }
 }

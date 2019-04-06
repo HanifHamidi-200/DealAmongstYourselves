@@ -57,5 +57,12 @@ namespace NWHOUS
             _dlg.ShowDialog();
 
         }
+
+        private void BtnOpen7_Click(object sender, EventArgs e)
+        {
+            fSub7 _dlg = new fSub7();
+            _dlg.ShowDialog();
+
+        }
     }
 }

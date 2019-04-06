@@ -37,24 +37,8 @@ namespace EMERG
 
         }
 
-        private void BtnOpen4_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-            fSub4 _dlg = new fSub4();
-            _dlg.ShowDialog();
-
-        }
-
-        private void BtnOpen5_Click(object sender, EventArgs e)
-        {
-            fSub5 _dlg = new fSub5();
-            _dlg.ShowDialog();
-
-        }
-
-        private void BtnOpen6_Click(object sender, EventArgs e)
-        {
-            fSub6 _dlg = new fSub6();
-            _dlg.ShowDialog();
 
         }
     }

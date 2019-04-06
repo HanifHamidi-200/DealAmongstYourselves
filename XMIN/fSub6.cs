@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace REMST
+namespace XMIN
 {
-    public partial class fSub9 : Form
+    public partial class fSub6 : Form
     {
-        public fSub9()
+        public fSub6()
         {
             InitializeComponent();
         }

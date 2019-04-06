@@ -16,9 +16,90 @@ namespace REMST
         private String msShuffle2;
         private int mnBar, mnRow;
         private int mnBalloonCol=0, mnBalloonRow=0;
+        private int nNumber;
 
-        private void fClick(int nCol, int nRow)
+        private void fNav(int nMode)
         {
+            Random rnd1 = new Random();
+            int nSavebar = mnBalloonCol;
+            int nSaverow = mnBalloonRow;
+            int nType,nPos;
+
+            nNumber = rnd1.Next(1, 4);
+
+            switch (nMode)
+            {
+               case 1:
+                    mnBalloonRow--;
+                    if (mnBalloonRow == 0)
+                    {
+                        MessageBox.Show("You lose", "GEnd");
+                        fReset();
+                        goto endline;
+                    }
+                    break;
+               case 2:
+                    mnBalloonCol++;
+                    if (mnBalloonCol == 9)
+                    {
+                        mnBalloonCol = 1;
+                    }
+                    break;
+                case 3:
+                    mnBalloonRow++;
+                    if (mnBalloonRow == 9)
+                    {
+                        MessageBox.Show("You lose", "GEnd");
+                        fReset();
+                        goto endline;
+                    }
+                    break;
+                default:
+                    mnBalloonCol--;
+                    if (mnBalloonCol == 0)
+                    {
+                        mnBalloonCol = 8;
+                    }
+                    break;
+             }
+
+            switch (nNumber)
+            {
+                case 1:
+                    mnBalloonRow--;
+                    if (mnBalloonRow == 0)
+                    {
+                        MessageBox.Show("You lose", "GEnd");
+                        fReset();
+                        goto endline;
+                    }
+                    break;
+                case 2:
+                    mnBalloonRow++;
+                    if (mnBalloonRow == 9)
+                    {
+                        MessageBox.Show("You lose", "GEnd");
+                        fReset();
+                        goto endline;
+                    }
+                    break;
+                default:
+                    break;
+            }
+
+            nPos = (mnBalloonCol-1) * 8 + mnBalloonRow;
+            nType = fHoletype(msShuffle2, nPos);
+
+            if (nType == 14)
+            {
+                MessageBox.Show("You lose", "GEnd");
+                fReset();
+                goto endline;
+            }
+            fUpdateReveal(nSavebar, nSaverow);
+            fUpdateIcon();
+
+        endline:;
 
         }
 
@@ -56,6 +137,7 @@ namespace REMST
             mnBalloonCol = nCol;
             mnBalloonRow = nRow;
 
+            fUpdateIcon();
             fUpdateDisplay();
         }
 
@@ -97,6 +179,496 @@ namespace REMST
                 sTwo = "0" + sTwo;
             }
             msShuffle2 = msShuffle2.Substring(0, nSquare * 2 - 2) + sTwo + msShuffle2.Substring(nSquare * 2, (64 - nSquare) * 2);
+        }
+
+        private void fUpdateReveal(int nBar, int nRow)
+        {
+            PictureBox _pic = new PictureBox();
+            int nPos = (nBar - 1) * 8 + nRow;
+            int nType = fHoletype(msShuffle2, nPos), nRotate = 1;
+
+            fPeek(nType, nRotate, ref _pic);
+
+            switch (nBar)
+            {
+                case 1:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic11.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic12.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic13.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic14.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic15.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic16.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic17.Image = _pic.Image;
+                            break;
+                        default:
+                            pic18.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 2:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic21.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic22.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic23.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic24.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic25.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic26.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic27.Image = _pic.Image;
+                            break;
+                        default:
+                            pic28.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 3:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic31.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic32.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic33.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic34.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic35.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic36.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic37.Image = _pic.Image;
+                            break;
+                        default:
+                            pic38.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 4:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic41.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic42.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic43.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic44.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic45.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic46.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic47.Image = _pic.Image;
+                            break;
+                        default:
+                            pic48.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 5:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic51.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic52.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic53.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic54.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic55.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic56.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic57.Image = _pic.Image;
+                            break;
+                        default:
+                            pic58.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 6:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic61.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic62.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic63.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic64.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic65.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic66.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic67.Image = _pic.Image;
+                            break;
+                        default:
+                            pic68.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 7:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic71.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic72.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic73.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic74.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic75.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic76.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic77.Image = _pic.Image;
+                            break;
+                        default:
+                            pic78.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                default:
+                    switch (nRow)
+                    {
+                        case 1:
+                            pic81.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic82.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic83.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic84.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic85.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic86.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic87.Image = _pic.Image;
+                            break;
+                        default:
+                            pic88.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+            }
+        }
+
+
+        private void fUpdateIcon()
+        {
+            PictureBox _pic = new PictureBox();
+            int nType = 7, nRotate = 1;
+
+            fPeek(nType, nRotate, ref _pic);
+
+            switch (mnBar)
+            {
+                case 1:
+                    switch (mnRow)
+                    {
+                        case 1:
+                            pic11.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic12.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic13.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic14.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic15.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic16.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic17.Image = _pic.Image;
+                            break;
+                        default:
+                            pic18.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 2:
+                    switch (mnRow)
+                    {
+                        case 1:
+                            pic21.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic22.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic23.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic24.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic25.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic26.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic27.Image = _pic.Image;
+                            break;
+                        default:
+                            pic28.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 3:
+                    switch (mnRow)
+                    {
+                        case 1:
+                            pic31.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic32.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic33.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic34.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic35.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic36.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic37.Image = _pic.Image;
+                            break;
+                        default:
+                            pic38.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 4:
+                    switch (mnRow)
+                    {
+                        case 1:
+                            pic41.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic42.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic43.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic44.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic45.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic46.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic47.Image = _pic.Image;
+                            break;
+                        default:
+                            pic48.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 5:
+                    switch (mnRow)
+                    {
+                        case 1:
+                            pic51.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic52.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic53.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic54.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic55.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic56.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic57.Image = _pic.Image;
+                            break;
+                        default:
+                            pic58.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 6:
+                    switch (mnRow)
+                    {
+                        case 1:
+                            pic61.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic62.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic63.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic64.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic65.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic66.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic67.Image = _pic.Image;
+                            break;
+                        default:
+                            pic68.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                case 7:
+                    switch (mnRow)
+                    {
+                        case 1:
+                            pic71.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic72.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic73.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic74.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic75.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic76.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic77.Image = _pic.Image;
+                            break;
+                        default:
+                            pic78.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+                default:
+                    switch (mnRow)
+                    {
+                        case 1:
+                            pic81.Image = _pic.Image;
+                            break;
+                        case 2:
+                            pic82.Image = _pic.Image;
+                            break;
+                        case 3:
+                            pic83.Image = _pic.Image;
+                            break;
+                        case 4:
+                            pic84.Image = _pic.Image;
+                            break;
+                        case 5:
+                            pic85.Image = _pic.Image;
+                            break;
+                        case 6:
+                            pic86.Image = _pic.Image;
+                            break;
+                        case 7:
+                            pic87.Image = _pic.Image;
+                            break;
+                        default:
+                            pic88.Image = _pic.Image;
+                            break;
+                    }
+                    break;
+            }
         }
 
         private void fUpdateDisplay()
@@ -569,142 +1141,24 @@ namespace REMST
 
         }
 
-        private void fSelectRow(int nMode)
+        private void BtnNav1_Click(object sender, EventArgs e)
         {
-            int nType, nPos;
-
-            mnRow = nMode;
-
-            nPos = (mnBar - 1) * 8 + mnRow;
-            nType = fHoletype(msShuffle2, nPos);
-
-            fClick(mnBar, mnRow);
-        }
-        private void fSelectBar(int nMode)
-        {
-            mnBar = nMode;
-
-            btnBar1.BackColor = Color.Yellow;
-            btnBar2.BackColor = Color.Yellow;
-            btnBar3.BackColor = Color.Yellow;
-            btnBar4.BackColor = Color.Yellow;
-            btnBar5.BackColor = Color.Yellow;
-            btnBar6.BackColor = Color.Yellow;
-            btnBar7.BackColor = Color.Yellow;
-            btnBar8.BackColor = Color.Yellow;
-
-            switch (mnBar)
-            {
-                case 1:
-                    btnBar1.BackColor = Color.Red;
-                    break;
-                case 2:
-                    btnBar2.BackColor = Color.Red;
-                    break;
-                case 3:
-                    btnBar3.BackColor = Color.Red;
-                    break;
-                case 4:
-                    btnBar4.BackColor = Color.Red;
-                    break;
-                case 5:
-                    btnBar5.BackColor = Color.Red;
-                    break;
-                case 6:
-                    btnBar6.BackColor = Color.Red;
-                    break;
-                case 7:
-                    btnBar7.BackColor = Color.Red;
-                    break;
-                default:
-                    btnBar8.BackColor = Color.Red;
-                    break;
-            }
+            fNav(1);
         }
 
-        private void BtnBar1_Click(object sender, EventArgs e)
+        private void BtnNav2_Click(object sender, EventArgs e)
         {
-            fSelectBar(1);
+            fNav(2);
         }
 
-        private void BtnBar2_Click(object sender, EventArgs e)
+        private void Btn3_Click(object sender, EventArgs e)
         {
-            fSelectBar(2);
+            fNav(3);
         }
 
-        private void BtnBar3_Click(object sender, EventArgs e)
+        private void BtnNav4_Click(object sender, EventArgs e)
         {
-            fSelectBar(3);
-        }
-
-        private void BtnBar4_Click(object sender, EventArgs e)
-        {
-            fSelectBar(4);
-        }
-
-        private void BtnBar5_Click(object sender, EventArgs e)
-        {
-            fSelectBar(5);
-        }
-
-        private void BtnBar6_Click(object sender, EventArgs e)
-        {
-            fSelectBar(6);
-        }
-
-        private void BtnBar7_Click(object sender, EventArgs e)
-        {
-            fSelectBar(7);
-        }
-
-        private void BtnBar8_Click(object sender, EventArgs e)
-        {
-            fSelectBar(8);
-        }
-
-        private void Pic11_Click(object sender, EventArgs e)
-        {
-            fSelectRow(1);
-        }
-
-        private void Pic12_Click(object sender, EventArgs e)
-        {
-            fSelectRow(2);
-        }
-
-        private void Pic13_Click(object sender, EventArgs e)
-        {
-            fSelectRow(3);
-        }
-
-        private void Pic14_Click(object sender, EventArgs e)
-        {
-            fSelectRow(4);
-        }
-
-        private void Pic15_Click(object sender, EventArgs e)
-        {
-            fSelectRow(5);
-        }
-
-        private void Pic16_Click(object sender, EventArgs e)
-        {
-            fSelectRow(6);
-        }
-
-        private void Pic17_Click(object sender, EventArgs e)
-        {
-            fSelectRow(7);
-        }
-
-        private void Pic18_Click(object sender, EventArgs e)
-        {
-            fSelectRow(8);
-        }
-
-        public fSub2()
-        {
-            InitializeComponent();
+            fNav(4);
         }
 
         private void BtnQNext_Click(object sender, EventArgs e)
