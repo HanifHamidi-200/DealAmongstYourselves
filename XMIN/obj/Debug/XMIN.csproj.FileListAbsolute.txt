@@ -36,3 +36,4 @@ C:\Users\hanif\Desktop\DealAmongstYourselves\XMIN\obj\Debug\XMIN.csproj.Generate
 C:\Users\hanif\Desktop\DealAmongstYourselves\XMIN\obj\Debug\XMIN.csproj.CoreCompileInputs.cache
 C:\Users\hanif\Desktop\DealAmongstYourselves\XMIN\obj\Debug\XMIN.exe
 C:\Users\hanif\Desktop\DealAmongstYourselves\XMIN\obj\Debug\XMIN.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\XMIN\obj\Debug\XMIN.fXSub4.resources

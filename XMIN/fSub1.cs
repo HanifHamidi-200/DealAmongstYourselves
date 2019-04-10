@@ -36,5 +36,19 @@ namespace XMIN
             _dlg.ShowDialog();
 
         }
+
+        private void BtnOpen4_Click(object sender, EventArgs e)
+        {
+            fXSub4 _dlg = new fXSub4();
+            _dlg.ShowDialog();
+
+        }
+
+        private void BtnOpen5_Click(object sender, EventArgs e)
+        {
+            fXSub5 _dlg = new fXSub5();
+            _dlg.ShowDialog();
+
+        }
     }
 }

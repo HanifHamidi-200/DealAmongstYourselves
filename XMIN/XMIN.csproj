@@ -115,6 +115,18 @@
     <Compile Include="fXSub3.Designer.cs">
       <DependentUpon>fXSub3.cs</DependentUpon>
     </Compile>
+    <Compile Include="fXSub4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fXSub4.Designer.cs">
+      <DependentUpon>fXSub4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fXSub5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fXSub5.Designer.cs">
+      <DependentUpon>fXSub5.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -150,6 +162,9 @@
     <EmbeddedResource Include="fXSub3.resx">
       <DependentUpon>fXSub3.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="fXSub4.resx">
+      <DependentUpon>fXSub4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -174,6 +189,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="F anchor.ico" />
+    <Content Include="iconsX4\F col1.png" />
+    <Content Include="iconsX4\F col2.png" />
+    <Content Include="iconsX4\F col3.png" />
+    <Content Include="iconsX4\F col4.png" />
+    <Content Include="iconsX4\F col5.png" />
+    <Content Include="iconsX4\F item1.png" />
+    <Content Include="iconsX4\F item2.png" />
+    <Content Include="iconsX4\F item3.png" />
+    <Content Include="iconsX4\F item4.png" />
+    <Content Include="iconsX4\F NullGate.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
