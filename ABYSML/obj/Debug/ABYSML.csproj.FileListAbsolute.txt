@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\ABYSML\bin\Debug\ABYSML.exe.config
+C:\Users\hanif\source\repos\ABYSML\bin\Debug\ABYSML.exe
+C:\Users\hanif\source\repos\ABYSML\bin\Debug\ABYSML.pdb
+C:\Users\hanif\source\repos\ABYSML\obj\Debug\ABYSML.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\ABYSML\obj\Debug\ABYSML.Form1.resources
+C:\Users\hanif\source\repos\ABYSML\obj\Debug\ABYSML.Properties.Resources.resources
+C:\Users\hanif\source\repos\ABYSML\obj\Debug\ABYSML.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\ABYSML\obj\Debug\ABYSML.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\ABYSML\obj\Debug\ABYSML.exe
+C:\Users\hanif\source\repos\ABYSML\obj\Debug\ABYSML.pdb

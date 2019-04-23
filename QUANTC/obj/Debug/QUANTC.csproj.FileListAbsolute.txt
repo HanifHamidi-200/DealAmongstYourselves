@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\QUANTC\bin\Debug\QUANTC.exe.config
+C:\Users\hanif\source\repos\QUANTC\bin\Debug\QUANTC.exe
+C:\Users\hanif\source\repos\QUANTC\bin\Debug\QUANTC.pdb
+C:\Users\hanif\source\repos\QUANTC\obj\Debug\QUANTC.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\QUANTC\obj\Debug\QUANTC.Form1.resources
+C:\Users\hanif\source\repos\QUANTC\obj\Debug\QUANTC.Properties.Resources.resources
+C:\Users\hanif\source\repos\QUANTC\obj\Debug\QUANTC.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\QUANTC\obj\Debug\QUANTC.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\QUANTC\obj\Debug\QUANTC.exe
+C:\Users\hanif\source\repos\QUANTC\obj\Debug\QUANTC.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\AWAR\bin\Debug\AWAR.exe.config
+C:\Users\hanif\source\repos\AWAR\bin\Debug\AWAR.exe
+C:\Users\hanif\source\repos\AWAR\bin\Debug\AWAR.pdb
+C:\Users\hanif\source\repos\AWAR\obj\Debug\AWAR.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\AWAR\obj\Debug\AWAR.Form1.resources
+C:\Users\hanif\source\repos\AWAR\obj\Debug\AWAR.Properties.Resources.resources
+C:\Users\hanif\source\repos\AWAR\obj\Debug\AWAR.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\AWAR\obj\Debug\AWAR.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\AWAR\obj\Debug\AWAR.exe
+C:\Users\hanif\source\repos\AWAR\obj\Debug\AWAR.pdb

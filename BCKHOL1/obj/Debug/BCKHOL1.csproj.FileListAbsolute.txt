@@ -1,0 +1,11 @@
+C:\Users\hanif\source\repos\BCKHOL1\bin\Debug\BCKHOL1.exe.config
+C:\Users\hanif\source\repos\BCKHOL1\bin\Debug\BCKHOL1.exe
+C:\Users\hanif\source\repos\BCKHOL1\bin\Debug\BCKHOL1.pdb
+C:\Users\hanif\source\repos\BCKHOL1\obj\Debug\BCKHOL1.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\BCKHOL1\obj\Debug\BCKHOL1.Form1.resources
+C:\Users\hanif\source\repos\BCKHOL1\obj\Debug\BCKHOL1.fSub1.resources
+C:\Users\hanif\source\repos\BCKHOL1\obj\Debug\BCKHOL1.Properties.Resources.resources
+C:\Users\hanif\source\repos\BCKHOL1\obj\Debug\BCKHOL1.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\BCKHOL1\obj\Debug\BCKHOL1.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\BCKHOL1\obj\Debug\BCKHOL1.exe
+C:\Users\hanif\source\repos\BCKHOL1\obj\Debug\BCKHOL1.pdb

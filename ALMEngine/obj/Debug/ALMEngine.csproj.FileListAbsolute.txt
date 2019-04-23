@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\ALMEngine\bin\Debug\ALMEngine.exe.config
+C:\Users\hanif\source\repos\ALMEngine\bin\Debug\ALMEngine.exe
+C:\Users\hanif\source\repos\ALMEngine\bin\Debug\ALMEngine.pdb
+C:\Users\hanif\source\repos\ALMEngine\obj\Debug\ALMEngine.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\ALMEngine\obj\Debug\ALMEngine.Form1.resources
+C:\Users\hanif\source\repos\ALMEngine\obj\Debug\ALMEngine.Properties.Resources.resources
+C:\Users\hanif\source\repos\ALMEngine\obj\Debug\ALMEngine.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\ALMEngine\obj\Debug\ALMEngine.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\ALMEngine\obj\Debug\ALMEngine.exe
+C:\Users\hanif\source\repos\ALMEngine\obj\Debug\ALMEngine.pdb
