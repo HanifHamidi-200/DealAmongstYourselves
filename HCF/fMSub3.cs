@@ -27,7 +27,65 @@ namespace HCF
             lblPossibility5.Text = msElement + " + NaOH";
         }
 
+        private void fSave()
+        {
+            String sText;
+            String s1 = txtProbability1.Text;
+            String s2 = txtProbability2.Text;
+            String s3 = txtProbability3.Text;
+            bool b1, b2, b3, b4, b5;
 
+            sText = txtPossibility1.Text;
+            if (sText.ToUpper() == "TRUE")
+            {
+                b1 = true;
+            }
+            else
+            {
+                b1 = false;
+            }
+            sText = txtPossibility2.Text;
+            if (sText.ToUpper() == "TRUE")
+            {
+                b2 = true;
+            }
+            else
+            {
+                b2 = false;
+            }
+            sText = txtPossibility3.Text;
+            if (sText.ToUpper() == "TRUE")
+            {
+                b3 = true;
+            }
+            else
+            {
+                b3 = false;
+            }
+            sText = txtPossibility4.Text;
+            if (sText.ToUpper() == "TRUE")
+            {
+                b4 = true;
+            }
+            else
+            {
+                b4 = false;
+            }
+            sText = txtPossibility5.Text;
+            if (sText.ToUpper() == "TRUE")
+            {
+                b5 = true;
+            }
+            else
+            {
+                b5 = false;
+            }
+
+            _db.fSaveElement2(mnItem, b1, b2, b3, b4, b5);
+            _db.fSaveElement3(mnItem, s1, s2, s3);
+            _db.fFSave();
+
+        }
         public fMSub3()
         {
             bool bError;
@@ -48,13 +106,25 @@ namespace HCF
 
         private void BtnProperties_Click(object sender, EventArgs e)
         {
-            fPSub1 _dlg = new fPSub1();
+            fPSub2 _dlg = new fPSub2();
             _dlg.ShowDialog();
         }
 
         private void FMSub3_Load(object sender, EventArgs e)
         {
             fUpdateDisplay();
+        }
+
+        private void BtnOpen1_Click(object sender, EventArgs e)
+        {
+            fPSub1 _dlg = new fPSub1();
+            _dlg.ShowDialog();
+
+        }
+
+        private void BtnSave_Click(object sender, EventArgs e)
+        {
+            fSave();
         }
     }
 }

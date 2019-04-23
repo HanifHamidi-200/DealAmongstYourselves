@@ -50,7 +50,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.pictureBox1);
             this.Name = "fPSub1";
-            this.Text = "MetalReactionProperties";
+            this.Text = "RegisteredBecomings";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 

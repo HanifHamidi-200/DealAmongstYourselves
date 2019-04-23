@@ -27,7 +27,85 @@ namespace HCF
         private int mnCount;
         private int nNumber;
         private int mnItem = 0;
+        private bool mbMExists;
+        private int mnCalc = 1;
 
+        private void fAnswer(int nMode)
+        {
+            double d1, d2,d3,dAnswer;
+            Single nAnswer2;
+
+            switch (nMode)
+            {
+                case 1:
+                    d1 = Convert.ToDouble(txtCalc11.Text);
+                    dAnswer = 7.2264E24 / d1;
+                    txtAnswer1.Text = Convert.ToString(dAnswer);
+                    break;
+                case 2:
+                    d1 = Convert.ToDouble(txtCalc21.Text);
+                    d2 = Convert.ToDouble(txtCalc22.Text);
+                    dAnswer = d1 / d2;
+                    txtAnswer2.Text = Convert.ToString(dAnswer);
+                    break;
+                case 3:
+                    d1 = Convert.ToDouble(txtCalc31.Text);
+                    nAnswer2 = Convert.ToSingle(d1/6.022E23);
+                    txtAnswer3.Text = Convert.ToString(nAnswer2);
+                    break;
+                case 4:
+                    d1 = Convert.ToDouble(txtCalc41.Text);
+                    dAnswer = d1 * 12;
+                    txtAnswer4.Text = Convert.ToString(dAnswer);
+                    break;
+                case 5:
+                    d1 = Convert.ToDouble(txtCalc51.Text);
+                    d2 = Convert.ToDouble(txtCalc52.Text);
+                    dAnswer = d1 / d2;
+                    txtAnswer5.Text = Convert.ToString(dAnswer);
+                    break;
+                default:
+                    d1 = Convert.ToDouble(txtCalc61.Text);
+                    d2 = Convert.ToDouble(txtCalc62.Text);
+                    d3 = Convert.ToDouble(txtCalc63.Text);
+                    dAnswer = d1 * d2 * d3;
+                    txtAnswer6.Text = Convert.ToString(dAnswer);
+                    break;
+            }
+        }
+        private void fShowCalc(int nMode)
+        {
+            fraCalc1.Visible = false;
+            fraCalc2.Visible = false;
+            fraCalc3.Visible = false;
+            fraCalc4.Visible = false;
+            fraCalc5.Visible = false;
+            fraCalc6.Visible = false;
+
+            mnCalc = nMode;
+
+            switch (nMode)
+            {
+                case 1:
+                    fraCalc1.Visible = true;
+                    break;
+                case 2:
+                    fraCalc2.Visible = true;
+                    break;
+                case 3:
+                    fraCalc3.Visible = true;
+                    break;
+                case 4:
+                    fraCalc4.Visible = true;
+                    break;
+                case 5:
+                    fraCalc5.Visible = true;
+                    break;
+                default:
+                    fraCalc6.Visible = true;
+                    break;
+            }
+        }
         private void fItemNumber()
         {
             String sMetal = _metals[mnMetal - 1];
@@ -45,7 +123,15 @@ namespace HCF
             }
 
         endline:;
-
+            mbMExists = _db.fGetElementUsed(mnItem);
+            if (mbMExists)
+            {
+                lblMExists.Text = "MetalExists = TRUE";
+            }
+            else
+            {
+                lblMExists.Text = "MetalExists = FALSE";
+            }
         }
 
         private void fSave()
@@ -58,6 +144,17 @@ namespace HCF
             _db.fFSave();
         }
 
+        private void fClearScreen()
+        {
+            txtScreen1.Text = "12 x 6.022 x 10 ^23" + Convert.ToChar(13) + "7.2264 x 10 ^ 24" + Convert.ToChar(13) + "Ihave[] mass";
+            txtScreen2.Text = "butthere are [] ofthem";
+            txtScreen3.Text = "[]/6.022 x 10 ^23" + Convert.ToChar(13) + "= %";
+            txtScreen4.Text = "Ihad []g";
+            txtScreen5.Text = "12 x 6.022 x 10 ^23" + Convert.ToChar(13) + "= 7.2264 x 10 ^ 24" + Convert.ToChar(13) + "Ihave[] mass";
+            txtScreen6.Text = "butthere are [] ofthem";
+            txtScreen7.Text = "[]/6.022 x 10 ^23" + Convert.ToChar(13) + "= %";
+            txtScreen8.Text = "Ihad[] x[] such combinations";
+        }
         private void fReset()
         {
             Random rnd1 = new Random();
@@ -69,6 +166,7 @@ namespace HCF
 
             fItemNumber();
             fUpdateDisplay();
+            fClearScreen();
         }
 
         private void fSelect()
@@ -140,11 +238,6 @@ namespace HCF
             }
         }
 
-        private void BtnQNext_Click(object sender, EventArgs e)
-        {
-            fReset();
-        }
-
         private void BtnSave_Click(object sender, EventArgs e)
         {
             fSave();
@@ -155,9 +248,71 @@ namespace HCF
             fSelect();
         }
 
+        private void BtnQNext_Click_1(object sender, EventArgs e)
+        {
+            fReset();
+
+        }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            txtGo12.Text = txtGo11.Text;
+        }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            txtGo22.Text = txtGo21.Text + "(" + txt3.Text + ")";
+        }
+
+        private void Button4_Click(object sender, EventArgs e)
+        {
+            txtGo32.Text = txtGo31.Text;
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TxtNull1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TxtGo22_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LstCalc_Click(object sender, EventArgs e)
+        {
+            fShowCalc(lstCalc.SelectedIndex + 1);
+        }
+
+        private void BtnAnswer_Click(object sender, EventArgs e)
+        {
+            fAnswer(mnCalc);
+        }
+
         private void fMSub2_Load(object sender, EventArgs e)
         {
             fReset();
+            fraCalc2.Left = fraCalc1.Left;
+            fraCalc2.Top = fraCalc1.Top;
+            fraCalc3.Left = fraCalc1.Left;
+            fraCalc3.Top = fraCalc1.Top;
+            fraCalc4.Left = fraCalc1.Left;
+            fraCalc4.Top = fraCalc1.Top;
+            fraCalc5.Left = fraCalc1.Left;
+            fraCalc5.Top = fraCalc1.Top;
+            fraCalc6.Left = fraCalc1.Left;
+            fraCalc6.Top = fraCalc1.Top;
+            fShowCalc(1);
         }
     }
 }

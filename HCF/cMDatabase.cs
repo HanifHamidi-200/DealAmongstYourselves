@@ -314,12 +314,69 @@ namespace HCF
             return _reactwithamount[nMode - 1];
         }
 
+        public bool fGetPossibility1(int nMode)
+        {
+            return _possibility1[nMode - 1];
+        }
+
+     
+        public bool fGetPossibility2(int nMode)
+        {
+            return _possibility2[nMode - 1];
+        }
+
+        public bool fGetPossibility3(int nMode)
+        {
+            return _possibility3[nMode - 1];
+        }
+
+        public bool fGetPossibility4(int nMode)
+        {
+            return _possibility4[nMode - 1];
+        }
+
+        public bool fGetPossibility5(int nMode)
+        {
+            return _possibility5[nMode - 1];
+        }
+
+        public String fGetProbability1 (int nMode)
+        {
+            return _probability1[nMode - 1];
+        }
+
+        public String fGetProbability2(int nMode)
+        {
+            return _probability2[nMode - 1];
+        }
+
+        public String fGetProbability3(int nMode)
+        {
+            return _probability3[nMode - 1];
+        }
+
         public void fSaveElement(int nMode,String sText1,String sText2,String sText3)
         {
             _ElementUsed[nMode - 1] = true;
             _combination[nMode - 1] = sText1;
             _reactamount[nMode - 1] = Convert.ToInt32(sText2);
             _reactwithamount[nMode - 1] = Convert.ToInt32(sText3);
+        }
+
+        public void fSaveElement2(int nMode, bool b1,bool b2,bool b3,bool b4,bool b5)
+        {
+            _possibility1[nMode - 1] = b1;
+            _possibility2[nMode - 1] = b2;
+            _possibility3[nMode - 1] = b3;
+            _possibility4[nMode - 1] = b4;
+            _possibility5[nMode - 1] = b5;
+        }
+
+        public void fSaveElement3(int nMode, String s1,String s2,String s3)
+        {
+            _probability1[nMode - 1] = s1;
+            _probability2[nMode - 1] = s2;
+            _probability3[nMode - 1] = s3;
         }
     }
 }

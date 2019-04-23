@@ -43,7 +43,15 @@
             this.lbl7 = new System.Windows.Forms.Label();
             this.lbl56 = new System.Windows.Forms.Label();
             this.lbl4 = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.lblCount1 = new System.Windows.Forms.Label();
+            this.lblCount2 = new System.Windows.Forms.Label();
+            this.lblCount3 = new System.Windows.Forms.Label();
+            this.lblCount4 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // lst1
@@ -213,11 +221,77 @@
             this.lbl4.TabIndex = 0;
             this.lbl4.Text = "combination = Li2O";
             // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel2.Controls.Add(this.lblCount3);
+            this.panel2.Controls.Add(this.lblCount2);
+            this.panel2.Controls.Add(this.lblCount1);
+            this.panel2.Location = new System.Drawing.Point(12, 253);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(94, 72);
+            this.panel2.TabIndex = 5;
+            // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel3.Controls.Add(this.lblCount4);
+            this.panel3.Location = new System.Drawing.Point(112, 253);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(94, 72);
+            this.panel3.TabIndex = 6;
+            // 
+            // lblCount1
+            // 
+            this.lblCount1.AutoSize = true;
+            this.lblCount1.BackColor = System.Drawing.Color.Yellow;
+            this.lblCount1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblCount1.Location = new System.Drawing.Point(3, 7);
+            this.lblCount1.Name = "lblCount1";
+            this.lblCount1.Size = new System.Drawing.Size(44, 15);
+            this.lblCount1.TabIndex = 1;
+            this.lblCount1.Text = "gas = 0";
+            // 
+            // lblCount2
+            // 
+            this.lblCount2.AutoSize = true;
+            this.lblCount2.BackColor = System.Drawing.Color.Yellow;
+            this.lblCount2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblCount2.Location = new System.Drawing.Point(3, 22);
+            this.lblCount2.Name = "lblCount2";
+            this.lblCount2.Size = new System.Drawing.Size(47, 15);
+            this.lblCount2.TabIndex = 2;
+            this.lblCount2.Text = "N/A = 0";
+            // 
+            // lblCount3
+            // 
+            this.lblCount3.AutoSize = true;
+            this.lblCount3.BackColor = System.Drawing.Color.Yellow;
+            this.lblCount3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblCount3.Location = new System.Drawing.Point(3, 37);
+            this.lblCount3.Name = "lblCount3";
+            this.lblCount3.Size = new System.Drawing.Size(52, 15);
+            this.lblCount3.TabIndex = 3;
+            this.lblCount3.Text = "metal = 0";
+            // 
+            // lblCount4
+            // 
+            this.lblCount4.AutoSize = true;
+            this.lblCount4.BackColor = System.Drawing.Color.Yellow;
+            this.lblCount4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblCount4.Location = new System.Drawing.Point(3, 7);
+            this.lblCount4.Name = "lblCount4";
+            this.lblCount4.Size = new System.Drawing.Size(57, 15);
+            this.lblCount4.TabIndex = 2;
+            this.lblCount4.Text = "TRUE = 0";
+            // 
             // fMSub1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.panel3);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnView);
             this.Controls.Add(this.btnQNext);
@@ -228,6 +302,10 @@
             this.Load += new System.EventHandler(this.FMSub1_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -249,5 +327,11 @@
         private System.Windows.Forms.Label lbl56;
         private System.Windows.Forms.Label lbl4;
         private System.Windows.Forms.Label lbl14;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Label lblCount3;
+        private System.Windows.Forms.Label lblCount2;
+        private System.Windows.Forms.Label lblCount1;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Label lblCount4;
     }
 }

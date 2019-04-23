@@ -49,3 +49,4 @@ C:\Users\hanif\Desktop\DealAmongstYourselves\HCF\obj\Debug\HCF.csproj.CoreCompil
 C:\Users\hanif\Desktop\DealAmongstYourselves\HCF\obj\Debug\HCF.exe
 C:\Users\hanif\Desktop\DealAmongstYourselves\HCF\obj\Debug\HCF.pdb
 C:\Users\hanif\Desktop\DealAmongstYourselves\HCF\obj\Debug\HCF.fPSub1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\HCF\obj\Debug\HCF.fPSub2.resources

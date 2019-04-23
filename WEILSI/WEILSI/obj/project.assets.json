@@ -12593,11 +12593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hanif\\source\\repos\\WEILSI\\WEILSI\\WEILSI.csproj",
+      "projectUniqueName": "C:\\Users\\hanif\\Desktop\\DealAmongstYourselves\\WEILSI\\WEILSI\\WEILSI.csproj",
       "projectName": "WEILSI",
-      "projectPath": "C:\\Users\\hanif\\source\\repos\\WEILSI\\WEILSI\\WEILSI.csproj",
+      "projectPath": "C:\\Users\\hanif\\Desktop\\DealAmongstYourselves\\WEILSI\\WEILSI\\WEILSI.csproj",
       "packagesPath": "C:\\Users\\hanif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hanif\\source\\repos\\WEILSI\\WEILSI\\obj\\",
+      "outputPath": "C:\\Users\\hanif\\Desktop\\DealAmongstYourselves\\WEILSI\\WEILSI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
