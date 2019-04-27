@@ -32,6 +32,9 @@
             this.btnOpen2 = new System.Windows.Forms.Button();
             this.btnOpen3 = new System.Windows.Forms.Button();
             this.btnOpen4 = new System.Windows.Forms.Button();
+            this.btnOpen5 = new System.Windows.Forms.Button();
+            this.btnOpen6 = new System.Windows.Forms.Button();
+            this.btnOpen7 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOpen1
@@ -78,12 +81,45 @@
             this.btnOpen4.UseVisualStyleBackColor = false;
             this.btnOpen4.Click += new System.EventHandler(this.BtnOpen4_Click);
             // 
+            // btnOpen5
+            // 
+            this.btnOpen5.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen5.Location = new System.Drawing.Point(12, 202);
+            this.btnOpen5.Name = "btnOpen5";
+            this.btnOpen5.Size = new System.Drawing.Size(196, 37);
+            this.btnOpen5.TabIndex = 4;
+            this.btnOpen5.Text = "TREYLF";
+            this.btnOpen5.UseVisualStyleBackColor = false;
+            // 
+            // btnOpen6
+            // 
+            this.btnOpen6.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen6.Location = new System.Drawing.Point(12, 245);
+            this.btnOpen6.Name = "btnOpen6";
+            this.btnOpen6.Size = new System.Drawing.Size(196, 37);
+            this.btnOpen6.TabIndex = 5;
+            this.btnOpen6.Text = "CASSEN";
+            this.btnOpen6.UseVisualStyleBackColor = false;
+            // 
+            // btnOpen7
+            // 
+            this.btnOpen7.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen7.Location = new System.Drawing.Point(12, 288);
+            this.btnOpen7.Name = "btnOpen7";
+            this.btnOpen7.Size = new System.Drawing.Size(196, 37);
+            this.btnOpen7.TabIndex = 6;
+            this.btnOpen7.Text = "JUMBON";
+            this.btnOpen7.UseVisualStyleBackColor = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Green;
-            this.ClientSize = new System.Drawing.Size(289, 220);
+            this.ClientSize = new System.Drawing.Size(254, 350);
+            this.Controls.Add(this.btnOpen7);
+            this.Controls.Add(this.btnOpen6);
+            this.Controls.Add(this.btnOpen5);
             this.Controls.Add(this.btnOpen4);
             this.Controls.Add(this.btnOpen3);
             this.Controls.Add(this.btnOpen2);
@@ -100,6 +136,9 @@
         private System.Windows.Forms.Button btnOpen2;
         private System.Windows.Forms.Button btnOpen3;
         private System.Windows.Forms.Button btnOpen4;
+        private System.Windows.Forms.Button btnOpen5;
+        private System.Windows.Forms.Button btnOpen6;
+        private System.Windows.Forms.Button btnOpen7;
     }
 }
 

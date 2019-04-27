@@ -1,0 +1,10 @@
+C:\Users\hanif\Desktop\DealAmongstYourselves\BBUOY\bin\Debug\BBUOY.exe.config
+C:\Users\hanif\Desktop\DealAmongstYourselves\BBUOY\bin\Debug\BBUOY.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\BBUOY\bin\Debug\BBUOY.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\BBUOY\obj\Debug\BBUOY.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\BBUOY\obj\Debug\BBUOY.Form1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\BBUOY\obj\Debug\BBUOY.Properties.Resources.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\BBUOY\obj\Debug\BBUOY.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\BBUOY\obj\Debug\BBUOY.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\BBUOY\obj\Debug\BBUOY.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\BBUOY\obj\Debug\BBUOY.pdb

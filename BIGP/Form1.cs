@@ -16,5 +16,25 @@ namespace BIGP
         {
             InitializeComponent();
         }
+
+        private void BtnOpen1_Click(object sender, EventArgs e)
+        {
+            fSub1 _dlg = new fSub1();
+            _dlg.ShowDialog();
+        }
+
+        private void BtnOpen2_Click(object sender, EventArgs e)
+        {
+            fSub2 _dlg = new fSub2();
+            _dlg.ShowDialog();
+
+        }
+
+        private void BtnOpen3_Click(object sender, EventArgs e)
+        {
+            fSub3 _dlg = new fSub3();
+            _dlg.ShowDialog();
+
+        }
     }
 }

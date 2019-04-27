@@ -8,3 +8,16 @@ C:\Users\hanif\source\repos\BIGP\obj\Debug\BIGP.csproj.GenerateResource.cache
 C:\Users\hanif\source\repos\BIGP\obj\Debug\BIGP.csproj.CoreCompileInputs.cache
 C:\Users\hanif\source\repos\BIGP\obj\Debug\BIGP.exe
 C:\Users\hanif\source\repos\BIGP\obj\Debug\BIGP.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\bin\Debug\BIGP.exe.config
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\bin\Debug\BIGP.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\bin\Debug\BIGP.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\obj\Debug\BIGP.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\obj\Debug\BIGP.Form1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\obj\Debug\BIGP.fSub1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\obj\Debug\BIGP.fSub2.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\obj\Debug\BIGP.fSub3.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\obj\Debug\BIGP.Properties.Resources.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\obj\Debug\BIGP.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\obj\Debug\BIGP.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\obj\Debug\BIGP.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\BIGP\obj\Debug\BIGP.pdb
