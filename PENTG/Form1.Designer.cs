@@ -35,7 +35,14 @@
             this.lbl3 = new System.Windows.Forms.Label();
             this.lbl4 = new System.Windows.Forms.Label();
             this.lbl5 = new System.Windows.Forms.Label();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.lst1 = new System.Windows.Forms.ListBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.txt1 = new System.Windows.Forms.RichTextBox();
+            this.btnQNext = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -103,11 +110,69 @@
             this.lbl5.TabIndex = 5;
             this.lbl5.Text = "LuckyDatabase";
             // 
+            // groupBox1
+            // 
+            this.groupBox1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.groupBox1.Controls.Add(this.lst1);
+            this.groupBox1.Location = new System.Drawing.Point(532, 27);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(280, 157);
+            this.groupBox1.TabIndex = 6;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "5thElementActivation";
+            // 
+            // lst1
+            // 
+            this.lst1.FormattingEnabled = true;
+            this.lst1.Items.AddRange(new object[] {
+            "LuckyDatabase",
+            "NYCentralHub",
+            "DuplicatesOffice",
+            "BaBRequest"});
+            this.lst1.Location = new System.Drawing.Point(22, 26);
+            this.lst1.Name = "lst1";
+            this.lst1.Size = new System.Drawing.Size(207, 108);
+            this.lst1.TabIndex = 0;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.groupBox2.Controls.Add(this.txt1);
+            this.groupBox2.Location = new System.Drawing.Point(532, 190);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(280, 162);
+            this.groupBox2.TabIndex = 7;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "CorrespondingText";
+            // 
+            // txt1
+            // 
+            this.txt1.BackColor = System.Drawing.Color.Yellow;
+            this.txt1.Location = new System.Drawing.Point(22, 30);
+            this.txt1.Name = "txt1";
+            this.txt1.Size = new System.Drawing.Size(229, 94);
+            this.txt1.TabIndex = 0;
+            this.txt1.Text = "";
+            // 
+            // btnQNext
+            // 
+            this.btnQNext.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnQNext.Location = new System.Drawing.Point(829, 27);
+            this.btnQNext.Name = "btnQNext";
+            this.btnQNext.Size = new System.Drawing.Size(96, 90);
+            this.btnQNext.TabIndex = 8;
+            this.btnQNext.Text = "&QNext";
+            this.btnQNext.UseVisualStyleBackColor = false;
+            this.btnQNext.Click += new System.EventHandler(this.BtnQNext_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(733, 390);
+            this.ClientSize = new System.Drawing.Size(963, 390);
+            this.Controls.Add(this.btnQNext);
+            this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.lbl5);
             this.Controls.Add(this.lbl4);
             this.Controls.Add(this.lbl3);
@@ -116,7 +181,10 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
             this.Text = "PENTG";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox2.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -130,6 +198,11 @@
         private System.Windows.Forms.Label lbl3;
         private System.Windows.Forms.Label lbl4;
         private System.Windows.Forms.Label lbl5;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.ListBox lst1;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.RichTextBox txt1;
+        private System.Windows.Forms.Button btnQNext;
     }
 }
 

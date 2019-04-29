@@ -10,17 +10,24 @@ using System.Windows.Forms;
 
 namespace EMERG
 {
-    public partial class fSub3 : Form
+    public partial class fGSub1b : Form
     {
-        public fSub3()
+        public fGSub1b()
         {
             InitializeComponent();
         }
 
-        private void BtnOpen1b_Click(object sender, EventArgs e)
+        private void BtnOpen8_Click(object sender, EventArgs e)
         {
-            fGSub1b _dlg = new fGSub1b();
+            fGSSub8a _dlg = new fGSSub8a();
             _dlg.ShowDialog();
+        }
+
+        private void BtnOpen8b_Click(object sender, EventArgs e)
+        {
+            fGSSub8b _dlg = new fGSSub8b();
+            _dlg.ShowDialog();
+
         }
     }
 }

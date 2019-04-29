@@ -34,8 +34,8 @@
             this.btnOpen3 = new System.Windows.Forms.Button();
             this.btnOpen2 = new System.Windows.Forms.Button();
             this.btnOpen1 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnOpen1b = new System.Windows.Forms.Button();
+            this.btnOpen1c = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOpen6
@@ -98,25 +98,26 @@
             this.btnOpen1.Text = "GAMEB";
             this.btnOpen1.UseVisualStyleBackColor = false;
             // 
-            // button1
+            // btnOpen1b
             // 
-            this.button1.BackColor = System.Drawing.Color.Yellow;
-            this.button1.Location = new System.Drawing.Point(272, 37);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(241, 44);
-            this.button1.TabIndex = 12;
-            this.button1.Text = "ShoeBox";
-            this.button1.UseVisualStyleBackColor = false;
+            this.btnOpen1b.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen1b.Location = new System.Drawing.Point(272, 37);
+            this.btnOpen1b.Name = "btnOpen1b";
+            this.btnOpen1b.Size = new System.Drawing.Size(241, 44);
+            this.btnOpen1b.TabIndex = 12;
+            this.btnOpen1b.Text = "ShoeBox";
+            this.btnOpen1b.UseVisualStyleBackColor = false;
+            this.btnOpen1b.Click += new System.EventHandler(this.BtnOpen1b_Click);
             // 
-            // button2
+            // btnOpen1c
             // 
-            this.button2.BackColor = System.Drawing.Color.Yellow;
-            this.button2.Location = new System.Drawing.Point(519, 37);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(241, 44);
-            this.button2.TabIndex = 13;
-            this.button2.Text = "TidyTray";
-            this.button2.UseVisualStyleBackColor = false;
+            this.btnOpen1c.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen1c.Location = new System.Drawing.Point(519, 37);
+            this.btnOpen1c.Name = "btnOpen1c";
+            this.btnOpen1c.Size = new System.Drawing.Size(241, 44);
+            this.btnOpen1c.TabIndex = 13;
+            this.btnOpen1c.Text = "TidyTray";
+            this.btnOpen1c.UseVisualStyleBackColor = false;
             // 
             // fSub3
             // 
@@ -124,8 +125,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Blue;
             this.ClientSize = new System.Drawing.Size(794, 392);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnOpen1c);
+            this.Controls.Add(this.btnOpen1b);
             this.Controls.Add(this.btnOpen6);
             this.Controls.Add(this.btnOpen5);
             this.Controls.Add(this.btnOpen4);
@@ -146,7 +147,7 @@
         private System.Windows.Forms.Button btnOpen3;
         private System.Windows.Forms.Button btnOpen2;
         private System.Windows.Forms.Button btnOpen1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnOpen1b;
+        private System.Windows.Forms.Button btnOpen1c;
     }
 }
