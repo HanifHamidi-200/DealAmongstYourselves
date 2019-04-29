@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\SAMEON\bin\Debug\SAMEON.exe.config
+C:\Users\hanif\source\repos\SAMEON\bin\Debug\SAMEON.exe
+C:\Users\hanif\source\repos\SAMEON\bin\Debug\SAMEON.pdb
+C:\Users\hanif\source\repos\SAMEON\obj\Debug\SAMEON.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\SAMEON\obj\Debug\SAMEON.Form1.resources
+C:\Users\hanif\source\repos\SAMEON\obj\Debug\SAMEON.Properties.Resources.resources
+C:\Users\hanif\source\repos\SAMEON\obj\Debug\SAMEON.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\SAMEON\obj\Debug\SAMEON.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\SAMEON\obj\Debug\SAMEON.exe
+C:\Users\hanif\source\repos\SAMEON\obj\Debug\SAMEON.pdb

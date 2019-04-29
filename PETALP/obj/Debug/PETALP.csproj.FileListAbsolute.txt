@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\PETALP\bin\Debug\PETALP.exe.config
+C:\Users\hanif\source\repos\PETALP\bin\Debug\PETALP.exe
+C:\Users\hanif\source\repos\PETALP\bin\Debug\PETALP.pdb
+C:\Users\hanif\source\repos\PETALP\obj\Debug\PETALP.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\PETALP\obj\Debug\PETALP.Form1.resources
+C:\Users\hanif\source\repos\PETALP\obj\Debug\PETALP.Properties.Resources.resources
+C:\Users\hanif\source\repos\PETALP\obj\Debug\PETALP.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\PETALP\obj\Debug\PETALP.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\PETALP\obj\Debug\PETALP.exe
+C:\Users\hanif\source\repos\PETALP\obj\Debug\PETALP.pdb

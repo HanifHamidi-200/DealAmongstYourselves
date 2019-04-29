@@ -1,0 +1,9 @@
+C:\Users\hanif\source\repos\HERELF\bin\Debug\HERELF.exe.config
+C:\Users\hanif\source\repos\HERELF\bin\Debug\HERELF.exe
+C:\Users\hanif\source\repos\HERELF\bin\Debug\HERELF.pdb
+C:\Users\hanif\source\repos\HERELF\obj\Debug\HERELF.Form1.resources
+C:\Users\hanif\source\repos\HERELF\obj\Debug\HERELF.Properties.Resources.resources
+C:\Users\hanif\source\repos\HERELF\obj\Debug\HERELF.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\HERELF\obj\Debug\HERELF.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\HERELF\obj\Debug\HERELF.exe
+C:\Users\hanif\source\repos\HERELF\obj\Debug\HERELF.pdb
