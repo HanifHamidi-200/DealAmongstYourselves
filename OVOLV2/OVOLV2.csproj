@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB3C094F-CFF0-4AF0-BFC6-5C0467FE95F5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>OVOLV2</RootNamespace>
+    <AssemblyName>OVOLV2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>F purplekind.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fSub1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSub1.Designer.cs">
+      <DependentUpon>fSub1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSub1.resx">
+      <DependentUpon>fSub1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="F purplekind.ico" />
+    <Content Include="icons1\F 2Electronics1.png" />
+    <Content Include="icons1\F 2Electronics2.png" />
+    <Content Include="icons1\F 2Electronics3.png" />
+    <Content Include="icons1\F 2Electronics4.png" />
+    <Content Include="icons1\F 2TechAI1.png" />
+    <Content Include="icons1\F 2TechAI2.png" />
+    <Content Include="icons1\F 2TechAI3.png" />
+    <Content Include="icons1\F 2TechAI4.png" />
+    <Content Include="icons1\F 3Infront1.png" />
+    <Content Include="icons1\F 3Infront2.png" />
+    <Content Include="icons1\F 3Infront3.png" />
+    <Content Include="icons1\F 3Infront4.png" />
+    <Content Include="icons1\F Eachworld1.png" />
+    <Content Include="icons1\F Eachworld2.png" />
+    <Content Include="icons1\F Eachworld3.png" />
+    <Content Include="icons1\F Eachworld4.png" />
+    <Content Include="icons1\F FutureShop1.png" />
+    <Content Include="icons1\F FutureShop2.png" />
+    <Content Include="icons1\F FutureShop3.png" />
+    <Content Include="icons1\F FutureShop4.png" />
+    <Content Include="icons1\F NullGate.png" />
+    <Content Include="icons1\F result_blank.png" />
+    <Content Include="icons1\F result_CratesManagement.png" />
+    <Content Include="icons1\F result_switch.png" />
+    <Content Include="icons2\F BEFMonarchyPlan1.png" />
+    <Content Include="icons2\F BEFMonarchyPlan2.png" />
+    <Content Include="icons2\F BEFMonarchyPlan3.png" />
+    <Content Include="icons2\F BEFMonarchyPlan4.png" />
+    <Content Include="icons2\F ChristmasCounters1.png" />
+    <Content Include="icons2\F ChristmasCounters2.png" />
+    <Content Include="icons2\F ChristmasCounters3.png" />
+    <Content Include="icons2\F ChristmasCounters4.png" />
+    <Content Include="icons2\F HKMonarchyPlan1.png" />
+    <Content Include="icons2\F HKMonarchyPlan2.png" />
+    <Content Include="icons2\F HKMonarchyPlan3.png" />
+    <Content Include="icons2\F HKMonarchyPlan4.png" />
+    <Content Include="icons2\F LandlockedDecision1.png" />
+    <Content Include="icons2\F LandlockedDecision2.png" />
+    <Content Include="icons2\F LandlockedDecision3.png" />
+    <Content Include="icons2\F LandlockedDecision4.png" />
+    <Content Include="icons2\F NullGate.png" />
+    <Content Include="icons2\F result_blank.png" />
+    <Content Include="icons2\F result_CratesManagement.png" />
+    <Content Include="icons2\F result_switch.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\hanif\source\repos\YSEEK\bin\Debug\YSEEK.exe.config
+C:\Users\hanif\source\repos\YSEEK\bin\Debug\YSEEK.exe
+C:\Users\hanif\source\repos\YSEEK\bin\Debug\YSEEK.pdb
+C:\Users\hanif\source\repos\YSEEK\obj\Debug\YSEEK.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\YSEEK\obj\Debug\YSEEK.Form1.resources
+C:\Users\hanif\source\repos\YSEEK\obj\Debug\YSEEK.fSub1.resources
+C:\Users\hanif\source\repos\YSEEK\obj\Debug\YSEEK.fSub2.resources
+C:\Users\hanif\source\repos\YSEEK\obj\Debug\YSEEK.Properties.Resources.resources
+C:\Users\hanif\source\repos\YSEEK\obj\Debug\YSEEK.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\YSEEK\obj\Debug\YSEEK.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\YSEEK\obj\Debug\YSEEK.exe
+C:\Users\hanif\source\repos\YSEEK\obj\Debug\YSEEK.pdb

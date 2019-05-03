@@ -1,0 +1,13 @@
+C:\Users\hanif\source\repos\FURGAS\bin\Debug\FURGAS.exe.config
+C:\Users\hanif\source\repos\FURGAS\bin\Debug\FURGAS.exe
+C:\Users\hanif\source\repos\FURGAS\bin\Debug\FURGAS.pdb
+C:\Users\hanif\source\repos\FURGAS\obj\Debug\FURGAS.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\FURGAS\obj\Debug\FURGAS.Form1.resources
+C:\Users\hanif\source\repos\FURGAS\obj\Debug\FURGAS.fSub1.resources
+C:\Users\hanif\source\repos\FURGAS\obj\Debug\FURGAS.fSub2.resources
+C:\Users\hanif\source\repos\FURGAS\obj\Debug\FURGAS.fSub3.resources
+C:\Users\hanif\source\repos\FURGAS\obj\Debug\FURGAS.Properties.Resources.resources
+C:\Users\hanif\source\repos\FURGAS\obj\Debug\FURGAS.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\FURGAS\obj\Debug\FURGAS.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\FURGAS\obj\Debug\FURGAS.exe
+C:\Users\hanif\source\repos\FURGAS\obj\Debug\FURGAS.pdb

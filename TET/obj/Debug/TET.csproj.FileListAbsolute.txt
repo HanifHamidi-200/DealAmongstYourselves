@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\TET\bin\Debug\TET.exe.config
+C:\Users\hanif\source\repos\TET\bin\Debug\TET.exe
+C:\Users\hanif\source\repos\TET\bin\Debug\TET.pdb
+C:\Users\hanif\source\repos\TET\obj\Debug\TET.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\TET\obj\Debug\TET.Form1.resources
+C:\Users\hanif\source\repos\TET\obj\Debug\TET.Properties.Resources.resources
+C:\Users\hanif\source\repos\TET\obj\Debug\TET.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\TET\obj\Debug\TET.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\TET\obj\Debug\TET.exe
+C:\Users\hanif\source\repos\TET\obj\Debug\TET.pdb

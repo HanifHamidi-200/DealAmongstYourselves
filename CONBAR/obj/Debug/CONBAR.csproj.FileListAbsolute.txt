@@ -1,0 +1,12 @@
+C:\Users\hanif\source\repos\CONBAR\bin\Debug\CONBAR.exe.config
+C:\Users\hanif\source\repos\CONBAR\bin\Debug\CONBAR.exe
+C:\Users\hanif\source\repos\CONBAR\bin\Debug\CONBAR.pdb
+C:\Users\hanif\source\repos\CONBAR\obj\Debug\CONBAR.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\CONBAR\obj\Debug\CONBAR.Form1.resources
+C:\Users\hanif\source\repos\CONBAR\obj\Debug\CONBAR.Properties.Resources.resources
+C:\Users\hanif\source\repos\CONBAR\obj\Debug\CONBAR.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CONBAR\obj\Debug\CONBAR.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CONBAR\obj\Debug\CONBAR.exe
+C:\Users\hanif\source\repos\CONBAR\obj\Debug\CONBAR.pdb
+C:\Users\hanif\source\repos\CONBAR\obj\Debug\CONBAR.fSub1.resources
+C:\Users\hanif\source\repos\CONBAR\obj\Debug\CONBAR.fSub2.resources
