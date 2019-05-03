@@ -29,5 +29,19 @@ namespace EMERG
             _dlg.ShowDialog();
 
         }
+
+        private void BtnOpen9_Click(object sender, EventArgs e)
+        {
+            fGSSub9a _dlg = new fGSSub9a();
+            _dlg.ShowDialog();
+
+        }
+
+        private void BtnOpen9b_Click(object sender, EventArgs e)
+        {
+            fGSSub9b _dlg = new fGSSub9b();
+            _dlg.ShowDialog();
+
+        }
     }
 }

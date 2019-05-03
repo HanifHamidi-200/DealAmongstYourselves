@@ -37,6 +37,8 @@
             this.btnOpen6 = new System.Windows.Forms.Button();
             this.btnOpen5 = new System.Windows.Forms.Button();
             this.btnOpen8b = new System.Windows.Forms.Button();
+            this.btnOpen9b = new System.Windows.Forms.Button();
+            this.btnOpen9 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOpen4
@@ -131,11 +133,35 @@
             this.btnOpen8b.UseVisualStyleBackColor = false;
             this.btnOpen8b.Click += new System.EventHandler(this.BtnOpen8b_Click);
             // 
+            // btnOpen9b
+            // 
+            this.btnOpen9b.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen9b.Location = new System.Drawing.Point(259, 427);
+            this.btnOpen9b.Name = "btnOpen9b";
+            this.btnOpen9b.Size = new System.Drawing.Size(241, 44);
+            this.btnOpen9b.TabIndex = 20;
+            this.btnOpen9b.Text = "AirportHouse";
+            this.btnOpen9b.UseVisualStyleBackColor = false;
+            this.btnOpen9b.Click += new System.EventHandler(this.BtnOpen9b_Click);
+            // 
+            // btnOpen9
+            // 
+            this.btnOpen9.BackColor = System.Drawing.Color.Yellow;
+            this.btnOpen9.Location = new System.Drawing.Point(12, 427);
+            this.btnOpen9.Name = "btnOpen9";
+            this.btnOpen9.Size = new System.Drawing.Size(241, 44);
+            this.btnOpen9.TabIndex = 19;
+            this.btnOpen9.Text = "PermanentPorts";
+            this.btnOpen9.UseVisualStyleBackColor = false;
+            this.btnOpen9.Click += new System.EventHandler(this.BtnOpen9_Click);
+            // 
             // fGSub1b
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 499);
+            this.Controls.Add(this.btnOpen9b);
+            this.Controls.Add(this.btnOpen9);
             this.Controls.Add(this.btnOpen8b);
             this.Controls.Add(this.btnOpen8);
             this.Controls.Add(this.btnOpen7);
@@ -162,5 +188,7 @@
         private System.Windows.Forms.Button btnOpen6;
         private System.Windows.Forms.Button btnOpen5;
         private System.Windows.Forms.Button btnOpen8b;
+        private System.Windows.Forms.Button btnOpen9b;
+        private System.Windows.Forms.Button btnOpen9;
     }
 }

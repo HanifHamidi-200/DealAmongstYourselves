@@ -24,3 +24,5 @@ C:\Users\hanif\Desktop\DealAmongstYourselves\EMERG\obj\Debug\EMERG.pdb
 C:\Users\hanif\Desktop\DealAmongstYourselves\EMERG\obj\Debug\EMERG.fGSub1b.resources
 C:\Users\hanif\Desktop\DealAmongstYourselves\EMERG\obj\Debug\EMERG.fGSSub8a.resources
 C:\Users\hanif\Desktop\DealAmongstYourselves\EMERG\obj\Debug\EMERG.fGSSub8b.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\EMERG\obj\Debug\EMERG.fGSSub9a.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\EMERG\obj\Debug\EMERG.fGSSub9b.resources

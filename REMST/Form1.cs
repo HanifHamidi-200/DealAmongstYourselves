@@ -27,7 +27,7 @@ namespace REMST
         {
             fSub2 _dlg = new fSub2();
             _dlg.ShowDialog();
-              
+               
         }
 
         private void BtnOpen3_Click(object sender, EventArgs e)

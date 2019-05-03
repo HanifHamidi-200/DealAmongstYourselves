@@ -61,6 +61,18 @@
     <Compile Include="fGSSub8b.Designer.cs">
       <DependentUpon>fGSSub8b.cs</DependentUpon>
     </Compile>
+    <Compile Include="fGSSub9a.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fGSSub9a.Designer.cs">
+      <DependentUpon>fGSSub9a.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fGSSub9b.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fGSSub9b.Designer.cs">
+      <DependentUpon>fGSSub9b.cs</DependentUpon>
+    </Compile>
     <Compile Include="fGSub1b.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +110,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fGSSub8b.resx">
       <DependentUpon>fGSSub8b.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fGSSub9a.resx">
+      <DependentUpon>fGSSub9a.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fGSSub9b.resx">
+      <DependentUpon>fGSSub9b.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fGSub1b.resx">
       <DependentUpon>fGSub1b.cs</DependentUpon>
