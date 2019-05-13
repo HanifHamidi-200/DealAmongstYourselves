@@ -29,27 +29,30 @@
         private void InitializeComponent()
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox6 = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
-            this.label5 = new System.Windows.Forms.Label();
+            this.richTextBox6 = new System.Windows.Forms.RichTextBox();
+            this.richTextBox5 = new System.Windows.Forms.RichTextBox();
+            this.richTextBox4 = new System.Windows.Forms.RichTextBox();
+            this.richTextBox3 = new System.Windows.Forms.RichTextBox();
+            this.richTextBox2 = new System.Windows.Forms.RichTextBox();
+            this.label9 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.richTextBox2 = new System.Windows.Forms.RichTextBox();
-            this.richTextBox3 = new System.Windows.Forms.RichTextBox();
-            this.richTextBox4 = new System.Windows.Forms.RichTextBox();
-            this.richTextBox5 = new System.Windows.Forms.RichTextBox();
-            this.richTextBox6 = new System.Windows.Forms.RichTextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
             this.SuspendLayout();
@@ -60,7 +63,7 @@
             this.tableLayoutPanel1.ColumnCount = 3;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 43.90244F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 56.09756F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 131F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 132F));
             this.tableLayoutPanel1.Controls.Add(this.textBox6, 2, 2);
             this.tableLayoutPanel1.Controls.Add(this.textBox4, 2, 1);
             this.tableLayoutPanel1.Controls.Add(this.textBox2, 2, 0);
@@ -78,6 +81,30 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 68F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(378, 132);
             this.tableLayoutPanel1.TabIndex = 0;
+            // 
+            // textBox6
+            // 
+            this.textBox6.Location = new System.Drawing.Point(248, 66);
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(99, 20);
+            this.textBox6.TabIndex = 7;
+            this.textBox6.Text = "updatedwebsite";
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(248, 32);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(99, 20);
+            this.textBox4.TabIndex = 4;
+            this.textBox4.Text = "CogsleverApproach";
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(248, 3);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(99, 20);
+            this.textBox2.TabIndex = 2;
+            this.textBox2.Text = "newversions";
             // 
             // label1
             // 
@@ -98,14 +125,6 @@
             this.textBox1.TabIndex = 1;
             this.textBox1.Text = "PythonAI";
             // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(249, 3);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(99, 20);
-            this.textBox2.TabIndex = 2;
-            this.textBox2.Text = "newversions";
-            // 
             // textBox3
             // 
             this.textBox3.Location = new System.Drawing.Point(111, 32);
@@ -124,14 +143,6 @@
             this.label2.Size = new System.Drawing.Size(45, 15);
             this.label2.TabIndex = 3;
             this.label2.Text = "medium";
-            // 
-            // textBox4
-            // 
-            this.textBox4.Location = new System.Drawing.Point(249, 32);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(99, 20);
-            this.textBox4.TabIndex = 4;
-            this.textBox4.Text = "CogsleverApproach";
             // 
             // textBox5
             // 
@@ -152,21 +163,13 @@
             this.label3.TabIndex = 6;
             this.label3.Text = "large";
             // 
-            // textBox6
-            // 
-            this.textBox6.Location = new System.Drawing.Point(249, 66);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(99, 20);
-            this.textBox6.TabIndex = 7;
-            this.textBox6.Text = "updatedwebsite";
-            // 
             // tableLayoutPanel2
             // 
             this.tableLayoutPanel2.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.tableLayoutPanel2.ColumnCount = 3;
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 34.21053F));
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 65.78947F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 157F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 158F));
             this.tableLayoutPanel2.Controls.Add(this.richTextBox6, 2, 3);
             this.tableLayoutPanel2.Controls.Add(this.richTextBox5, 1, 3);
             this.tableLayoutPanel2.Controls.Add(this.richTextBox4, 2, 2);
@@ -188,16 +191,56 @@
             this.tableLayoutPanel2.Size = new System.Drawing.Size(386, 297);
             this.tableLayoutPanel2.TabIndex = 1;
             // 
-            // label5
+            // richTextBox6
             // 
-            this.label5.AutoSize = true;
-            this.label5.BackColor = System.Drawing.Color.Yellow;
-            this.label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label5.Location = new System.Drawing.Point(231, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(86, 15);
-            this.label5.TabIndex = 8;
-            this.label5.Text = "ReparationsWar";
+            this.richTextBox6.Location = new System.Drawing.Point(230, 217);
+            this.richTextBox6.Name = "richTextBox6";
+            this.richTextBox6.Size = new System.Drawing.Size(120, 62);
+            this.richTextBox6.TabIndex = 18;
+            this.richTextBox6.Text = "";
+            // 
+            // richTextBox5
+            // 
+            this.richTextBox5.Location = new System.Drawing.Point(81, 217);
+            this.richTextBox5.Name = "richTextBox5";
+            this.richTextBox5.Size = new System.Drawing.Size(120, 62);
+            this.richTextBox5.TabIndex = 17;
+            this.richTextBox5.Text = "";
+            // 
+            // richTextBox4
+            // 
+            this.richTextBox4.Location = new System.Drawing.Point(230, 134);
+            this.richTextBox4.Name = "richTextBox4";
+            this.richTextBox4.Size = new System.Drawing.Size(120, 62);
+            this.richTextBox4.TabIndex = 16;
+            this.richTextBox4.Text = "";
+            // 
+            // richTextBox3
+            // 
+            this.richTextBox3.Location = new System.Drawing.Point(81, 134);
+            this.richTextBox3.Name = "richTextBox3";
+            this.richTextBox3.Size = new System.Drawing.Size(120, 62);
+            this.richTextBox3.TabIndex = 15;
+            this.richTextBox3.Text = "";
+            // 
+            // richTextBox2
+            // 
+            this.richTextBox2.Location = new System.Drawing.Point(230, 51);
+            this.richTextBox2.Name = "richTextBox2";
+            this.richTextBox2.Size = new System.Drawing.Size(120, 62);
+            this.richTextBox2.TabIndex = 14;
+            this.richTextBox2.Text = "";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.BackColor = System.Drawing.Color.Yellow;
+            this.label9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label9.Location = new System.Drawing.Point(3, 214);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(44, 15);
+            this.label9.TabIndex = 12;
+            this.label9.Text = "division";
             // 
             // label6
             // 
@@ -209,6 +252,17 @@
             this.label6.Size = new System.Drawing.Size(83, 15);
             this.label6.TabIndex = 9;
             this.label6.Text = "HowtoWinAwar";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.Color.Yellow;
+            this.label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label5.Location = new System.Drawing.Point(230, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(86, 15);
+            this.label5.TabIndex = 8;
+            this.label5.Text = "ReparationsWar";
             // 
             // label7
             // 
@@ -232,17 +286,6 @@
             this.label8.TabIndex = 11;
             this.label8.Text = "fight";
             // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.BackColor = System.Drawing.Color.Yellow;
-            this.label9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label9.Location = new System.Drawing.Point(3, 214);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(44, 15);
-            this.label9.TabIndex = 12;
-            this.label9.Text = "division";
-            // 
             // richTextBox1
             // 
             this.richTextBox1.Location = new System.Drawing.Point(81, 51);
@@ -251,52 +294,45 @@
             this.richTextBox1.TabIndex = 13;
             this.richTextBox1.Text = "";
             // 
-            // richTextBox2
+            // button1
             // 
-            this.richTextBox2.Location = new System.Drawing.Point(231, 51);
-            this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(120, 62);
-            this.richTextBox2.TabIndex = 14;
-            this.richTextBox2.Text = "";
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.button1.Location = new System.Drawing.Point(464, 24);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(109, 112);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "Count()";
+            this.button1.UseVisualStyleBackColor = false;
             // 
-            // richTextBox3
+            // button2
             // 
-            this.richTextBox3.Location = new System.Drawing.Point(81, 134);
-            this.richTextBox3.Name = "richTextBox3";
-            this.richTextBox3.Size = new System.Drawing.Size(120, 62);
-            this.richTextBox3.TabIndex = 15;
-            this.richTextBox3.Text = "";
+            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.button2.Location = new System.Drawing.Point(464, 142);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(109, 112);
+            this.button2.TabIndex = 3;
+            this.button2.Text = "ButcherCarpenter";
+            this.button2.UseVisualStyleBackColor = false;
             // 
-            // richTextBox4
+            // button3
             // 
-            this.richTextBox4.Location = new System.Drawing.Point(231, 134);
-            this.richTextBox4.Name = "richTextBox4";
-            this.richTextBox4.Size = new System.Drawing.Size(120, 62);
-            this.richTextBox4.TabIndex = 16;
-            this.richTextBox4.Text = "";
-            // 
-            // richTextBox5
-            // 
-            this.richTextBox5.Location = new System.Drawing.Point(81, 217);
-            this.richTextBox5.Name = "richTextBox5";
-            this.richTextBox5.Size = new System.Drawing.Size(120, 62);
-            this.richTextBox5.TabIndex = 17;
-            this.richTextBox5.Text = "";
-            // 
-            // richTextBox6
-            // 
-            this.richTextBox6.Location = new System.Drawing.Point(231, 217);
-            this.richTextBox6.Name = "richTextBox6";
-            this.richTextBox6.Size = new System.Drawing.Size(120, 62);
-            this.richTextBox6.TabIndex = 18;
-            this.richTextBox6.Text = "";
+            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.button3.Location = new System.Drawing.Point(464, 260);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(109, 112);
+            this.button3.TabIndex = 4;
+            this.button3.Text = "DndDoom";
+            this.button3.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(539, 516);
+            this.ClientSize = new System.Drawing.Size(598, 516);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.tableLayoutPanel2);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
@@ -333,6 +369,9 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
     }
 }
 

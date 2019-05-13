@@ -1,0 +1,11 @@
+C:\Users\hanif\Desktop\DealAmongstYourselves\HARVC\bin\Debug\HARVC.exe.config
+C:\Users\hanif\Desktop\DealAmongstYourselves\HARVC\bin\Debug\HARVC.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\HARVC\bin\Debug\HARVC.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\HARVC\obj\Debug\HARVC.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\HARVC\obj\Debug\HARVC.Form1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\HARVC\obj\Debug\HARVC.Properties.Resources.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\HARVC\obj\Debug\HARVC.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\HARVC\obj\Debug\HARVC.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\HARVC\obj\Debug\HARVC.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\HARVC\obj\Debug\HARVC.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\HARVC\obj\Debug\HARVC.fSub1.resources

@@ -25,7 +25,7 @@ namespace KALOOS
         private int mnQLevelPos, mnKaloosPos, mnIMMCPos;
         private int mnQLevelLength, mnKaloosLength;
         private int mnHighlight;
-
+        private List<int> _numbers = new List<int> { 0, 0, 0, 0, 0, 0 };
         private void fClear()
         {
             lbl11.BackColor = Color.Yellow;
@@ -538,6 +538,11 @@ namespace KALOOS
             fColour();
             fHighlight(mnHighlight);
 
+            for (int i = 1; i <= 6; i++)
+            {
+                _numbers[i - 1] = rnd1.Next(1, 2001);
+            }
+
             fUpdateDisplay();
         }
 
@@ -596,6 +601,11 @@ namespace KALOOS
             txt3.Text = null;
         }
 
+        private void ListBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void fUpdateDisplay()
         {
             lbl11.Text = _text1[0];
@@ -637,6 +647,14 @@ namespace KALOOS
             lbl47.Text = _text4[6];
             lbl48.Text = _text4[7];
             lbl49.Text = _text4[8];
+
+            txt11.Text = Convert.ToString(_numbers[0]);
+            txt12.Text = Convert.ToString(_numbers[1]);
+            txt13.Text = Convert.ToString(_numbers[2]);
+            txt21.Text = Convert.ToString(_numbers[3]);
+            txt22.Text = Convert.ToString(_numbers[4]);
+            txt23.Text = Convert.ToString(_numbers[5]);
+
         }
 
         public fSub1()

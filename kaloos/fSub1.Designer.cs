@@ -37,6 +37,10 @@
             this.txt1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.btnQNext = new System.Windows.Forms.Button();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.listBox2 = new System.Windows.Forms.ListBox();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.lbl49 = new System.Windows.Forms.Label();
             this.lbl48 = new System.Windows.Forms.Label();
@@ -78,10 +82,21 @@
             this.btn3 = new System.Windows.Forms.Button();
             this.btn4 = new System.Windows.Forms.Button();
             this.lbl11 = new System.Windows.Forms.Label();
+            this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.label4 = new System.Windows.Forms.Label();
+            this.txt11 = new System.Windows.Forms.TextBox();
+            this.txt21 = new System.Windows.Forms.TextBox();
+            this.txt12 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
+            this.txt22 = new System.Windows.Forms.TextBox();
+            this.txt13 = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txt23 = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            this.groupBox3.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
+            this.tableLayoutPanel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -94,7 +109,7 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.txt1);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(21, 267);
+            this.groupBox1.Location = new System.Drawing.Point(773, 107);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(372, 174);
             this.groupBox1.TabIndex = 5;
@@ -169,13 +184,63 @@
             // btnQNext
             // 
             this.btnQNext.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnQNext.Location = new System.Drawing.Point(581, 267);
+            this.btnQNext.Location = new System.Drawing.Point(773, 12);
             this.btnQNext.Name = "btnQNext";
             this.btnQNext.Size = new System.Drawing.Size(112, 82);
             this.btnQNext.TabIndex = 4;
             this.btnQNext.Text = "&QNext";
             this.btnQNext.UseVisualStyleBackColor = false;
             this.btnQNext.Click += new System.EventHandler(this.btnQNext_Click);
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.groupBox2.Controls.Add(this.tableLayoutPanel1);
+            this.groupBox2.Controls.Add(this.listBox1);
+            this.groupBox2.Location = new System.Drawing.Point(21, 12);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(728, 358);
+            this.groupBox2.TabIndex = 8;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "KALOOS_EgyptianWestSetup";
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Items.AddRange(new object[] {
+            "driving around",
+            "nearby pyramids",
+            "QLEVEL awaiting",
+            "prison onits order"});
+            this.listBox1.Location = new System.Drawing.Point(22, 29);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(211, 108);
+            this.listBox1.TabIndex = 0;
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.ListBox1_SelectedIndexChanged);
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.groupBox3.Controls.Add(this.tableLayoutPanel2);
+            this.groupBox3.Controls.Add(this.listBox2);
+            this.groupBox3.Location = new System.Drawing.Point(21, 385);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(535, 200);
+            this.groupBox3.TabIndex = 9;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "NightVisitant_EgyptianMediterraneanSetup";
+            // 
+            // listBox2
+            // 
+            this.listBox2.FormattingEnabled = true;
+            this.listBox2.Items.AddRange(new object[] {
+            "WMBCloser in order",
+            "JesusUpto takes the BudgeOver",
+            "includes Mosaics to express opinion"});
+            this.listBox2.Location = new System.Drawing.Point(22, 29);
+            this.listBox2.Name = "listBox2";
+            this.listBox2.Size = new System.Drawing.Size(211, 108);
+            this.listBox2.TabIndex = 0;
             // 
             // tableLayoutPanel1
             // 
@@ -231,7 +296,7 @@
             this.tableLayoutPanel1.Controls.Add(this.btn3, 0, 2);
             this.tableLayoutPanel1.Controls.Add(this.btn4, 0, 3);
             this.tableLayoutPanel1.Controls.Add(this.lbl11, 1, 0);
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(21, 80);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(22, 152);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 4;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -239,7 +304,7 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 37F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 35F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(672, 156);
-            this.tableLayoutPanel1.TabIndex = 3;
+            this.tableLayoutPanel1.TabIndex = 4;
             // 
             // lbl49
             // 
@@ -634,7 +699,6 @@
             this.btn1.TabIndex = 0;
             this.btn1.Text = "1";
             this.btn1.UseVisualStyleBackColor = true;
-            this.btn1.Click += new System.EventHandler(this.btn1_Click);
             // 
             // btn2
             // 
@@ -644,7 +708,6 @@
             this.btn2.TabIndex = 1;
             this.btn2.Text = "2";
             this.btn2.UseVisualStyleBackColor = true;
-            this.btn2.Click += new System.EventHandler(this.btn2_Click);
             // 
             // btn3
             // 
@@ -654,7 +717,6 @@
             this.btn3.TabIndex = 2;
             this.btn3.Text = "3";
             this.btn3.UseVisualStyleBackColor = true;
-            this.btn3.Click += new System.EventHandler(this.btn3_Click);
             // 
             // btn4
             // 
@@ -664,7 +726,6 @@
             this.btn4.TabIndex = 3;
             this.btn4.Text = "4";
             this.btn4.UseVisualStyleBackColor = true;
-            this.btn4.Click += new System.EventHandler(this.btn4_Click);
             // 
             // lbl11
             // 
@@ -677,47 +738,127 @@
             this.lbl11.TabIndex = 4;
             this.lbl11.Text = "-";
             // 
+            // tableLayoutPanel2
+            // 
+            this.tableLayoutPanel2.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.tableLayoutPanel2.ColumnCount = 3;
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 65.10416F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 34.89583F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 58F));
+            this.tableLayoutPanel2.Controls.Add(this.txt23, 2, 2);
+            this.tableLayoutPanel2.Controls.Add(this.txt22, 2, 1);
+            this.tableLayoutPanel2.Controls.Add(this.txt21, 2, 0);
+            this.tableLayoutPanel2.Controls.Add(this.label4, 0, 0);
+            this.tableLayoutPanel2.Controls.Add(this.txt11, 1, 0);
+            this.tableLayoutPanel2.Controls.Add(this.txt12, 1, 1);
+            this.tableLayoutPanel2.Controls.Add(this.label5, 0, 1);
+            this.tableLayoutPanel2.Controls.Add(this.txt13, 1, 2);
+            this.tableLayoutPanel2.Controls.Add(this.label6, 0, 2);
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(256, 29);
+            this.tableLayoutPanel2.Name = "tableLayoutPanel2";
+            this.tableLayoutPanel2.RowCount = 3;
+            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 42.96875F));
+            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 57.03125F));
+            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 44F));
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(251, 149);
+            this.tableLayoutPanel2.TabIndex = 1;
+            // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.label4.BackColor = System.Drawing.Color.Yellow;
             this.label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label4.Location = new System.Drawing.Point(24, 22);
+            this.label4.Location = new System.Drawing.Point(3, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(52, 15);
-            this.label4.TabIndex = 6;
-            this.label4.Text = "KALOOS";
+            this.label4.Size = new System.Drawing.Size(67, 15);
+            this.label4.TabIndex = 33;
+            this.label4.Text = "Reengaging";
+            // 
+            // txt11
+            // 
+            this.txt11.Location = new System.Drawing.Point(128, 3);
+            this.txt11.Name = "txt11";
+            this.txt11.Size = new System.Drawing.Size(57, 20);
+            this.txt11.TabIndex = 34;
+            // 
+            // txt21
+            // 
+            this.txt21.Location = new System.Drawing.Point(195, 3);
+            this.txt21.Name = "txt21";
+            this.txt21.Size = new System.Drawing.Size(53, 20);
+            this.txt21.TabIndex = 35;
+            // 
+            // txt12
+            // 
+            this.txt12.Location = new System.Drawing.Point(128, 48);
+            this.txt12.Name = "txt12";
+            this.txt12.Size = new System.Drawing.Size(53, 20);
+            this.txt12.TabIndex = 38;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.label5.BackColor = System.Drawing.Color.Yellow;
             this.label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label5.Location = new System.Drawing.Point(24, 47);
+            this.label5.Location = new System.Drawing.Point(3, 45);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(93, 15);
-            this.label5.TabIndex = 7;
-            this.label5.Text = "Egyptian bygones";
+            this.label5.Size = new System.Drawing.Size(68, 15);
+            this.label5.TabIndex = 36;
+            this.label5.Text = "Construction";
+            // 
+            // txt22
+            // 
+            this.txt22.Location = new System.Drawing.Point(195, 48);
+            this.txt22.Name = "txt22";
+            this.txt22.Size = new System.Drawing.Size(53, 20);
+            this.txt22.TabIndex = 37;
+            // 
+            // txt13
+            // 
+            this.txt13.Location = new System.Drawing.Point(128, 107);
+            this.txt13.Name = "txt13";
+            this.txt13.Size = new System.Drawing.Size(53, 20);
+            this.txt13.TabIndex = 41;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.Color.Yellow;
+            this.label6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label6.Location = new System.Drawing.Point(3, 104);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(99, 15);
+            this.label6.TabIndex = 39;
+            this.label6.Text = "Australian/Mosaics";
+            // 
+            // txt23
+            // 
+            this.txt23.Location = new System.Drawing.Point(195, 107);
+            this.txt23.Name = "txt23";
+            this.txt23.Size = new System.Drawing.Size(53, 20);
+            this.txt23.TabIndex = 40;
             // 
             // fSub1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.label4);
+            this.ClientSize = new System.Drawing.Size(1180, 619);
+            this.Controls.Add(this.groupBox3);
+            this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnQNext);
-            this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "fSub1";
             this.Text = "KALOOS";
             this.Load += new System.EventHandler(this.fSub1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox3.ResumeLayout(false);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
+            this.tableLayoutPanel2.ResumeLayout(false);
+            this.tableLayoutPanel2.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -732,6 +873,8 @@
         private System.Windows.Forms.TextBox txt1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnQNext;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private System.Windows.Forms.Label lbl49;
         private System.Windows.Forms.Label lbl48;
@@ -773,7 +916,17 @@
         private System.Windows.Forms.Button btn3;
         private System.Windows.Forms.Button btn4;
         private System.Windows.Forms.Label lbl11;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
+        private System.Windows.Forms.TextBox txt23;
+        private System.Windows.Forms.TextBox txt22;
+        private System.Windows.Forms.TextBox txt21;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox txt11;
+        private System.Windows.Forms.TextBox txt12;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox txt13;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.ListBox listBox2;
     }
 }

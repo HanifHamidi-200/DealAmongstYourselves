@@ -7,3 +7,14 @@ C:\Users\hanif\source\repos\HERELF\obj\Debug\HERELF.csproj.GenerateResource.cach
 C:\Users\hanif\source\repos\HERELF\obj\Debug\HERELF.csproj.CoreCompileInputs.cache
 C:\Users\hanif\source\repos\HERELF\obj\Debug\HERELF.exe
 C:\Users\hanif\source\repos\HERELF\obj\Debug\HERELF.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\HERELF\bin\Debug\HERELF.exe.config
+C:\Users\hanif\Desktop\DealAmongstYourselves\HERELF\bin\Debug\HERELF.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\HERELF\bin\Debug\HERELF.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\HERELF\obj\Debug\HERELF.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\HERELF\obj\Debug\HERELF.Form1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\HERELF\obj\Debug\HERELF.fSub1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\HERELF\obj\Debug\HERELF.Properties.Resources.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\HERELF\obj\Debug\HERELF.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\HERELF\obj\Debug\HERELF.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\HERELF\obj\Debug\HERELF.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\HERELF\obj\Debug\HERELF.pdb

@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>F magma.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,16 +49,58 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="fDefine1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDefine1.Designer.cs">
+      <DependentUpon>fDefine1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fDefine2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDefine2.Designer.cs">
+      <DependentUpon>fDefine2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="fPlay1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPlay1.Designer.cs">
+      <DependentUpon>fPlay1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fPlay2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPlay2.Designer.cs">
+      <DependentUpon>fPlay2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fSub1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSub1.Designer.cs">
+      <DependentUpon>fSub1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fSub2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSub2.Designer.cs">
+      <DependentUpon>fSub2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSub1.resx">
+      <DependentUpon>fSub1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSub2.resx">
+      <DependentUpon>fSub2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -80,27 +125,28 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="icons1\F arrow.png" />
-    <Content Include="icons1\F corridor.png" />
-    <Content Include="icons1\F NullGate.png" />
-    <Content Include="icons1\F Type1A.png" />
-    <Content Include="icons1\F Type1B.png" />
-    <Content Include="icons1\F Type1C.png" />
-    <Content Include="icons1\F Type2A.png" />
-    <Content Include="icons1\F Type2B.png" />
-    <Content Include="icons1\F Type2C.png" />
-    <Content Include="icons1\F Type3A.png" />
-    <Content Include="icons1\F Type3B.png" />
-    <Content Include="icons1\F Type3C.png" />
-    <Content Include="icons1\F Type4A.png" />
-    <Content Include="icons1\F Type4B.png" />
-    <Content Include="icons1\F Type4C.png" />
-    <Content Include="icons1\F Type5A.png" />
-    <Content Include="icons1\F Type5B.png" />
-    <Content Include="icons1\F Type5C.png" />
-    <Content Include="icons1\F Type6A.png" />
-    <Content Include="icons1\F Type6B.png" />
-    <Content Include="icons1\F Type6C.png" />
+    <Content Include="F magma.ico" />
+    <Content Include="icons2\F arrow.png" />
+    <Content Include="icons2\F corridor.png" />
+    <Content Include="icons2\F NullGate.png" />
+    <Content Include="icons2\F Type1A.png" />
+    <Content Include="icons2\F Type1B.png" />
+    <Content Include="icons2\F Type1C.png" />
+    <Content Include="icons2\F Type2A.png" />
+    <Content Include="icons2\F Type2B.png" />
+    <Content Include="icons2\F Type2C.png" />
+    <Content Include="icons2\F Type3A.png" />
+    <Content Include="icons2\F Type3B.png" />
+    <Content Include="icons2\F Type3C.png" />
+    <Content Include="icons2\F Type4A.png" />
+    <Content Include="icons2\F Type4B.png" />
+    <Content Include="icons2\F Type4C.png" />
+    <Content Include="icons2\F Type5A.png" />
+    <Content Include="icons2\F Type5B.png" />
+    <Content Include="icons2\F Type5C.png" />
+    <Content Include="icons2\F Type6A.png" />
+    <Content Include="icons2\F Type6B.png" />
+    <Content Include="icons2\F Type6C.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

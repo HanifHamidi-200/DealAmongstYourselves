@@ -9,3 +9,14 @@ C:\Users\hanif\source\repos\OVOLV2\obj\Debug\OVOLV2.csproj.CoreCompileInputs.cac
 C:\Users\hanif\source\repos\OVOLV2\obj\Debug\OVOLV2.exe
 C:\Users\hanif\source\repos\OVOLV2\obj\Debug\OVOLV2.pdb
 C:\Users\hanif\source\repos\OVOLV2\obj\Debug\OVOLV2.fSub1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\OVOLV2\bin\Debug\OVOLV2.exe.config
+C:\Users\hanif\Desktop\DealAmongstYourselves\OVOLV2\bin\Debug\OVOLV2.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\OVOLV2\bin\Debug\OVOLV2.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\OVOLV2\obj\Debug\OVOLV2.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\OVOLV2\obj\Debug\OVOLV2.Form1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\OVOLV2\obj\Debug\OVOLV2.fSub1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\OVOLV2\obj\Debug\OVOLV2.Properties.Resources.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\OVOLV2\obj\Debug\OVOLV2.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\OVOLV2\obj\Debug\OVOLV2.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\OVOLV2\obj\Debug\OVOLV2.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\OVOLV2\obj\Debug\OVOLV2.pdb

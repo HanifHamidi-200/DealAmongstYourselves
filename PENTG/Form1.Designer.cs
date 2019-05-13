@@ -38,11 +38,14 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.lst1 = new System.Windows.Forms.ListBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.txt1 = new System.Windows.Forms.RichTextBox();
             this.btnQNext = new System.Windows.Forms.Button();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.txt1 = new System.Windows.Forms.RichTextBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
+            this.groupBox3.SuspendLayout();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -136,23 +139,14 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.groupBox2.Controls.Add(this.txt1);
+            this.groupBox2.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.groupBox2.Controls.Add(this.listBox1);
             this.groupBox2.Location = new System.Drawing.Point(532, 190);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(280, 162);
+            this.groupBox2.Size = new System.Drawing.Size(280, 330);
             this.groupBox2.TabIndex = 7;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "CorrespondingText";
-            // 
-            // txt1
-            // 
-            this.txt1.BackColor = System.Drawing.Color.Yellow;
-            this.txt1.Location = new System.Drawing.Point(22, 30);
-            this.txt1.Name = "txt1";
-            this.txt1.Size = new System.Drawing.Size(229, 94);
-            this.txt1.TabIndex = 0;
-            this.txt1.Text = "";
+            this.groupBox2.Text = "WheelbarrowMan_feasilibity";
             // 
             // btnQNext
             // 
@@ -165,12 +159,51 @@
             this.btnQNext.UseVisualStyleBackColor = false;
             this.btnQNext.Click += new System.EventHandler(this.BtnQNext_Click);
             // 
+            // groupBox3
+            // 
+            this.groupBox3.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.groupBox3.Controls.Add(this.txt1);
+            this.groupBox3.Location = new System.Drawing.Point(12, 358);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(501, 162);
+            this.groupBox3.TabIndex = 7;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "CorrespondingText";
+            // 
+            // txt1
+            // 
+            this.txt1.BackColor = System.Drawing.Color.Yellow;
+            this.txt1.Location = new System.Drawing.Point(22, 30);
+            this.txt1.Name = "txt1";
+            this.txt1.Size = new System.Drawing.Size(446, 90);
+            this.txt1.TabIndex = 0;
+            this.txt1.Text = "";
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Items.AddRange(new object[] {
+            "4LegsHouse",
+            "DelphinusApollo",
+            "DumpsterTruck",
+            "Hawaii5",
+            "KronosKrupakTower",
+            "MuslimGuardsInUniform",
+            "SaudiCrownPrince",
+            "SenegalTradeCentre",
+            "SouthernCruxMarketplace"});
+            this.listBox1.Location = new System.Drawing.Point(22, 37);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(207, 251);
+            this.listBox1.TabIndex = 1;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(963, 390);
+            this.ClientSize = new System.Drawing.Size(963, 621);
             this.Controls.Add(this.btnQNext);
+            this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.lbl5);
@@ -185,6 +218,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
+            this.groupBox3.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -201,8 +235,10 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.ListBox lst1;
         private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.RichTextBox txt1;
         private System.Windows.Forms.Button btnQNext;
+        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.RichTextBox txt1;
     }
 }
 

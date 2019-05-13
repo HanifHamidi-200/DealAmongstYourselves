@@ -18,3 +18,15 @@ C:\Users\hanif\Desktop\corridors2\rodbrg\MAZERN\obj\Debug\MAZERN.csproj.Generate
 C:\Users\hanif\Desktop\corridors2\rodbrg\MAZERN\obj\Debug\MAZERN.csproj.CoreCompileInputs.cache
 C:\Users\hanif\Desktop\corridors2\rodbrg\MAZERN\obj\Debug\MAZERN.exe
 C:\Users\hanif\Desktop\corridors2\rodbrg\MAZERN\obj\Debug\MAZERN.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\bin\Debug\MAZERN.exe.config
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\bin\Debug\MAZERN.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\bin\Debug\MAZERN.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\obj\Debug\MAZERN.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\obj\Debug\MAZERN.Form1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\obj\Debug\MAZERN.fSub1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\obj\Debug\MAZERN.fSub2.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\obj\Debug\MAZERN.Properties.Resources.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\obj\Debug\MAZERN.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\obj\Debug\MAZERN.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\obj\Debug\MAZERN.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\rodbrg\MAZERN\obj\Debug\MAZERN.pdb

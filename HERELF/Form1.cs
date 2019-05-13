@@ -16,5 +16,11 @@ namespace HERELF
         {
             InitializeComponent();
         }
+
+        private void BtnOpen1_Click(object sender, EventArgs e)
+        {
+            fSub1 _dlg = new fSub1();
+            _dlg.ShowDialog();
+        }
     }
 }

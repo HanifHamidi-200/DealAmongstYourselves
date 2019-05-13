@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>F electromagneticfields.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -80,7 +83,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="F electromagneticfields.ico" />
     <Content Include="icons1\F blank.png" />
+    <Content Include="icons1\F negated1.png" />
+    <Content Include="icons1\F negated2.png" />
+    <Content Include="icons1\F negated3.png" />
     <Content Include="icons1\F NullGate.png" />
     <Content Include="icons1\F tile1.png" />
     <Content Include="icons1\F tile2.png" />
