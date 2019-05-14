@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\CROSSR\bin\Debug\CROSSR.exe.config
+C:\Users\hanif\source\repos\CROSSR\bin\Debug\CROSSR.exe
+C:\Users\hanif\source\repos\CROSSR\bin\Debug\CROSSR.pdb
+C:\Users\hanif\source\repos\CROSSR\obj\Debug\CROSSR.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\CROSSR\obj\Debug\CROSSR.Form1.resources
+C:\Users\hanif\source\repos\CROSSR\obj\Debug\CROSSR.Properties.Resources.resources
+C:\Users\hanif\source\repos\CROSSR\obj\Debug\CROSSR.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CROSSR\obj\Debug\CROSSR.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CROSSR\obj\Debug\CROSSR.exe
+C:\Users\hanif\source\repos\CROSSR\obj\Debug\CROSSR.pdb

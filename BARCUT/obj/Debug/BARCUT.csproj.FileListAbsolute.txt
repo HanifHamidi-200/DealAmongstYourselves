@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\BARCUT\bin\Debug\BARCUT.exe.config
+C:\Users\hanif\source\repos\BARCUT\bin\Debug\BARCUT.exe
+C:\Users\hanif\source\repos\BARCUT\bin\Debug\BARCUT.pdb
+C:\Users\hanif\source\repos\BARCUT\obj\Debug\BARCUT.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\BARCUT\obj\Debug\BARCUT.Form1.resources
+C:\Users\hanif\source\repos\BARCUT\obj\Debug\BARCUT.Properties.Resources.resources
+C:\Users\hanif\source\repos\BARCUT\obj\Debug\BARCUT.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\BARCUT\obj\Debug\BARCUT.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\BARCUT\obj\Debug\BARCUT.exe
+C:\Users\hanif\source\repos\BARCUT\obj\Debug\BARCUT.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\CURLYR\bin\Debug\CURLYR.exe.config
+C:\Users\hanif\source\repos\CURLYR\bin\Debug\CURLYR.exe
+C:\Users\hanif\source\repos\CURLYR\bin\Debug\CURLYR.pdb
+C:\Users\hanif\source\repos\CURLYR\obj\Debug\CURLYR.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\CURLYR\obj\Debug\CURLYR.Form1.resources
+C:\Users\hanif\source\repos\CURLYR\obj\Debug\CURLYR.Properties.Resources.resources
+C:\Users\hanif\source\repos\CURLYR\obj\Debug\CURLYR.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CURLYR\obj\Debug\CURLYR.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CURLYR\obj\Debug\CURLYR.exe
+C:\Users\hanif\source\repos\CURLYR\obj\Debug\CURLYR.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\CENTN\obj\Debug\CENTN.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\CENTN\obj\Debug\CENTN.Form1.resources
+C:\Users\hanif\source\repos\CENTN\obj\Debug\CENTN.Properties.Resources.resources
+C:\Users\hanif\source\repos\CENTN\obj\Debug\CENTN.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CENTN\obj\Debug\CENTN.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CENTN\bin\Debug\CENTN.exe.config
+C:\Users\hanif\source\repos\CENTN\bin\Debug\CENTN.exe
+C:\Users\hanif\source\repos\CENTN\bin\Debug\CENTN.pdb
+C:\Users\hanif\source\repos\CENTN\obj\Debug\CENTN.exe
+C:\Users\hanif\source\repos\CENTN\obj\Debug\CENTN.pdb

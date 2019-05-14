@@ -1,0 +1,11 @@
+C:\Users\hanif\source\repos\RFAKE2\bin\Debug\RFAKE2.exe.config
+C:\Users\hanif\source\repos\RFAKE2\bin\Debug\RFAKE2.exe
+C:\Users\hanif\source\repos\RFAKE2\bin\Debug\RFAKE2.pdb
+C:\Users\hanif\source\repos\RFAKE2\obj\Debug\RFAKE2.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\RFAKE2\obj\Debug\RFAKE2.Form1.resources
+C:\Users\hanif\source\repos\RFAKE2\obj\Debug\RFAKE2.fSub7.resources
+C:\Users\hanif\source\repos\RFAKE2\obj\Debug\RFAKE2.Properties.Resources.resources
+C:\Users\hanif\source\repos\RFAKE2\obj\Debug\RFAKE2.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\RFAKE2\obj\Debug\RFAKE2.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\RFAKE2\obj\Debug\RFAKE2.exe
+C:\Users\hanif\source\repos\RFAKE2\obj\Debug\RFAKE2.pdb

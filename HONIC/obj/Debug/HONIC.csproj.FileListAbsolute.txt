@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\HONIC\bin\Debug\HONIC.exe.config
+C:\Users\hanif\source\repos\HONIC\bin\Debug\HONIC.exe
+C:\Users\hanif\source\repos\HONIC\bin\Debug\HONIC.pdb
+C:\Users\hanif\source\repos\HONIC\obj\Debug\HONIC.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\HONIC\obj\Debug\HONIC.Form1.resources
+C:\Users\hanif\source\repos\HONIC\obj\Debug\HONIC.Properties.Resources.resources
+C:\Users\hanif\source\repos\HONIC\obj\Debug\HONIC.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\HONIC\obj\Debug\HONIC.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\HONIC\obj\Debug\HONIC.exe
+C:\Users\hanif\source\repos\HONIC\obj\Debug\HONIC.pdb
