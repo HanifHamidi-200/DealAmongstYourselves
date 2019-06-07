@@ -32,6 +32,7 @@ namespace HCF
         private int mnCount;
         private int nNumber;
         private int mnItem = 0;
+        private int mnMode = 0;
 
         private void fView()
         {
@@ -40,6 +41,7 @@ namespace HCF
             String sAmount1;
             String sAmount2;
             bool bPossibility;
+            int nMode;
 
             bCondition = _db.fGetElementUsed(mnItem);
             if (bCondition == false)
@@ -108,10 +110,28 @@ namespace HCF
             lbl13.Text = "Probability(Manufacture) = " + _db.fGetProbability2(mnItem);
             lbl14.Text = "Probability(PopularUsage) = " + _db.fGetProbability3(mnItem);
 
-            _element.fSave(mnItem);
+            nMode = _db.fGetMode(mnItem);
+            txtMode.Text = Convert.ToString(nMode);
+            fModeSave();
+
+            _element.fSave(mnItem,nMode,true);
         endline:;
 
         }
+
+        private void fModeSave()
+        {
+            int nMode = Convert.ToInt32(txtMode.Text);
+
+            mnMode = nMode;
+            _db.fSaveElement4(mnItem, nMode);
+            _db.fFSave();
+        }
+        private void fModeSave2()
+        {
+            _element.fSave(mnItem, mnMode, false);
+        }
+
         private void fUpdateList()
         {
             String sText;
@@ -176,7 +196,6 @@ namespace HCF
             lblCount2.Text = "N/A = " + Convert.ToString(_count[1]);
             lblCount3.Text = "metal = " + Convert.ToString(_count[2]);
             lblCount4.Text = "TRUE = " + Convert.ToString(_count[3]);
-
         }
         public fMSub1()
         {
@@ -212,6 +231,26 @@ namespace HCF
         private void BtnView_Click(object sender, EventArgs e)
         {
             fView();
+        }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            if (mnMode != 0)
+            {
+                fOpinion2 _dlg = new fOpinion2();
+                _dlg.ShowDialog();
+            }
+        }
+
+        private void BtnMode_Click(object sender, EventArgs e)
+        {
+            fModeSave();
+        }
+
+        private void FMSub1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            fModeSave2();
+
         }
     }
 }

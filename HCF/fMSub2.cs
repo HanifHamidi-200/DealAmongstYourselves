@@ -18,17 +18,39 @@ namespace HCF
         private List<String> _gases = new List<String> { "C", "N", "O", "F", "P", "S", "Cl", "Se", "Br", "I", "At", "Ts" };
         private List<String> _gases2 = new List<String> { "4-", "3-", "2-", "1-", "3-", "2-", "1-", "2-", "1-", "1-", "1-", "1-" };
         private List<String> _gases3 = new List<String> { "6C12", "7N14", "8O16", "9F19", "15P31", "16S32", "17Cl35", "34Se79", "35Br80", "53I127", "85At210", "117Ts294" };
+        private List<int> _signage = new List<int> { 3, 4, 11, 12, 13, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118 };
         private int mnMetals = 91;
         private int mnGases = 12;
         private int mnMetal, mnGas;
         private int mnAmount1;
 
         private cMDatabase _db = new cMDatabase();
+        private cENumber _element = new cENumber();
+        private int mnItem;
         private int mnCount;
+        private String msElement;
+        private int mnMode;
+        private bool mbPrecise;
         private int nNumber;
-        private int mnItem = 0;
         private bool mbMExists;
         private int mnCalc = 1;
+
+        private int fSignage(int nNumber)
+        {
+            int nPos = 0;
+            bool bFound = false;
+
+            do
+            {
+                nPos++;
+                if (nNumber == _signage[nPos - 1])
+                {
+                    bFound = true;
+                }
+            } while (bFound == false);
+
+            return nPos;
+        }
 
         private void fAnswer(int nMode)
         {
@@ -161,6 +183,21 @@ namespace HCF
 
             mnMetal = rnd1.Next(1, mnMetals + 1);
             mnGas = rnd1.Next(1, mnGases + 1);
+            fra1.Visible = true;
+
+            mnAmount1 = rnd1.Next(100, 1001);
+
+            fItemNumber();
+            fUpdateDisplay();
+            fClearScreen();
+        }
+        private void fReset2()
+        {
+            Random rnd1 = new Random();
+
+            mnMetal = fSignage(mnItem);
+            mnGas = mnMode;
+            fra1.Visible = false;
 
             mnAmount1 = rnd1.Next(100, 1001);
 
@@ -235,10 +272,15 @@ namespace HCF
             else
             {
                 mnCount = _db.fGetCount();
+                mnItem = _element.fGet();
+                msElement = _db.fGetCombination(mnItem);
+                mnMode = _element.fGetMode();
+                mbPrecise = _element.fGetPrecise();
             }
         }
+    
 
-        private void BtnSave_Click(object sender, EventArgs e)
+    private void BtnSave_Click(object sender, EventArgs e)
         {
             fSave();
         }
@@ -301,7 +343,6 @@ namespace HCF
 
         private void fMSub2_Load(object sender, EventArgs e)
         {
-            fReset();
             fraCalc2.Left = fraCalc1.Left;
             fraCalc2.Top = fraCalc1.Top;
             fraCalc3.Left = fraCalc1.Left;
@@ -313,6 +354,14 @@ namespace HCF
             fraCalc6.Left = fraCalc1.Left;
             fraCalc6.Top = fraCalc1.Top;
             fShowCalc(1);
+            if (mbPrecise)
+            {
+                fReset2();
+            }
+            else
+            {
+                fReset();
+            }
         }
     }
 }

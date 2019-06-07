@@ -33,6 +33,9 @@
             this.btnQNext = new System.Windows.Forms.Button();
             this.btnView = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnMode = new System.Windows.Forms.Button();
+            this.txtMode = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.lbl14 = new System.Windows.Forms.Label();
             this.lbl13 = new System.Windows.Forms.Label();
             this.lbl12 = new System.Windows.Forms.Label();
@@ -44,11 +47,13 @@
             this.lbl56 = new System.Windows.Forms.Label();
             this.lbl4 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.lblCount1 = new System.Windows.Forms.Label();
-            this.lblCount2 = new System.Windows.Forms.Label();
             this.lblCount3 = new System.Windows.Forms.Label();
+            this.lblCount2 = new System.Windows.Forms.Label();
+            this.lblCount1 = new System.Windows.Forms.Label();
+            this.panel3 = new System.Windows.Forms.Panel();
             this.lblCount4 = new System.Windows.Forms.Label();
+            this.btnOpinion = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -96,6 +101,9 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel1.Controls.Add(this.btnMode);
+            this.panel1.Controls.Add(this.txtMode);
+            this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.lbl14);
             this.panel1.Controls.Add(this.lbl13);
             this.panel1.Controls.Add(this.lbl12);
@@ -108,8 +116,37 @@
             this.panel1.Controls.Add(this.lbl4);
             this.panel1.Location = new System.Drawing.Point(229, 108);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(391, 233);
+            this.panel1.Size = new System.Drawing.Size(391, 317);
             this.panel1.TabIndex = 4;
+            // 
+            // btnMode
+            // 
+            this.btnMode.BackColor = System.Drawing.Color.Lime;
+            this.btnMode.Location = new System.Drawing.Point(153, 219);
+            this.btnMode.Name = "btnMode";
+            this.btnMode.Size = new System.Drawing.Size(47, 38);
+            this.btnMode.TabIndex = 12;
+            this.btnMode.Text = "OK";
+            this.btnMode.UseVisualStyleBackColor = false;
+            this.btnMode.Click += new System.EventHandler(this.BtnMode_Click);
+            // 
+            // txtMode
+            // 
+            this.txtMode.Location = new System.Drawing.Point(80, 219);
+            this.txtMode.Name = "txtMode";
+            this.txtMode.Size = new System.Drawing.Size(67, 20);
+            this.txtMode.TabIndex = 11;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Yellow;
+            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label1.Location = new System.Drawing.Point(21, 224);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(44, 15);
+            this.label1.TabIndex = 10;
+            this.label1.Text = "mode =";
             // 
             // lbl14
             // 
@@ -232,25 +269,16 @@
             this.panel2.Size = new System.Drawing.Size(94, 72);
             this.panel2.TabIndex = 5;
             // 
-            // panel3
+            // lblCount3
             // 
-            this.panel3.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.panel3.Controls.Add(this.lblCount4);
-            this.panel3.Location = new System.Drawing.Point(112, 253);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(94, 72);
-            this.panel3.TabIndex = 6;
-            // 
-            // lblCount1
-            // 
-            this.lblCount1.AutoSize = true;
-            this.lblCount1.BackColor = System.Drawing.Color.Yellow;
-            this.lblCount1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblCount1.Location = new System.Drawing.Point(3, 7);
-            this.lblCount1.Name = "lblCount1";
-            this.lblCount1.Size = new System.Drawing.Size(44, 15);
-            this.lblCount1.TabIndex = 1;
-            this.lblCount1.Text = "gas = 0";
+            this.lblCount3.AutoSize = true;
+            this.lblCount3.BackColor = System.Drawing.Color.Yellow;
+            this.lblCount3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblCount3.Location = new System.Drawing.Point(3, 37);
+            this.lblCount3.Name = "lblCount3";
+            this.lblCount3.Size = new System.Drawing.Size(52, 15);
+            this.lblCount3.TabIndex = 3;
+            this.lblCount3.Text = "metal = 0";
             // 
             // lblCount2
             // 
@@ -263,16 +291,25 @@
             this.lblCount2.TabIndex = 2;
             this.lblCount2.Text = "N/A = 0";
             // 
-            // lblCount3
+            // lblCount1
             // 
-            this.lblCount3.AutoSize = true;
-            this.lblCount3.BackColor = System.Drawing.Color.Yellow;
-            this.lblCount3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblCount3.Location = new System.Drawing.Point(3, 37);
-            this.lblCount3.Name = "lblCount3";
-            this.lblCount3.Size = new System.Drawing.Size(52, 15);
-            this.lblCount3.TabIndex = 3;
-            this.lblCount3.Text = "metal = 0";
+            this.lblCount1.AutoSize = true;
+            this.lblCount1.BackColor = System.Drawing.Color.Yellow;
+            this.lblCount1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblCount1.Location = new System.Drawing.Point(3, 7);
+            this.lblCount1.Name = "lblCount1";
+            this.lblCount1.Size = new System.Drawing.Size(44, 15);
+            this.lblCount1.TabIndex = 1;
+            this.lblCount1.Text = "gas = 0";
+            // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel3.Controls.Add(this.lblCount4);
+            this.panel3.Location = new System.Drawing.Point(112, 253);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(94, 72);
+            this.panel3.TabIndex = 6;
             // 
             // lblCount4
             // 
@@ -285,11 +322,46 @@
             this.lblCount4.TabIndex = 2;
             this.lblCount4.Text = "TRUE = 0";
             // 
+            // btnOpinion
+            // 
+            this.btnOpinion.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnOpinion.Location = new System.Drawing.Point(455, 22);
+            this.btnOpinion.Name = "btnOpinion";
+            this.btnOpinion.Size = new System.Drawing.Size(107, 69);
+            this.btnOpinion.TabIndex = 7;
+            this.btnOpinion.Text = "2ndOpinion";
+            this.btnOpinion.UseVisualStyleBackColor = false;
+            this.btnOpinion.Click += new System.EventHandler(this.Button1_Click);
+            // 
+            // listBox1
+            // 
+            this.listBox1.BackColor = System.Drawing.Color.Yellow;
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Items.AddRange(new object[] {
+            "1 = C",
+            "2 = N",
+            "3 = O",
+            "4 = F",
+            "5 = P",
+            "6 = S",
+            "7 = Cl",
+            "8 = Se",
+            "9 = Br",
+            "10 = I",
+            "11 = At",
+            "12 = Ts"});
+            this.listBox1.Location = new System.Drawing.Point(642, 108);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(94, 225);
+            this.listBox1.TabIndex = 8;
+            // 
             // fMSub1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.btnOpinion);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
@@ -299,6 +371,7 @@
             this.Controls.Add(this.lst1);
             this.Name = "fMSub1";
             this.Text = "DatabaseLookup";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FMSub1_FormClosing);
             this.Load += new System.EventHandler(this.FMSub1_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -333,5 +406,10 @@
         private System.Windows.Forms.Label lblCount1;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Label lblCount4;
+        private System.Windows.Forms.Button btnOpinion;
+        private System.Windows.Forms.Button btnMode;
+        private System.Windows.Forms.TextBox txtMode;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }

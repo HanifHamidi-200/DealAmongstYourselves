@@ -22,6 +22,7 @@ namespace HCF
         private List<String> _probability1 = new List<String> { null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null };
         private List<String> _probability2 = new List<String> { null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null };
         private List<String> _probability3 = new List<String> { null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null };
+        private List<int> _mode = new List<int> { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
         private int mnCount;
         private String msFile;
 
@@ -137,6 +138,11 @@ namespace HCF
                 for (int i = 1; i <= mnCount; i++)
                 {
                     file.WriteLine(_probability3);
+                }
+                for (int i = 1; i <= mnCount; i++)
+                {
+                    sLine = Convert.ToString(_mode[i - 1]);
+                    file.WriteLine(sLine);
                 }
                 file.WriteLine("END");
                 file.Close();
@@ -267,6 +273,11 @@ namespace HCF
                     {
                         _probability3[i - 1] = file.ReadLine();
                     }
+                    for (int i = 1; i <= mnCount; i++)
+                    {
+                        sLine = file.ReadLine();
+                        _mode[i - 1] = Convert.ToInt32(sLine);
+                    }
                     file.Close();
                 }
                 
@@ -355,6 +366,11 @@ namespace HCF
             return _probability3[nMode - 1];
         }
 
+        public int fGetMode(int nMode)
+        {
+            return _mode[nMode - 1];
+        }
+
         public void fSaveElement(int nMode,String sText1,String sText2,String sText3)
         {
             _ElementUsed[nMode - 1] = true;
@@ -377,6 +393,11 @@ namespace HCF
             _probability1[nMode - 1] = s1;
             _probability2[nMode - 1] = s2;
             _probability3[nMode - 1] = s3;
+        }
+
+        public void fSaveElement4(int nMode, int nMode2)
+        {
+            _mode[nMode - 1] = nMode2;
         }
     }
 }

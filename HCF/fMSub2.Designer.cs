@@ -112,13 +112,14 @@
             this.label18 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
             this.txtCalc21 = new System.Windows.Forms.TextBox();
-            this.btnAnswer = new System.Windows.Forms.Button();
             this.fraCalc1 = new System.Windows.Forms.Panel();
             this.txtAnswer1 = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
             this.txtCalc11 = new System.Windows.Forms.TextBox();
+            this.btnAnswer = new System.Windows.Forms.Button();
             this.lstCalc = new System.Windows.Forms.ListBox();
+            this.fra1 = new System.Windows.Forms.Panel();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -128,6 +129,7 @@
             this.fraCalc3.SuspendLayout();
             this.fraCalc2.SuspendLayout();
             this.fraCalc1.SuspendLayout();
+            this.fra1.SuspendLayout();
             this.SuspendLayout();
             // 
             // lblReaction
@@ -580,9 +582,9 @@
             // btnQNext
             // 
             this.btnQNext.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnQNext.Location = new System.Drawing.Point(638, -1);
+            this.btnQNext.Location = new System.Drawing.Point(19, 9);
             this.btnQNext.Name = "btnQNext";
-            this.btnQNext.Size = new System.Drawing.Size(100, 85);
+            this.btnQNext.Size = new System.Drawing.Size(70, 70);
             this.btnQNext.TabIndex = 42;
             this.btnQNext.Text = "&QNext";
             this.btnQNext.UseVisualStyleBackColor = false;
@@ -645,9 +647,9 @@
             // btnSelect
             // 
             this.btnSelect.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnSelect.Location = new System.Drawing.Point(852, -1);
+            this.btnSelect.Location = new System.Drawing.Point(171, 7);
             this.btnSelect.Name = "btnSelect";
-            this.btnSelect.Size = new System.Drawing.Size(100, 85);
+            this.btnSelect.Size = new System.Drawing.Size(70, 70);
             this.btnSelect.TabIndex = 50;
             this.btnSelect.Text = "SELECT";
             this.btnSelect.UseVisualStyleBackColor = false;
@@ -656,9 +658,9 @@
             // btnSave
             // 
             this.btnSave.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnSave.Location = new System.Drawing.Point(744, -1);
+            this.btnSave.Location = new System.Drawing.Point(95, 9);
             this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(100, 85);
+            this.btnSave.Size = new System.Drawing.Size(70, 70);
             this.btnSave.TabIndex = 51;
             this.btnSave.Text = "SAVE";
             this.btnSave.UseVisualStyleBackColor = false;
@@ -666,7 +668,7 @@
             // 
             // txtSelect
             // 
-            this.txtSelect.Location = new System.Drawing.Point(962, -1);
+            this.txtSelect.Location = new System.Drawing.Point(247, 9);
             this.txtSelect.Name = "txtSelect";
             this.txtSelect.Size = new System.Drawing.Size(87, 20);
             this.txtSelect.TabIndex = 52;
@@ -979,17 +981,6 @@
             this.txtCalc21.TabIndex = 29;
             this.txtCalc21.Text = "MASS*";
             // 
-            // btnAnswer
-            // 
-            this.btnAnswer.BackColor = System.Drawing.Color.Yellow;
-            this.btnAnswer.Location = new System.Drawing.Point(646, 29);
-            this.btnAnswer.Name = "btnAnswer";
-            this.btnAnswer.Size = new System.Drawing.Size(56, 62);
-            this.btnAnswer.TabIndex = 2;
-            this.btnAnswer.Text = "GO";
-            this.btnAnswer.UseVisualStyleBackColor = false;
-            this.btnAnswer.Click += new System.EventHandler(this.BtnAnswer_Click);
-            // 
             // fraCalc1
             // 
             this.fraCalc1.BackColor = System.Drawing.SystemColors.ActiveCaption;
@@ -1041,6 +1032,17 @@
             this.txtCalc11.TabIndex = 29;
             this.txtCalc11.Text = "SOMETHING";
             // 
+            // btnAnswer
+            // 
+            this.btnAnswer.BackColor = System.Drawing.Color.Yellow;
+            this.btnAnswer.Location = new System.Drawing.Point(646, 29);
+            this.btnAnswer.Name = "btnAnswer";
+            this.btnAnswer.Size = new System.Drawing.Size(56, 62);
+            this.btnAnswer.TabIndex = 2;
+            this.btnAnswer.Text = "GO";
+            this.btnAnswer.UseVisualStyleBackColor = false;
+            this.btnAnswer.Click += new System.EventHandler(this.BtnAnswer_Click);
+            // 
             // lstCalc
             // 
             this.lstCalc.FormattingEnabled = true;
@@ -1057,16 +1059,26 @@
             this.lstCalc.TabIndex = 0;
             this.lstCalc.Click += new System.EventHandler(this.LstCalc_Click);
             // 
+            // fra1
+            // 
+            this.fra1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.fra1.Controls.Add(this.btnQNext);
+            this.fra1.Controls.Add(this.btnSave);
+            this.fra1.Controls.Add(this.btnSelect);
+            this.fra1.Controls.Add(this.txtSelect);
+            this.fra1.Location = new System.Drawing.Point(623, 12);
+            this.fra1.Name = "fra1";
+            this.fra1.Size = new System.Drawing.Size(370, 85);
+            this.fra1.TabIndex = 55;
+            // 
             // fMSub2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1201, 691);
+            this.Controls.Add(this.fra1);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.lblMExists);
-            this.Controls.Add(this.txtSelect);
-            this.Controls.Add(this.btnSave);
-            this.Controls.Add(this.btnSelect);
             this.Controls.Add(this.lblReaction);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -1074,7 +1086,6 @@
             this.Controls.Add(this.lbl5);
             this.Controls.Add(this.txt4);
             this.Controls.Add(this.lbl4);
-            this.Controls.Add(this.btnQNext);
             this.Controls.Add(this.txt3);
             this.Controls.Add(this.lbl3);
             this.Controls.Add(this.txt2);
@@ -1101,6 +1112,8 @@
             this.fraCalc2.PerformLayout();
             this.fraCalc1.ResumeLayout(false);
             this.fraCalc1.PerformLayout();
+            this.fra1.ResumeLayout(false);
+            this.fra1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -1199,5 +1212,6 @@
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.TextBox txtCalc11;
         private System.Windows.Forms.ListBox lstCalc;
+        private System.Windows.Forms.Panel fra1;
     }
 }

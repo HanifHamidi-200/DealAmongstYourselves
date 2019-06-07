@@ -129,6 +129,12 @@
     <Compile Include="fMSub6.Designer.cs">
       <DependentUpon>fMSub6.cs</DependentUpon>
     </Compile>
+    <Compile Include="fOpinion2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fOpinion2.Designer.cs">
+      <DependentUpon>fOpinion2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -190,6 +196,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fMSub6.resx">
       <DependentUpon>fMSub6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fOpinion2.resx">
+      <DependentUpon>fOpinion2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
