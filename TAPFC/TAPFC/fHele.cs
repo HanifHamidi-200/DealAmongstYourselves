@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace TAPFC
 {
-    public partial class fSub3 : Form
+    public partial class fHele : Form
     {
-        public fSub3()
+        public fHele()
         {
             InitializeComponent();
+        }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -22,3 +22,17 @@ C:\Users\hanif\Desktop\SkraperTechnology\ARBC800\obj\Debug\ARBC800.csproj.CoreCo
 C:\Users\hanif\Desktop\SkraperTechnology\ARBC800\obj\Debug\ARBC800.exe
 C:\Users\hanif\Desktop\SkraperTechnology\ARBC800\obj\Debug\ARBC800.pdb
 C:\Users\hanif\Desktop\SkraperTechnology\ARBC800\obj\Debug\ARBC800.fSub3.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\bin\Debug\ARBC800.exe.config
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\bin\Debug\ARBC800.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\bin\Debug\ARBC800.pdb
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\obj\Debug\ARBC800.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\obj\Debug\ARBC800.Form1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\obj\Debug\ARBC800.fShow.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\obj\Debug\ARBC800.fSub1.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\obj\Debug\ARBC800.fSub2.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\obj\Debug\ARBC800.fSub3.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\obj\Debug\ARBC800.Properties.Resources.resources
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\obj\Debug\ARBC800.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\obj\Debug\ARBC800.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\obj\Debug\ARBC800.exe
+C:\Users\hanif\Desktop\DealAmongstYourselves\ARBC800\obj\Debug\ARBC800.pdb

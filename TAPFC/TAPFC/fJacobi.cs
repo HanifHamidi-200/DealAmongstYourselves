@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TAPFC
 {
-    public partial class fSub2 : Form
+    public partial class fJacobi : Form
     {
-        public fSub2()
+        public fJacobi()
         {
             InitializeComponent();
         }

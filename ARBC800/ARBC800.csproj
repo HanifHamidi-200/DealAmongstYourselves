@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>F rocket.ico</ApplicationIcon>
+    <ApplicationIcon>F cratesandpackages.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -123,6 +123,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="F cratesandpackages.ico" />
     <Content Include="F rocket.ico" />
     <Content Include="files\Data.txt" />
     <Content Include="files\Data2.txt" />

@@ -29,12 +29,19 @@
         private void InitializeComponent()
         {
             this.btnOpen1 = new System.Windows.Forms.Button();
-            this.btnOpen2 = new System.Windows.Forms.Button();
-            this.btnOpen4 = new System.Windows.Forms.Button();
-            this.btnOpen3 = new System.Windows.Forms.Button();
-            this.btnOpen6 = new System.Windows.Forms.Button();
-            this.btnOpen5 = new System.Windows.Forms.Button();
-            this.btnOpen7 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
+            this.button9 = new System.Windows.Forms.Button();
+            this.btnJacobi = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
+            this.button11 = new System.Windows.Forms.Button();
+            this.btnHele = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOpen1
@@ -42,89 +49,162 @@
             this.btnOpen1.BackColor = System.Drawing.Color.Yellow;
             this.btnOpen1.Location = new System.Drawing.Point(28, 43);
             this.btnOpen1.Name = "btnOpen1";
-            this.btnOpen1.Size = new System.Drawing.Size(213, 37);
+            this.btnOpen1.Size = new System.Drawing.Size(182, 37);
             this.btnOpen1.TabIndex = 0;
-            this.btnOpen1.Text = "TAPFC";
+            this.btnOpen1.Text = "SurfaceLayers";
             this.btnOpen1.UseVisualStyleBackColor = false;
-            this.btnOpen1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // btnOpen2
+            // button1
             // 
-            this.btnOpen2.BackColor = System.Drawing.Color.Yellow;
-            this.btnOpen2.Location = new System.Drawing.Point(28, 86);
-            this.btnOpen2.Name = "btnOpen2";
-            this.btnOpen2.Size = new System.Drawing.Size(213, 37);
-            this.btnOpen2.TabIndex = 1;
-            this.btnOpen2.Text = "JACOBI";
-            this.btnOpen2.UseVisualStyleBackColor = false;
-            this.btnOpen2.Click += new System.EventHandler(this.btnOpen2_Click);
+            this.button1.BackColor = System.Drawing.Color.Yellow;
+            this.button1.Location = new System.Drawing.Point(216, 43);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(182, 37);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "Transcendence";
+            this.button1.UseVisualStyleBackColor = false;
             // 
-            // btnOpen4
+            // button2
             // 
-            this.btnOpen4.BackColor = System.Drawing.Color.Yellow;
-            this.btnOpen4.Location = new System.Drawing.Point(278, 86);
-            this.btnOpen4.Name = "btnOpen4";
-            this.btnOpen4.Size = new System.Drawing.Size(213, 37);
-            this.btnOpen4.TabIndex = 3;
-            this.btnOpen4.Text = "WallopsOrbitalResearchFacility";
-            this.btnOpen4.UseVisualStyleBackColor = false;
-            this.btnOpen4.Click += new System.EventHandler(this.btnOpen4_Click);
+            this.button2.BackColor = System.Drawing.Color.Yellow;
+            this.button2.Location = new System.Drawing.Point(404, 43);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(182, 37);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "TAPFC";
+            this.button2.UseVisualStyleBackColor = false;
             // 
-            // btnOpen3
+            // button3
             // 
-            this.btnOpen3.BackColor = System.Drawing.Color.Yellow;
-            this.btnOpen3.Location = new System.Drawing.Point(278, 43);
-            this.btnOpen3.Name = "btnOpen3";
-            this.btnOpen3.Size = new System.Drawing.Size(213, 37);
-            this.btnOpen3.TabIndex = 2;
-            this.btnOpen3.Text = "Halfbuilt_Fullybuilt";
-            this.btnOpen3.UseVisualStyleBackColor = false;
-            this.btnOpen3.Click += new System.EventHandler(this.btnOpen3_Click);
+            this.button3.BackColor = System.Drawing.Color.Yellow;
+            this.button3.Location = new System.Drawing.Point(28, 86);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(182, 37);
+            this.button3.TabIndex = 3;
+            this.button3.Text = "SimplifiedRocket";
+            this.button3.UseVisualStyleBackColor = false;
             // 
-            // btnOpen6
+            // button4
             // 
-            this.btnOpen6.BackColor = System.Drawing.Color.Yellow;
-            this.btnOpen6.Location = new System.Drawing.Point(278, 172);
-            this.btnOpen6.Name = "btnOpen6";
-            this.btnOpen6.Size = new System.Drawing.Size(213, 37);
-            this.btnOpen6.TabIndex = 5;
-            this.btnOpen6.Text = "Sandandsalt";
-            this.btnOpen6.UseVisualStyleBackColor = false;
-            this.btnOpen6.Click += new System.EventHandler(this.btnOpen6_Click);
+            this.button4.BackColor = System.Drawing.Color.Yellow;
+            this.button4.Location = new System.Drawing.Point(28, 129);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(182, 37);
+            this.button4.TabIndex = 4;
+            this.button4.Text = "Pedestrianisations";
+            this.button4.UseVisualStyleBackColor = false;
             // 
-            // btnOpen5
+            // button5
             // 
-            this.btnOpen5.BackColor = System.Drawing.Color.Yellow;
-            this.btnOpen5.Location = new System.Drawing.Point(278, 129);
-            this.btnOpen5.Name = "btnOpen5";
-            this.btnOpen5.Size = new System.Drawing.Size(213, 37);
-            this.btnOpen5.TabIndex = 4;
-            this.btnOpen5.Text = "ScrewdriverPeople";
-            this.btnOpen5.UseVisualStyleBackColor = false;
-            this.btnOpen5.Click += new System.EventHandler(this.btnOpen5_Click);
+            this.button5.BackColor = System.Drawing.Color.Yellow;
+            this.button5.Location = new System.Drawing.Point(28, 172);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(182, 37);
+            this.button5.TabIndex = 5;
+            this.button5.Text = "BeneficialSin";
+            this.button5.UseVisualStyleBackColor = false;
             // 
-            // btnOpen7
+            // button6
             // 
-            this.btnOpen7.BackColor = System.Drawing.Color.Yellow;
-            this.btnOpen7.Location = new System.Drawing.Point(278, 215);
-            this.btnOpen7.Name = "btnOpen7";
-            this.btnOpen7.Size = new System.Drawing.Size(213, 37);
-            this.btnOpen7.TabIndex = 6;
-            this.btnOpen7.Text = "FrontPage";
-            this.btnOpen7.UseVisualStyleBackColor = false;
-            this.btnOpen7.Click += new System.EventHandler(this.btnOpen7_Click);
+            this.button6.BackColor = System.Drawing.Color.Yellow;
+            this.button6.Location = new System.Drawing.Point(28, 215);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(182, 37);
+            this.button6.TabIndex = 6;
+            this.button6.Text = "MosesSTRMM";
+            this.button6.UseVisualStyleBackColor = false;
+            // 
+            // button7
+            // 
+            this.button7.BackColor = System.Drawing.Color.Yellow;
+            this.button7.Location = new System.Drawing.Point(216, 215);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(182, 37);
+            this.button7.TabIndex = 7;
+            this.button7.Text = "VENTLXSystems";
+            this.button7.UseVisualStyleBackColor = false;
+            // 
+            // button8
+            // 
+            this.button8.BackColor = System.Drawing.Color.Yellow;
+            this.button8.Location = new System.Drawing.Point(28, 258);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(182, 37);
+            this.button8.TabIndex = 8;
+            this.button8.Text = "SANDEY";
+            this.button8.UseVisualStyleBackColor = false;
+            // 
+            // button9
+            // 
+            this.button9.BackColor = System.Drawing.Color.Yellow;
+            this.button9.Location = new System.Drawing.Point(404, 215);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(182, 37);
+            this.button9.TabIndex = 9;
+            this.button9.Text = "CARNEGSystems";
+            this.button9.UseVisualStyleBackColor = false;
+            // 
+            // btnJacobi
+            // 
+            this.btnJacobi.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnJacobi.Location = new System.Drawing.Point(630, 43);
+            this.btnJacobi.Name = "btnJacobi";
+            this.btnJacobi.Size = new System.Drawing.Size(90, 77);
+            this.btnJacobi.TabIndex = 10;
+            this.btnJacobi.Text = "JACOBI";
+            this.btnJacobi.UseVisualStyleBackColor = false;
+            this.btnJacobi.Click += new System.EventHandler(this.BtnJacobi_Click);
+            // 
+            // button10
+            // 
+            this.button10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.button10.Location = new System.Drawing.Point(726, 43);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(90, 77);
+            this.button10.TabIndex = 11;
+            this.button10.Text = "BreedingNet";
+            this.button10.UseVisualStyleBackColor = false;
+            // 
+            // button11
+            // 
+            this.button11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.button11.Location = new System.Drawing.Point(822, 43);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(90, 77);
+            this.button11.TabIndex = 12;
+            this.button11.Text = "BLSHOP\r\nWoodwork";
+            this.button11.UseVisualStyleBackColor = false;
+            // 
+            // btnHele
+            // 
+            this.btnHele.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnHele.Location = new System.Drawing.Point(918, 43);
+            this.btnHele.Name = "btnHele";
+            this.btnHele.Size = new System.Drawing.Size(90, 77);
+            this.btnHele.TabIndex = 13;
+            this.btnHele.Text = "HELE";
+            this.btnHele.UseVisualStyleBackColor = false;
+            this.btnHele.Click += new System.EventHandler(this.BtnHele_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(514, 288);
-            this.Controls.Add(this.btnOpen7);
-            this.Controls.Add(this.btnOpen6);
-            this.Controls.Add(this.btnOpen5);
-            this.Controls.Add(this.btnOpen4);
-            this.Controls.Add(this.btnOpen3);
-            this.Controls.Add(this.btnOpen2);
+            this.BackColor = System.Drawing.Color.Green;
+            this.ClientSize = new System.Drawing.Size(1021, 347);
+            this.Controls.Add(this.btnHele);
+            this.Controls.Add(this.button11);
+            this.Controls.Add(this.button10);
+            this.Controls.Add(this.btnJacobi);
+            this.Controls.Add(this.button9);
+            this.Controls.Add(this.button8);
+            this.Controls.Add(this.button7);
+            this.Controls.Add(this.button6);
+            this.Controls.Add(this.button5);
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnOpen1);
             this.Name = "Form1";
             this.Text = "TAPFC";
@@ -136,12 +216,19 @@
         #endregion
 
         private System.Windows.Forms.Button btnOpen1;
-        private System.Windows.Forms.Button btnOpen2;
-        private System.Windows.Forms.Button btnOpen4;
-        private System.Windows.Forms.Button btnOpen3;
-        private System.Windows.Forms.Button btnOpen6;
-        private System.Windows.Forms.Button btnOpen5;
-        private System.Windows.Forms.Button btnOpen7;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button button9;
+        private System.Windows.Forms.Button btnJacobi;
+        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button button11;
+        private System.Windows.Forms.Button btnHele;
     }
 }
 
