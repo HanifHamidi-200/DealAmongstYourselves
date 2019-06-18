@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\BUILDW\bin\Debug\BUILDW.exe.config
+C:\Users\hanif\source\repos\BUILDW\bin\Debug\BUILDW.exe
+C:\Users\hanif\source\repos\BUILDW\bin\Debug\BUILDW.pdb
+C:\Users\hanif\source\repos\BUILDW\obj\Debug\BUILDW.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\BUILDW\obj\Debug\BUILDW.Form1.resources
+C:\Users\hanif\source\repos\BUILDW\obj\Debug\BUILDW.Properties.Resources.resources
+C:\Users\hanif\source\repos\BUILDW\obj\Debug\BUILDW.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\BUILDW\obj\Debug\BUILDW.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\BUILDW\obj\Debug\BUILDW.exe
+C:\Users\hanif\source\repos\BUILDW\obj\Debug\BUILDW.pdb

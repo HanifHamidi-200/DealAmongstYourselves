@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\HOAXH\bin\Debug\HOAXH.exe.config
+C:\Users\hanif\source\repos\HOAXH\bin\Debug\HOAXH.exe
+C:\Users\hanif\source\repos\HOAXH\bin\Debug\HOAXH.pdb
+C:\Users\hanif\source\repos\HOAXH\obj\Debug\HOAXH.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\HOAXH\obj\Debug\HOAXH.Form1.resources
+C:\Users\hanif\source\repos\HOAXH\obj\Debug\HOAXH.Properties.Resources.resources
+C:\Users\hanif\source\repos\HOAXH\obj\Debug\HOAXH.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\HOAXH\obj\Debug\HOAXH.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\HOAXH\obj\Debug\HOAXH.exe
+C:\Users\hanif\source\repos\HOAXH\obj\Debug\HOAXH.pdb

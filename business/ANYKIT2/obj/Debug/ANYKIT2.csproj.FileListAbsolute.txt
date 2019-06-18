@@ -1,0 +1,12 @@
+C:\Users\hanif\source\repos\ANYKIT2\bin\Debug\ANYKIT2.exe.config
+C:\Users\hanif\source\repos\ANYKIT2\bin\Debug\ANYKIT2.exe
+C:\Users\hanif\source\repos\ANYKIT2\bin\Debug\ANYKIT2.pdb
+C:\Users\hanif\source\repos\ANYKIT2\obj\Debug\ANYKIT2.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\ANYKIT2\obj\Debug\ANYKIT2.Form1.resources
+C:\Users\hanif\source\repos\ANYKIT2\obj\Debug\ANYKIT2.Properties.Resources.resources
+C:\Users\hanif\source\repos\ANYKIT2\obj\Debug\ANYKIT2.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\ANYKIT2\obj\Debug\ANYKIT2.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\ANYKIT2\obj\Debug\ANYKIT2.exe
+C:\Users\hanif\source\repos\ANYKIT2\obj\Debug\ANYKIT2.pdb
+C:\Users\hanif\source\repos\ANYKIT2\obj\Debug\ANYKIT2.fSub1.resources
+C:\Users\hanif\source\repos\ANYKIT2\obj\Debug\ANYKIT2.fSub2.resources

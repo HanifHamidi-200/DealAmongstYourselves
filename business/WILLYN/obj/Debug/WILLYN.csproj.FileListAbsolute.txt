@@ -1,0 +1,12 @@
+C:\Users\hanif\source\repos\WILLYN\bin\Debug\WILLYN.exe.config
+C:\Users\hanif\source\repos\WILLYN\bin\Debug\WILLYN.exe
+C:\Users\hanif\source\repos\WILLYN\bin\Debug\WILLYN.pdb
+C:\Users\hanif\source\repos\WILLYN\obj\Debug\WILLYN.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\WILLYN\obj\Debug\WILLYN.Form1.resources
+C:\Users\hanif\source\repos\WILLYN\obj\Debug\WILLYN.Properties.Resources.resources
+C:\Users\hanif\source\repos\WILLYN\obj\Debug\WILLYN.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\WILLYN\obj\Debug\WILLYN.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\WILLYN\obj\Debug\WILLYN.exe
+C:\Users\hanif\source\repos\WILLYN\obj\Debug\WILLYN.pdb
+C:\Users\hanif\source\repos\WILLYN\obj\Debug\WILLYN.fSub2.resources
+C:\Users\hanif\source\repos\WILLYN\obj\Debug\WILLYN.fSub3.resources

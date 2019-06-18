@@ -1,0 +1,9 @@
+C:\Users\hanif\source\repos\CHERN2\bin\Debug\CHERN2.exe.config
+C:\Users\hanif\source\repos\CHERN2\bin\Debug\CHERN2.exe
+C:\Users\hanif\source\repos\CHERN2\bin\Debug\CHERN2.pdb
+C:\Users\hanif\source\repos\CHERN2\obj\Debug\CHERN2.Form1.resources
+C:\Users\hanif\source\repos\CHERN2\obj\Debug\CHERN2.Properties.Resources.resources
+C:\Users\hanif\source\repos\CHERN2\obj\Debug\CHERN2.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CHERN2\obj\Debug\CHERN2.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CHERN2\obj\Debug\CHERN2.exe
+C:\Users\hanif\source\repos\CHERN2\obj\Debug\CHERN2.pdb

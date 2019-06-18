@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\HNUMB\bin\Debug\HNUMB.exe.config
+C:\Users\hanif\source\repos\HNUMB\bin\Debug\HNUMB.exe
+C:\Users\hanif\source\repos\HNUMB\bin\Debug\HNUMB.pdb
+C:\Users\hanif\source\repos\HNUMB\obj\Debug\HNUMB.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\HNUMB\obj\Debug\HNUMB.Form1.resources
+C:\Users\hanif\source\repos\HNUMB\obj\Debug\HNUMB.Properties.Resources.resources
+C:\Users\hanif\source\repos\HNUMB\obj\Debug\HNUMB.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\HNUMB\obj\Debug\HNUMB.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\HNUMB\obj\Debug\HNUMB.exe
+C:\Users\hanif\source\repos\HNUMB\obj\Debug\HNUMB.pdb

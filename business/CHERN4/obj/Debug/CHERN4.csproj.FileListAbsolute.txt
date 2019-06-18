@@ -1,0 +1,9 @@
+C:\Users\hanif\source\repos\CHERN4\bin\Debug\CHERN4.exe.config
+C:\Users\hanif\source\repos\CHERN4\bin\Debug\CHERN4.exe
+C:\Users\hanif\source\repos\CHERN4\bin\Debug\CHERN4.pdb
+C:\Users\hanif\source\repos\CHERN4\obj\Debug\CHERN4.Form1.resources
+C:\Users\hanif\source\repos\CHERN4\obj\Debug\CHERN4.Properties.Resources.resources
+C:\Users\hanif\source\repos\CHERN4\obj\Debug\CHERN4.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CHERN4\obj\Debug\CHERN4.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CHERN4\obj\Debug\CHERN4.exe
+C:\Users\hanif\source\repos\CHERN4\obj\Debug\CHERN4.pdb

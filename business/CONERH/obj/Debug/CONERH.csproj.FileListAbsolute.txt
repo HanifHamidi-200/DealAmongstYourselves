@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\CONERH\bin\Debug\CONERH.exe.config
+C:\Users\hanif\source\repos\CONERH\bin\Debug\CONERH.exe
+C:\Users\hanif\source\repos\CONERH\bin\Debug\CONERH.pdb
+C:\Users\hanif\source\repos\CONERH\obj\Debug\CONERH.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\CONERH\obj\Debug\CONERH.Form1.resources
+C:\Users\hanif\source\repos\CONERH\obj\Debug\CONERH.Properties.Resources.resources
+C:\Users\hanif\source\repos\CONERH\obj\Debug\CONERH.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CONERH\obj\Debug\CONERH.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CONERH\obj\Debug\CONERH.exe
+C:\Users\hanif\source\repos\CONERH\obj\Debug\CONERH.pdb

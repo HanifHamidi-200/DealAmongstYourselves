@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\CHERN5\bin\Debug\CHERN5.exe.config
+C:\Users\hanif\source\repos\CHERN5\bin\Debug\CHERN5.exe
+C:\Users\hanif\source\repos\CHERN5\bin\Debug\CHERN5.pdb
+C:\Users\hanif\source\repos\CHERN5\obj\Debug\CHERN5.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\CHERN5\obj\Debug\CHERN5.Form1.resources
+C:\Users\hanif\source\repos\CHERN5\obj\Debug\CHERN5.Properties.Resources.resources
+C:\Users\hanif\source\repos\CHERN5\obj\Debug\CHERN5.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CHERN5\obj\Debug\CHERN5.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CHERN5\obj\Debug\CHERN5.exe
+C:\Users\hanif\source\repos\CHERN5\obj\Debug\CHERN5.pdb

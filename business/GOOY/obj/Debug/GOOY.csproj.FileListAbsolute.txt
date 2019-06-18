@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\GOOY\bin\Debug\GOOY.exe.config
+C:\Users\hanif\source\repos\GOOY\bin\Debug\GOOY.exe
+C:\Users\hanif\source\repos\GOOY\bin\Debug\GOOY.pdb
+C:\Users\hanif\source\repos\GOOY\obj\Debug\GOOY.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\GOOY\obj\Debug\GOOY.Form1.resources
+C:\Users\hanif\source\repos\GOOY\obj\Debug\GOOY.Properties.Resources.resources
+C:\Users\hanif\source\repos\GOOY\obj\Debug\GOOY.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\GOOY\obj\Debug\GOOY.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\GOOY\obj\Debug\GOOY.exe
+C:\Users\hanif\source\repos\GOOY\obj\Debug\GOOY.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\GUESTH\obj\Debug\GUESTH.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\GUESTH\obj\Debug\GUESTH.Form1.resources
+C:\Users\hanif\source\repos\GUESTH\obj\Debug\GUESTH.Properties.Resources.resources
+C:\Users\hanif\source\repos\GUESTH\obj\Debug\GUESTH.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\GUESTH\obj\Debug\GUESTH.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\GUESTH\bin\Debug\GUESTH.exe.config
+C:\Users\hanif\source\repos\GUESTH\bin\Debug\GUESTH.exe
+C:\Users\hanif\source\repos\GUESTH\bin\Debug\GUESTH.pdb
+C:\Users\hanif\source\repos\GUESTH\obj\Debug\GUESTH.exe
+C:\Users\hanif\source\repos\GUESTH\obj\Debug\GUESTH.pdb

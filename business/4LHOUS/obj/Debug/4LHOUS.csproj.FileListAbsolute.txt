@@ -1,0 +1,13 @@
+C:\Users\hanif\source\repos\4LHOUS\bin\Debug\4LHOUS.exe.config
+C:\Users\hanif\source\repos\4LHOUS\bin\Debug\4LHOUS.exe
+C:\Users\hanif\source\repos\4LHOUS\bin\Debug\4LHOUS.pdb
+C:\Users\hanif\source\repos\4LHOUS\obj\Debug\4LHOUS.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\4LHOUS\obj\Debug\_4LHOUS.Form1.resources
+C:\Users\hanif\source\repos\4LHOUS\obj\Debug\_4LHOUS.fSub2.resources
+C:\Users\hanif\source\repos\4LHOUS\obj\Debug\_4LHOUS.fSub6.resources
+C:\Users\hanif\source\repos\4LHOUS\obj\Debug\_4LHOUS.fSub7.resources
+C:\Users\hanif\source\repos\4LHOUS\obj\Debug\_4LHOUS.Properties.Resources.resources
+C:\Users\hanif\source\repos\4LHOUS\obj\Debug\4LHOUS.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\4LHOUS\obj\Debug\4LHOUS.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\4LHOUS\obj\Debug\4LHOUS.exe
+C:\Users\hanif\source\repos\4LHOUS\obj\Debug\4LHOUS.pdb

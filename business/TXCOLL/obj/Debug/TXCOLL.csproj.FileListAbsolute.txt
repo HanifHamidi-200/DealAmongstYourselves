@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\TXCOLL\bin\Debug\TXCOLL.exe.config
+C:\Users\hanif\source\repos\TXCOLL\bin\Debug\TXCOLL.exe
+C:\Users\hanif\source\repos\TXCOLL\bin\Debug\TXCOLL.pdb
+C:\Users\hanif\source\repos\TXCOLL\obj\Debug\TXCOLL.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\TXCOLL\obj\Debug\TXCOLL.Form1.resources
+C:\Users\hanif\source\repos\TXCOLL\obj\Debug\TXCOLL.Properties.Resources.resources
+C:\Users\hanif\source\repos\TXCOLL\obj\Debug\TXCOLL.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\TXCOLL\obj\Debug\TXCOLL.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\TXCOLL\obj\Debug\TXCOLL.exe
+C:\Users\hanif\source\repos\TXCOLL\obj\Debug\TXCOLL.pdb
