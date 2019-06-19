@@ -1,0 +1,9 @@
+C:\Users\hanif\source\repos\DSETUP\bin\Debug\DSETUP.exe.config
+C:\Users\hanif\source\repos\DSETUP\bin\Debug\DSETUP.exe
+C:\Users\hanif\source\repos\DSETUP\bin\Debug\DSETUP.pdb
+C:\Users\hanif\source\repos\DSETUP\obj\Debug\DSETUP.Form1.resources
+C:\Users\hanif\source\repos\DSETUP\obj\Debug\DSETUP.Properties.Resources.resources
+C:\Users\hanif\source\repos\DSETUP\obj\Debug\DSETUP.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\DSETUP\obj\Debug\DSETUP.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\DSETUP\obj\Debug\DSETUP.exe
+C:\Users\hanif\source\repos\DSETUP\obj\Debug\DSETUP.pdb

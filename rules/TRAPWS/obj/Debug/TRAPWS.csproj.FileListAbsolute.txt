@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\TRAPWS\bin\Debug\TRAPWS.exe.config
+C:\Users\hanif\source\repos\TRAPWS\bin\Debug\TRAPWS.exe
+C:\Users\hanif\source\repos\TRAPWS\bin\Debug\TRAPWS.pdb
+C:\Users\hanif\source\repos\TRAPWS\obj\Debug\TRAPWS.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\TRAPWS\obj\Debug\TRAPWS.Form1.resources
+C:\Users\hanif\source\repos\TRAPWS\obj\Debug\TRAPWS.Properties.Resources.resources
+C:\Users\hanif\source\repos\TRAPWS\obj\Debug\TRAPWS.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\TRAPWS\obj\Debug\TRAPWS.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\TRAPWS\obj\Debug\TRAPWS.exe
+C:\Users\hanif\source\repos\TRAPWS\obj\Debug\TRAPWS.pdb

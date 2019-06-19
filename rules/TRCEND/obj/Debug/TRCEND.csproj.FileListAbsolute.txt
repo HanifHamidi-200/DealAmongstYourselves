@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\TRCEND\bin\Debug\TRCEND.exe.config
+C:\Users\hanif\source\repos\TRCEND\bin\Debug\TRCEND.exe
+C:\Users\hanif\source\repos\TRCEND\bin\Debug\TRCEND.pdb
+C:\Users\hanif\source\repos\TRCEND\obj\Debug\TRCEND.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\TRCEND\obj\Debug\TRCEND.Form1.resources
+C:\Users\hanif\source\repos\TRCEND\obj\Debug\TRCEND.Properties.Resources.resources
+C:\Users\hanif\source\repos\TRCEND\obj\Debug\TRCEND.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\TRCEND\obj\Debug\TRCEND.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\TRCEND\obj\Debug\TRCEND.exe
+C:\Users\hanif\source\repos\TRCEND\obj\Debug\TRCEND.pdb

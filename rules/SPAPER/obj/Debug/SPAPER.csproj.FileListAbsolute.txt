@@ -1,0 +1,9 @@
+C:\Users\hanif\source\repos\SPAPER\bin\Debug\SPAPER.exe.config
+C:\Users\hanif\source\repos\SPAPER\bin\Debug\SPAPER.exe
+C:\Users\hanif\source\repos\SPAPER\bin\Debug\SPAPER.pdb
+C:\Users\hanif\source\repos\SPAPER\obj\Debug\SPAPER.Form1.resources
+C:\Users\hanif\source\repos\SPAPER\obj\Debug\SPAPER.Properties.Resources.resources
+C:\Users\hanif\source\repos\SPAPER\obj\Debug\SPAPER.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\SPAPER\obj\Debug\SPAPER.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\SPAPER\obj\Debug\SPAPER.exe
+C:\Users\hanif\source\repos\SPAPER\obj\Debug\SPAPER.pdb

@@ -1,0 +1,9 @@
+C:\Users\hanif\source\repos\PSHIP2\bin\Debug\PSHIP2.exe.config
+C:\Users\hanif\source\repos\PSHIP2\bin\Debug\PSHIP2.exe
+C:\Users\hanif\source\repos\PSHIP2\bin\Debug\PSHIP2.pdb
+C:\Users\hanif\source\repos\PSHIP2\obj\Debug\PSHIP2.Form1.resources
+C:\Users\hanif\source\repos\PSHIP2\obj\Debug\PSHIP2.Properties.Resources.resources
+C:\Users\hanif\source\repos\PSHIP2\obj\Debug\PSHIP2.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\PSHIP2\obj\Debug\PSHIP2.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\PSHIP2\obj\Debug\PSHIP2.exe
+C:\Users\hanif\source\repos\PSHIP2\obj\Debug\PSHIP2.pdb

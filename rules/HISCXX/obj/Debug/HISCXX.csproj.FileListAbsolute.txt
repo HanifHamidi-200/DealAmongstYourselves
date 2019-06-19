@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\HISCXX\bin\Debug\HISCXX.exe.config
+C:\Users\hanif\source\repos\HISCXX\bin\Debug\HISCXX.exe
+C:\Users\hanif\source\repos\HISCXX\bin\Debug\HISCXX.pdb
+C:\Users\hanif\source\repos\HISCXX\obj\Debug\HISCXX.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\HISCXX\obj\Debug\HISCXX.Form1.resources
+C:\Users\hanif\source\repos\HISCXX\obj\Debug\HISCXX.Properties.Resources.resources
+C:\Users\hanif\source\repos\HISCXX\obj\Debug\HISCXX.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\HISCXX\obj\Debug\HISCXX.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\HISCXX\obj\Debug\HISCXX.exe
+C:\Users\hanif\source\repos\HISCXX\obj\Debug\HISCXX.pdb

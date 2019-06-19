@@ -1,0 +1,9 @@
+C:\Users\hanif\source\repos\CUALI\bin\Debug\CUALI.exe.config
+C:\Users\hanif\source\repos\CUALI\bin\Debug\CUALI.exe
+C:\Users\hanif\source\repos\CUALI\bin\Debug\CUALI.pdb
+C:\Users\hanif\source\repos\CUALI\obj\Debug\CUALI.Form1.resources
+C:\Users\hanif\source\repos\CUALI\obj\Debug\CUALI.Properties.Resources.resources
+C:\Users\hanif\source\repos\CUALI\obj\Debug\CUALI.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CUALI\obj\Debug\CUALI.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CUALI\obj\Debug\CUALI.exe
+C:\Users\hanif\source\repos\CUALI\obj\Debug\CUALI.pdb
