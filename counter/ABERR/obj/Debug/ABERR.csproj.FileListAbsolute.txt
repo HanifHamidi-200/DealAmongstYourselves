@@ -1,0 +1,9 @@
+C:\Users\hanif\source\repos\ABERR\bin\Debug\ABERR.exe.config
+C:\Users\hanif\source\repos\ABERR\bin\Debug\ABERR.exe
+C:\Users\hanif\source\repos\ABERR\bin\Debug\ABERR.pdb
+C:\Users\hanif\source\repos\ABERR\obj\Debug\ABERR.Form1.resources
+C:\Users\hanif\source\repos\ABERR\obj\Debug\ABERR.Properties.Resources.resources
+C:\Users\hanif\source\repos\ABERR\obj\Debug\ABERR.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\ABERR\obj\Debug\ABERR.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\ABERR\obj\Debug\ABERR.exe
+C:\Users\hanif\source\repos\ABERR\obj\Debug\ABERR.pdb

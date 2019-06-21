@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\YHAND\bin\Debug\YHAND.exe.config
+C:\Users\hanif\source\repos\YHAND\bin\Debug\YHAND.exe
+C:\Users\hanif\source\repos\YHAND\bin\Debug\YHAND.pdb
+C:\Users\hanif\source\repos\YHAND\obj\Debug\YHAND.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\YHAND\obj\Debug\YHAND.Form1.resources
+C:\Users\hanif\source\repos\YHAND\obj\Debug\YHAND.Properties.Resources.resources
+C:\Users\hanif\source\repos\YHAND\obj\Debug\YHAND.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\YHAND\obj\Debug\YHAND.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\YHAND\obj\Debug\YHAND.exe
+C:\Users\hanif\source\repos\YHAND\obj\Debug\YHAND.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\PII20\bin\Debug\PII20.exe.config
+C:\Users\hanif\source\repos\PII20\bin\Debug\PII20.exe
+C:\Users\hanif\source\repos\PII20\bin\Debug\PII20.pdb
+C:\Users\hanif\source\repos\PII20\obj\Debug\PII20.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\PII20\obj\Debug\PII20.Form1.resources
+C:\Users\hanif\source\repos\PII20\obj\Debug\PII20.Properties.Resources.resources
+C:\Users\hanif\source\repos\PII20\obj\Debug\PII20.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\PII20\obj\Debug\PII20.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\PII20\obj\Debug\PII20.exe
+C:\Users\hanif\source\repos\PII20\obj\Debug\PII20.pdb

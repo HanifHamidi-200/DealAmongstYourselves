@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\BRED\bin\Debug\BRED.exe.config
+C:\Users\hanif\source\repos\BRED\bin\Debug\BRED.exe
+C:\Users\hanif\source\repos\BRED\bin\Debug\BRED.pdb
+C:\Users\hanif\source\repos\BRED\obj\Debug\BRED.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\BRED\obj\Debug\BRED.Form1.resources
+C:\Users\hanif\source\repos\BRED\obj\Debug\BRED.Properties.Resources.resources
+C:\Users\hanif\source\repos\BRED\obj\Debug\BRED.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\BRED\obj\Debug\BRED.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\BRED\obj\Debug\BRED.exe
+C:\Users\hanif\source\repos\BRED\obj\Debug\BRED.pdb

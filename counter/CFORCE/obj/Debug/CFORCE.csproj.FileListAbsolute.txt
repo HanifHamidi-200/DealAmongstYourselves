@@ -1,0 +1,9 @@
+C:\Users\hanif\source\repos\CFORCE\bin\Debug\CFORCE.exe.config
+C:\Users\hanif\source\repos\CFORCE\bin\Debug\CFORCE.exe
+C:\Users\hanif\source\repos\CFORCE\bin\Debug\CFORCE.pdb
+C:\Users\hanif\source\repos\CFORCE\obj\Debug\CFORCE.Form1.resources
+C:\Users\hanif\source\repos\CFORCE\obj\Debug\CFORCE.Properties.Resources.resources
+C:\Users\hanif\source\repos\CFORCE\obj\Debug\CFORCE.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CFORCE\obj\Debug\CFORCE.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CFORCE\obj\Debug\CFORCE.exe
+C:\Users\hanif\source\repos\CFORCE\obj\Debug\CFORCE.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\TDESC\bin\Debug\TDESC.exe.config
+C:\Users\hanif\source\repos\TDESC\bin\Debug\TDESC.exe
+C:\Users\hanif\source\repos\TDESC\bin\Debug\TDESC.pdb
+C:\Users\hanif\source\repos\TDESC\obj\Debug\TDESC.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\TDESC\obj\Debug\TDESC.Form1.resources
+C:\Users\hanif\source\repos\TDESC\obj\Debug\TDESC.Properties.Resources.resources
+C:\Users\hanif\source\repos\TDESC\obj\Debug\TDESC.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\TDESC\obj\Debug\TDESC.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\TDESC\obj\Debug\TDESC.exe
+C:\Users\hanif\source\repos\TDESC\obj\Debug\TDESC.pdb
